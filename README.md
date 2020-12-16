@@ -1,8 +1,8 @@
 # download.unity.com
-# 为什么创建该仓库？
+## 为什么创建该仓库？
 > unity3d.com/download  404  
 
-# Unity版本列表.定期从官网拉取
+## Unity版本列表.定期从官网拉取
 > 2020
 > 2019
 > 2018
@@ -11,7 +11,12 @@
 > 4.x
 > 3.x
 
+## Python Library
 
+```bash
+    pip install bs4
+    pip install lxml
+```
 
 ## Unity 2020.x
 ### Unity Version :Unity 2020.2.0	Publish Date :15 Dec, 2020
