@@ -19,8 +19,10 @@ def decode(text):
         "version-2020",
         "version-2019",
         "version-2018",
+        "version-2017",
         "version-5",
         "version-4",
+        "version-3",
     ]:
 
         result[version] = []
@@ -43,7 +45,7 @@ def decode(text):
                 # print(version_build_date[0].get_text())
 
             # Unity Hub
-            unityhub = version_ele.select("a[class='btn bg-gr left fw5 00 unityhub']")
+            unityhub = version_ele.select("a[class='btn bg-gr left fw500 unityhub']")
             if len(unityhub) > 0:
                 version_value['unity_hub_url'] = unityhub[0]["href"]
 
