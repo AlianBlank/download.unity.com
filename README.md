@@ -1119,6 +1119,90 @@
 
 
 ## Unity 2019.x
+### Unity Version :Unity 2019.4.28	Publish Date :3 Jun, 2021
+> Unity Hub :unityhub://2019.4.28f1/1381962e9d08
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=64938&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/1381962e9d08/Windows64EditorInstaller/UnitySetup64-2019.4.28f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/1381962e9d08/builtin_shaders-2019.4.28f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/1381962e9d08/Unity-2019.4.28f1.torrent
+
+### Mac 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=64938&os=Mac
+
+> Unity Editor   https://download.unity3d.com/download_unity/1381962e9d08/UnityDownloadAssistant.dmg
+
+> Built in shaders   https://download.unity3d.com/download_unity/1381962e9d08/builtin_shaders-2019.4.28f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/1381962e9d08/Unity-2019.4.28f1.torrent
+
+
+### Unity Version :Unity 2019.4.27	Publish Date :27 May, 2021
+> Unity Hub :unityhub://2019.4.27f1/23dc10685eb4
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=64914&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/23dc10685eb4/Windows64EditorInstaller/UnitySetup64-2019.4.27f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/23dc10685eb4/builtin_shaders-2019.4.27f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/23dc10685eb4/Unity-2019.4.27f1.torrent
+
+### Mac 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=64914&os=Mac
+
+> Unity Editor   https://download.unity3d.com/download_unity/23dc10685eb4/UnityDownloadAssistant.dmg
+
+> Built in shaders   https://download.unity3d.com/download_unity/23dc10685eb4/builtin_shaders-2019.4.27f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/23dc10685eb4/Unity-2019.4.27f1.torrent
+
+
+### Unity Version :Unity 2019.4.26	Publish Date :6 May, 2021
+> Unity Hub :unityhub://2019.4.26f1/e0392c6b2363
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=64741&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/e0392c6b2363/Windows64EditorInstaller/UnitySetup64-2019.4.26f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/e0392c6b2363/builtin_shaders-2019.4.26f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/e0392c6b2363/Unity-2019.4.26f1.torrent
+
+### Mac 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=64741&os=Mac
+
+> Unity Editor   https://download.unity3d.com/download_unity/e0392c6b2363/UnityDownloadAssistant.dmg
+
+> Built in shaders   https://download.unity3d.com/download_unity/e0392c6b2363/builtin_shaders-2019.4.26f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/e0392c6b2363/Unity-2019.4.26f1.torrent
+
+
 ### Unity Version :Unity 2019.4.25	Publish Date :23 Apr, 2021
 > Unity Hub :unityhub://2019.4.25f1/01a0494af254
 
