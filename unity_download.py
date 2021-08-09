@@ -2,11 +2,12 @@ from bs4 import BeautifulSoup
 import urllib.request
 import ssl
 
+
 # download web page
 def download_web():
     context = ssl._create_unverified_context()
     url = 'https://unity3d.com/get-unity/download/archive'
-    html = urllib.request.urlopen(url,context=context).read()
+    html = urllib.request.urlopen(url, context=context).read()
     return html
 
 
