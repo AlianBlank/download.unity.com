@@ -29,6 +29,314 @@
 
 ## Unity 2021.x
 ### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.3.2f1/d6360bedb9a0
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65602&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/d6360bedb9a0/Windows64EditorInstaller/UnitySetup64-2021.3.2f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/d6360bedb9a0/builtin_shaders-2021.3.2f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/d6360bedb9a0/Unity-2021.3.2f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/d6360bedb9a0/UnitySetup-2021.3.2f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.3.1f1/3b70a0754835
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65584&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/3b70a0754835/Windows64EditorInstaller/UnitySetup64-2021.3.1f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/3b70a0754835/builtin_shaders-2021.3.1f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/3b70a0754835/Unity-2021.3.1f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/3b70a0754835/UnitySetup-2021.3.1f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.3.0f1/6eacc8284459
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65561&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/6eacc8284459/Windows64EditorInstaller/UnitySetup64-2021.3.0f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/6eacc8284459/builtin_shaders-2021.3.0f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/6eacc8284459/Unity-2021.3.0f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/6eacc8284459/UnitySetup-2021.3.0f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.19f1/602ecdbb2fb0
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65552&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/602ecdbb2fb0/Windows64EditorInstaller/UnitySetup64-2021.2.19f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/602ecdbb2fb0/builtin_shaders-2021.2.19f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/602ecdbb2fb0/Unity-2021.2.19f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/602ecdbb2fb0/UnitySetup-2021.2.19f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.18f1/0c6e675195cf
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65549&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/0c6e675195cf/Windows64EditorInstaller/UnitySetup64-2021.2.18f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/0c6e675195cf/builtin_shaders-2021.2.18f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/0c6e675195cf/Unity-2021.2.18f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/0c6e675195cf/UnitySetup-2021.2.18f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.17f1/efb8f635e7b1
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65537&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/efb8f635e7b1/Windows64EditorInstaller/UnitySetup64-2021.2.17f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/efb8f635e7b1/builtin_shaders-2021.2.17f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/efb8f635e7b1/Unity-2021.2.17f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/efb8f635e7b1/UnitySetup-2021.2.17f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.16f1/559fc0ec6670
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65519&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/559fc0ec6670/Windows64EditorInstaller/UnitySetup64-2021.2.16f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/559fc0ec6670/builtin_shaders-2021.2.16f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/559fc0ec6670/Unity-2021.2.16f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/559fc0ec6670/UnitySetup-2021.2.16f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.15f1/3b8567f665bb
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65513&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/3b8567f665bb/Windows64EditorInstaller/UnitySetup64-2021.2.15f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/3b8567f665bb/builtin_shaders-2021.2.15f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/3b8567f665bb/Unity-2021.2.15f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/3b8567f665bb/UnitySetup-2021.2.15f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.14f1/bcb93e5482d2
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65504&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/bcb93e5482d2/Windows64EditorInstaller/UnitySetup64-2021.2.14f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/bcb93e5482d2/builtin_shaders-2021.2.14f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/bcb93e5482d2/Unity-2021.2.14f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/bcb93e5482d2/UnitySetup-2021.2.14f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.13f1/90b6766da538
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65492&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/90b6766da538/Windows64EditorInstaller/UnitySetup64-2021.2.13f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/90b6766da538/builtin_shaders-2021.2.13f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/90b6766da538/Unity-2021.2.13f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/90b6766da538/UnitySetup-2021.2.13f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.12f1/48b1aa000234
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65486&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/48b1aa000234/Windows64EditorInstaller/UnitySetup64-2021.2.12f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/48b1aa000234/builtin_shaders-2021.2.12f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/48b1aa000234/Unity-2021.2.12f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/48b1aa000234/UnitySetup-2021.2.12f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.11f1/e50cafbb4399
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65468&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/e50cafbb4399/Windows64EditorInstaller/UnitySetup64-2021.2.11f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/e50cafbb4399/builtin_shaders-2021.2.11f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/e50cafbb4399/Unity-2021.2.11f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/e50cafbb4399/UnitySetup-2021.2.11f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.10f1/ee872746220e
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65450&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/ee872746220e/Windows64EditorInstaller/UnitySetup64-2021.2.10f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/ee872746220e/builtin_shaders-2021.2.10f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/ee872746220e/Unity-2021.2.10f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/ee872746220e/UnitySetup-2021.2.10f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2021.2.9f1/921b45a28ab6
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65427&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/921b45a28ab6/Windows64EditorInstaller/UnitySetup64-2021.2.9f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/921b45a28ab6/builtin_shaders-2021.2.9f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/921b45a28ab6/Unity-2021.2.9f1.torrent
+
+### Mac 
+
+> Unity Editor   https://download.unity3d.com/download_unity/921b45a28ab6/UnitySetup-2021.2.9f1
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
 > Unity Hub :unityhub://2021.2.8f1/d0e5f0a7b06a
 
 ### Windows 
@@ -788,6 +1096,166 @@
 
 
 ## Unity 2020.x
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.34f1/9a4c9c70452b
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65596&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/9a4c9c70452b/Windows64EditorInstaller/UnitySetup64-2020.3.34f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/9a4c9c70452b/builtin_shaders-2020.3.34f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/9a4c9c70452b/Unity-2020.3.34f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.33f1/915a7af8b0d5
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65558&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/915a7af8b0d5/Windows64EditorInstaller/UnitySetup64-2020.3.33f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/915a7af8b0d5/builtin_shaders-2020.3.33f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/915a7af8b0d5/Unity-2020.3.33f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.32f1/12f8b0834f07
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65534&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/12f8b0834f07/Windows64EditorInstaller/UnitySetup64-2020.3.32f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/12f8b0834f07/builtin_shaders-2020.3.32f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/12f8b0834f07/Unity-2020.3.32f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.31f1/6b54b7616050
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65522&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/6b54b7616050/Windows64EditorInstaller/UnitySetup64-2020.3.31f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/6b54b7616050/builtin_shaders-2020.3.31f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/6b54b7616050/Unity-2020.3.31f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.30f1/1fb1bf06830e
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65495&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/1fb1bf06830e/Windows64EditorInstaller/UnitySetup64-2020.3.30f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/1fb1bf06830e/builtin_shaders-2020.3.30f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/1fb1bf06830e/Unity-2020.3.30f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.29f1/2ff179115da0
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65477&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/2ff179115da0/Windows64EditorInstaller/UnitySetup64-2020.3.29f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/2ff179115da0/builtin_shaders-2020.3.29f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/2ff179115da0/Unity-2020.3.29f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.28f1/f5400f52e03f
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65462&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/f5400f52e03f/Windows64EditorInstaller/UnitySetup64-2020.3.28f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/f5400f52e03f/builtin_shaders-2020.3.28f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/f5400f52e03f/Unity-2020.3.28f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2020.3.27f1/e759542391ea
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65444&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/e759542391ea/Windows64EditorInstaller/UnitySetup64-2020.3.27f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/e759542391ea/builtin_shaders-2020.3.27f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/e759542391ea/Unity-2020.3.27f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
 ### Unity Version :	Publish Date :
 > Unity Hub :unityhub://2020.3.26f1/7298b473bc1a
 
@@ -1848,6 +2316,86 @@
 
 
 ## Unity 2019.x
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2019.4.38f1/fdbb7325fa47
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65572&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/fdbb7325fa47/Windows64EditorInstaller/UnitySetup64-2019.4.38f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/fdbb7325fa47/builtin_shaders-2019.4.38f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/fdbb7325fa47/Unity-2019.4.38f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2019.4.37f1/019e31cfdb15
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65531&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/019e31cfdb15/Windows64EditorInstaller/UnitySetup64-2019.4.37f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/019e31cfdb15/builtin_shaders-2019.4.37f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/019e31cfdb15/Unity-2019.4.37f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2019.4.36f1/660c164b2fc5
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65483&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/660c164b2fc5/Windows64EditorInstaller/UnitySetup64-2019.4.36f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/660c164b2fc5/builtin_shaders-2019.4.36f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/660c164b2fc5/Unity-2019.4.36f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2019.4.35f1/0462406dff2e
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=65436&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/0462406dff2e/Windows64EditorInstaller/UnitySetup64-2019.4.35f1.exe
+
+> Built in shaders   https://download.unity3d.com/download_unity/0462406dff2e/builtin_shaders-2019.4.35f1.zip
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/0462406dff2e/Unity-2019.4.35f1.torrent
+
+### Mac 
+
+> Unity Accelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
 ### Unity Version :	Publish Date :
 > Unity Hub :unityhub://2019.4.34f1/6a9faed444f2
 
@@ -5962,6 +6510,30 @@
 > Samsung TV Support Installer   https://download.unity3d.com/download_unity/9231f953d9d3/addons/Win/UnitySetup-Samsung-TV-Support-for-Editor-2017.4.1f1.exe
 
 > Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/9231f953d9d3/Unity.torrent
+
+### Mac 
+
+
+### Unity Version :	Publish Date :
+> Unity Hub :unityhub://2017.4.0f1/b5bd171ee9ba
+
+### Windows 
+
+> Unity Installer   /get-unity/download?thank-you=update&download_nid=50230&os=Win
+
+> Unity Editor 64-bit   https://download.unity3d.com/download_unity/b5bd171ee9ba/Windows64EditorInstaller/UnitySetup64-2017.4.0f1.exe
+
+> Cache Server   https://github.com/Unity-Technologies/unity-cache-server
+
+> Built in shaders   https://download.unity3d.com/download_unity/b5bd171ee9ba/builtin_shaders-2017.4.0f1.zip
+
+> Standard Assets   https://download.unity3d.com/download_unity/b5bd171ee9ba/WindowsStandardAssetsInstaller/UnityStandardAssetsSetup-2017.4.0f1.exe
+
+> Example Project   https://download.unity3d.com/download_unity/b5bd171ee9ba/WindowsExampleProjectInstaller/UnityExampleProjectSetup-2017.4.0f1.exe
+
+> Samsung TV Support Installer   https://download.unity3d.com/download_unity/b5bd171ee9ba/addons/Win/UnitySetup-Samsung-TV-Support-for-Editor-2017.4.0f1.exe
+
+> Torrent download (Win+Mac)   https://download.unity3d.com/download_unity/b5bd171ee9ba/Unity.torrent
 
 ### Mac 
 
