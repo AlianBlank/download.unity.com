@@ -8,6 +8,10 @@ def download_web():
     context = ssl._create_unverified_context()
     url = 'https://unity3d.com/get-unity/download/archive'
     html = urllib.request.urlopen(url, context=context).read()
+    fo = open("download.html", "w")
+    fo.write(html)
+    # close file
+    fo.close()
     return html
 
 
@@ -18,6 +22,7 @@ def decode(text):
     result = {}
 
     for version in [
+        "version-2022",
         "version-2021",
         "version-2020",
         "version-2019",
@@ -101,8 +106,10 @@ def generate(dict):
         result.append(''.join(line))
     return '\n\n'.join(result)
 
-
-res = decode(download_web())
+# download_web()
+f = open("download.html","r")
+download_web_text = f.read()
+res = decode(download_web_text)
 
 res = generate(res)
 
