@@ -1,6 +1,7 @@
-from bs4 import BeautifulSoup
-import urllib.request
 import ssl
+import urllib.request
+
+from bs4 import BeautifulSoup
 
 
 # download web page
@@ -17,7 +18,7 @@ def download_web():
 
 # decode
 def decode(text):
-    soup = BeautifulSoup(text, "lxml")
+    soup = BeautifulSoup(text, "html.parser")
 
     result = {}
 
