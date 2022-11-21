@@ -2,6 +2,14 @@
 ## 为什么创建该仓库？
 > unity3d.com/download  404  
 
+## UnityHub Download 
+
+> Windows: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
+
+> Mac: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg
+
+> Liunx: https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
+
 ## Unity版本列表.定期从官网拉取
 
 > 2022 
