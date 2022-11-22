@@ -10,6 +10,13 @@
 
 > Liunx: https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
 
+### 由于特殊原因.`可能`下载之后还是`特供版`, 特别提供CSDN下载地址(`不需要积分`,`不需要积分`,`不需要积分`)
+
+> Mac: https://download.csdn.net/download/alianhome/87109695
+
+> Windows: https://download.csdn.net/download/alianhome/87108758
+
+
 ## Unity版本列表.定期从官网拉取
 
 > 2022 
