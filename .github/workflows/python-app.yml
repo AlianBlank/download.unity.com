@@ -15,7 +15,7 @@ jobs:
     - name: Check out Git repository
     - uses: actions/checkout@v3
     - name: List files in the repository
-        run: |
+      run: |
           ls ${{ github.workspace }}
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
