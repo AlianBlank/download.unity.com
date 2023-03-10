@@ -25,10 +25,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install bs4
         pip install lxml
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: download html
-    - run: python unity_download.py
-    - name: decode html
-    - run: python decode_html.py
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        python unity_download.py
+        python decode_html.py
+    #- name: download html
+    #- run: python unity_download.py
+    #- name: decode html
+    #- run: python decode_html.py
+    #  env:
+    #    ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
