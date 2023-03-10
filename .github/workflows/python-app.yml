@@ -4,16 +4,14 @@
 name: Python application
 
 on:
-  schedule:
-  - cron: "0 2 * * 1-5"
-
-permissions:
-  contents: read
+  push
+  #schedule:
+  #- cron: "0 2 * * 1-5"
 
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
 
     steps:
     - name: Check out Git repository
@@ -30,3 +28,5 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - run: python unity_download.py
     - run: python decode_html.py
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
