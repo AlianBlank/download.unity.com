@@ -10,13 +10,14 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
     - name: Check out Git repository
     - uses: actions/checkout@v3
-    - name: List files in the repository
-      run: |
-          ls ${{ github.workspace }}
+    # - name: List files in the repository
+    #   run: |
+    #       ls ${{ github.workspace }}
+    # - run: echo "🍏 This job's status is ${{ job.status }}."
     # - name: Set up Python 3.10
     #   uses: actions/setup-python@v3
     #   with:
