@@ -19,33 +19,7 @@
 > Windows:2.4.2版本: https://download.csdn.net/download/alianhome/87567310
 
 
-## Unity版本列表.定期从官网拉取
-
-> 2022 
-
-> 2021 
-
-> 2020
-
-> 2019
-
-> 2018
-
-> 2017
-
-> 5.x
-
-> 4.x
-
-> 3.x
-
-## Python Library
-
-```bash
-    pip install bs4
-    pip install requests
-    pip install lxml
-```
+# Unity版本列表.定期从官网拉取
 
 # 下面对应下载版本.点击链接后使用 `CTRL+F` 搜索
 
@@ -67,3 +41,13 @@
 ## [Unity 4.X](download-archive-4.md)
 
 ## [Unity 3.X](download-archive-3.md)
+
+
+## Python Library
+
+```bash
+    pip install bs4
+    pip install requests
+    pip install lxml
+```
+
