@@ -119,7 +119,7 @@ def decode(text):
             res = generate(version_value)
             result += res + '\n'
         # save list
-        fo = open("download_" + version + ".md", "w+", encoding="utf-8")
+        fo = open(version + ".md", "w+", encoding="utf-8")
         fo.write(result)
         # close file
         fo.close()
