@@ -1,4 +1,152 @@
 
+# Unity Version :Unity 2022.2.14	Publish Date :April 5, 2023
+> Unity Hub :unityhub://2022.2.14f1/b2c9b1ac6cc0
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/UnityDownloadAssistant-2022.2.14f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/Windows64EditorInstaller/UnitySetup64-2022.2.14f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/builtin_shaders-2022.2.14f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/Unity-2022.2.14f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/UnityDownloadAssistant-2022.2.14f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/MacEditorInstaller/Unity.pkg
+
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/MacEditorInstallerArm64/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/builtin_shaders-2022.2.14f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/Unity-2022.2.14f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/b2c9b1ac6cc0/UnitySetup-2022.2.14f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2022.2.13	Publish Date :March 31, 2023
+> Unity Hub :unityhub://2022.2.13f1/5f5de2657605
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/5f5de2657605/UnityDownloadAssistant-2022.2.13f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/5f5de2657605/Windows64EditorInstaller/UnitySetup64-2022.2.13f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/5f5de2657605/builtin_shaders-2022.2.13f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5f5de2657605/Unity-2022.2.13f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/5f5de2657605/UnityDownloadAssistant-2022.2.13f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/5f5de2657605/MacEditorInstaller/Unity.pkg
+
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/5f5de2657605/MacEditorInstallerArm64/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/5f5de2657605/builtin_shaders-2022.2.13f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5f5de2657605/Unity-2022.2.13f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/5f5de2657605/UnitySetup-2022.2.13f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2022.2.12	Publish Date :March 22, 2023
+> Unity Hub :unityhub://2022.2.12f1/022dac4955a3
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/022dac4955a3/UnityDownloadAssistant-2022.2.12f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/022dac4955a3/Windows64EditorInstaller/UnitySetup64-2022.2.12f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/022dac4955a3/builtin_shaders-2022.2.12f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/022dac4955a3/Unity-2022.2.12f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/022dac4955a3/UnityDownloadAssistant-2022.2.12f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/022dac4955a3/MacEditorInstaller/Unity.pkg
+
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/022dac4955a3/MacEditorInstallerArm64/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/022dac4955a3/builtin_shaders-2022.2.12f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/022dac4955a3/Unity-2022.2.12f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/022dac4955a3/UnitySetup-2022.2.12f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2022.2.11	Publish Date :March 15, 2023
+> Unity Hub :unityhub://2022.2.11f1/621cd60d08fd
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/621cd60d08fd/UnityDownloadAssistant-2022.2.11f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/621cd60d08fd/Windows64EditorInstaller/UnitySetup64-2022.2.11f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/621cd60d08fd/builtin_shaders-2022.2.11f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/621cd60d08fd/Unity-2022.2.11f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/621cd60d08fd/UnityDownloadAssistant-2022.2.11f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/621cd60d08fd/MacEditorInstaller/Unity.pkg
+
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/621cd60d08fd/MacEditorInstallerArm64/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/621cd60d08fd/builtin_shaders-2022.2.11f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/621cd60d08fd/Unity-2022.2.11f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/621cd60d08fd/UnitySetup-2022.2.11f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
 # Unity Version :Unity 2022.2.10	Publish Date :March 9, 2023
 > Unity Hub :unityhub://2022.2.10f1/bcebec703747
 
