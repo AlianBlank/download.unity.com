@@ -1784,41 +1784,6 @@
 
 
 
-# Unity Version :Unity 2018.3.0	Publish Date :December 12, 2018
-> Unity Hub :unityhub://2018.3.0f2/6e9a27477296
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/6e9a27477296/UnityDownloadAssistant-2018.3.0f2.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/6e9a27477296/Windows64EditorInstaller/UnitySetup64-2018.3.0f2.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/6e9a27477296/builtin_shaders-2018.3.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6e9a27477296/Unity-2018.3.0f2.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/6e9a27477296/UnityDownloadAssistant-2018.3.0f2.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/6e9a27477296/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/6e9a27477296/builtin_shaders-2018.3.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6e9a27477296/Unity-2018.3.0f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/6e9a27477296/UnitySetup-2018.3.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
 # Unity Version :Unity 2018.3.0	Publish Date :December 11, 2018
 > Unity Hub :unityhub://2018.3.0f1/f023c421e164
 
@@ -1849,6 +1814,41 @@
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/f023c421e164/UnitySetup-2018.3.0f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2018.3.0	Publish Date :December 12, 2018
+> Unity Hub :unityhub://2018.3.0f2/6e9a27477296
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/6e9a27477296/UnityDownloadAssistant-2018.3.0f2.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/6e9a27477296/Windows64EditorInstaller/UnitySetup64-2018.3.0f2.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/6e9a27477296/builtin_shaders-2018.3.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6e9a27477296/Unity-2018.3.0f2.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/6e9a27477296/UnityDownloadAssistant-2018.3.0f2.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/6e9a27477296/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/6e9a27477296/builtin_shaders-2018.3.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6e9a27477296/Unity-2018.3.0f2.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/6e9a27477296/UnitySetup-2018.3.0f2
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -2589,41 +2589,6 @@
 
 
 
-# Unity Version :Unity 2018.2.0	Publish Date :July 6, 2018
-> Unity Hub :unityhub://2018.2.0f1/51acc5a75f1e
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/51acc5a75f1e/UnityDownloadAssistant-2018.2.0f1.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/51acc5a75f1e/Windows64EditorInstaller/UnitySetup64-2018.2.0f1.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/51acc5a75f1e/builtin_shaders-2018.2.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/51acc5a75f1e/Unity-2018.2.0f1.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/51acc5a75f1e/UnityDownloadAssistant-2018.2.0f1.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/51acc5a75f1e/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/51acc5a75f1e/builtin_shaders-2018.2.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/51acc5a75f1e/Unity-2018.2.0f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/51acc5a75f1e/UnitySetup-2018.2.0f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
 # Unity Version :Unity 2018.2.0	Publish Date :July 9, 2018
 > Unity Hub :unityhub://2018.2.0f2/787658998520
 
@@ -2654,6 +2619,41 @@
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/787658998520/UnitySetup-2018.2.0f2
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2018.2.0	Publish Date :July 6, 2018
+> Unity Hub :unityhub://2018.2.0f1/51acc5a75f1e
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/51acc5a75f1e/UnityDownloadAssistant-2018.2.0f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/51acc5a75f1e/Windows64EditorInstaller/UnitySetup64-2018.2.0f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/51acc5a75f1e/builtin_shaders-2018.2.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/51acc5a75f1e/Unity-2018.2.0f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/51acc5a75f1e/UnityDownloadAssistant-2018.2.0f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/51acc5a75f1e/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/51acc5a75f1e/builtin_shaders-2018.2.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/51acc5a75f1e/Unity-2018.2.0f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/51acc5a75f1e/UnitySetup-2018.2.0f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -2974,41 +2974,6 @@
 
 
 
-# Unity Version :Unity 2018.1.0	Publish Date :May 2, 2018
-> Unity Hub :unityhub://2018.1.0f2/d4d99f31acba
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/d4d99f31acba/UnityDownloadAssistant-2018.1.0f2.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/d4d99f31acba/Windows64EditorInstaller/UnitySetup64-2018.1.0f2.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/d4d99f31acba/builtin_shaders-2018.1.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d4d99f31acba/Unity-2018.1.0f2.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/d4d99f31acba/UnityDownloadAssistant-2018.1.0f2.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/d4d99f31acba/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/d4d99f31acba/builtin_shaders-2018.1.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d4d99f31acba/Unity-2018.1.0f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/d4d99f31acba/UnitySetup-2018.1.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
 # Unity Version :Unity 2018.1.0	Publish Date :April 26, 2018
 > Unity Hub :unityhub://2018.1.0f1/21784bcc13fa
 
@@ -3039,6 +3004,41 @@
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/21784bcc13fa/UnitySetup-2018.1.0f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2018.1.0	Publish Date :May 2, 2018
+> Unity Hub :unityhub://2018.1.0f2/d4d99f31acba
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/d4d99f31acba/UnityDownloadAssistant-2018.1.0f2.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/d4d99f31acba/Windows64EditorInstaller/UnitySetup64-2018.1.0f2.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/d4d99f31acba/builtin_shaders-2018.1.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d4d99f31acba/Unity-2018.1.0f2.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/d4d99f31acba/UnityDownloadAssistant-2018.1.0f2.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/d4d99f31acba/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/d4d99f31acba/builtin_shaders-2018.1.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d4d99f31acba/Unity-2018.1.0f2.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/d4d99f31acba/UnitySetup-2018.1.0f2
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
