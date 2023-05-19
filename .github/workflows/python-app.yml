@@ -41,7 +41,7 @@ jobs:
       #id: publish markdown
       uses: softprops/action-gh-release@v1
       with:
-        token: ${{ github.token }}
+        token: ${{ secrets..GITHUB_TOKEN }}
         files: |
           download.html
           download-archive-3.md
