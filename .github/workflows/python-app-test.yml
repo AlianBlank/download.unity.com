@@ -34,7 +34,7 @@ jobs:
           script: |            
             import os
             print("Directory contents:")
-            python download.py
+            python unity_download.py
             for f in os.listdir():
                 print(f)
     # - name: Lint with flake8
