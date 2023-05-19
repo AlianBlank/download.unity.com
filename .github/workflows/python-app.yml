@@ -29,23 +29,9 @@ jobs:
         pip install bs4
         pip install requests
         pip install lxml
-    - name: run py
+    - name: run unity_download
       run: |
         python unity_download.py
-    - uses: jannekem/run-python-script-action@v1
-      with:
-          script: |            
-            import os
-            print("Directory contents:")
-            python unity_download.py
-            for f in os.listdir():
-                print(f)
-    # - name: Lint with flake8
-    #  run: |
-        # stop the build if there are Python syntax errors or undefined names
-    #    flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-    #    flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with pytest
+    - name: run decode_html
       run: |
-        pytest
+        python decode_html.py
