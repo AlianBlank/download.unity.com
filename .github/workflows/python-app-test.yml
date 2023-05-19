@@ -29,6 +29,9 @@ jobs:
         pip install bs4
         pip install requests
         pip install lxml
+    - name: run py
+      run: |
+        python -V
     - uses: jannekem/run-python-script-action@v1
       with:
           script: |            
