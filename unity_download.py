@@ -14,6 +14,7 @@ def download_web():
     fo.write(html.text)
     # close file
     fo.close()
+    print('ok')
     return html
 
 

@@ -67,9 +67,81 @@ function OptanonWrapper() { }
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="https://unity.com/themes/contrib/unity_base/images/favicons/mstile-144x144.png?v=4"/>
 <meta name="msapplication-config" content="https://unity.com/themes/contrib/unity_base/images/favicons/browserconfig.xml?v=4"/>
-<meta name="theme-color" content="#000000">
+<meta name="theme-color" content="#000000">    <script type="text/javascript">
+      // Duration in milliseconds to wait while the Kameleoon application file is loaded
+      var kameleoonLoadingTimeout = 1000;      window.kameleoonQueue = window.kameleoonQueue || [];
+      window.kameleoonStartLoadTime = new Date().getTime();
+      if (! document.getElementById("kameleoonLoadingStyleSheet") && ! window.kameleoonDisplayPageTimeOut)
+      {
+        var kameleoonS = document.getElementsByTagName("script")[0];
+        var kameleoonCc = "* { visibility: hidden !important; background-image: none !important; }";
+        var kameleoonStn = document.createElement("style");
+        kameleoonStn.type = "text/css";
+        kameleoonStn.id = "kameleoonLoadingStyleSheet";
+        if (kameleoonStn.styleSheet)
+        {
+          kameleoonStn.styleSheet.cssText = kameleoonCc;
+        }
+        else
+        {
+          kameleoonStn.appendChild(document.createTextNode(kameleoonCc));
+        }
+        kameleoonS.parentNode.insertBefore(kameleoonStn, kameleoonS);
+        window.kameleoonDisplayPage = function(fromEngine)
+        {
+          if (!fromEngine)
+          {
+            window.kameleoonTimeout = true;
+          }
+          if (kameleoonStn.parentNode)
+          {
+            kameleoonStn.parentNode.removeChild(kameleoonStn);
+          }
+        };
+        window.kameleoonDisplayPageTimeOut = window.setTimeout(window.kameleoonDisplayPage, kameleoonLoadingTimeout);
+      }
+    </script>
+    <script type="text/javascript">
+      // Change the value of this URL to point to your own URL, where the iFrame is hosted
+      window.kameleoonIframeURL = "https://unity.com/static/kameleoon_static_file.html";
+      window.kameleoonLightIframe = false;
+      var kameleoonIframeOriginElement = document.createElement("a");
+      kameleoonIframeOriginElement.href = kameleoonIframeURL;
+      window.kameleoonIframeOrigin = kameleoonIframeOriginElement.origin || (kameleoonIframeOriginElement.protocol + "//" + kameleoonIframeOriginElement.hostname);
+      if (location.href.indexOf(window.kameleoonIframeOrigin) != 0)
+      {
+        window.kameleoonLightIframe = true;
+        var kameleoonProcessMessageEvent = function(event)
+        {
+          if (window.kameleoonIframeOrigin == event.origin && event.data.slice && event.data.slice(0,9) == "Kameleoon")
+          {
+            window.removeEventListener("message", kameleoonProcessMessageEvent);
+            window.kameleoonExternalIFrameLoaded = true;
+            if (window.Kameleoon)
+            {
+              eval(event.data);
+              Kameleoon.Analyst.load();
+            }
+            else
+            {
+              window.kameleoonExternalIFrameLoadedData = event.data;
+            }
+          }
+        };
+        if (window.addEventListener)
+        {
+          window.addEventListener("message", kameleoonProcessMessageEvent, false);
+        }
+        var iframeNode = document.createElement("iframe");
+        iframeNode.src = kameleoonIframeURL;
+        iframeNode.id = "kameleoonExternalIframe";
+        iframeNode.style = "float: left !important; opacity: 0.0 !important; width: 0px !important; height: 0px !important;";
+        document.head.appendChild(iframeNode);
+      }
+    </script>
+  <script type="text/javascript" src="//pg7rvdvk4o.kameleoon.eu/kameleoon.js" async="true"></script>
   <link rel='preload'  media="all"  href="/sites/default/files/css/css_KbB6b6R61SlxfR_0gQeCxGGIvEdjk7aFe7h5MAvA314.css" as='style' onload="this.rel='stylesheet'"  /><noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_KbB6b6R61SlxfR_0gQeCxGGIvEdjk7aFe7h5MAvA314.css" /></noscript>
-<link rel='preload'  media="all"  href="/sites/default/files/css/css_SuLdsb4lprE3XUAf_Puy5fM87BdAQBUJVw1xigat_rU.css" as='style' onload="this.rel='stylesheet'"  /><noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_SuLdsb4lprE3XUAf_Puy5fM87BdAQBUJVw1xigat_rU.css" /></noscript>
+<link rel='preload'  media="all"  href="/sites/default/files/css/css_LRY4bi9q7oI1eLdT5cwU5JheUCPeBh4Od5Dud-E3O5w.css" as='style' onload="this.rel='stylesheet'"  /><noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_LRY4bi9q7oI1eLdT5cwU5JheUCPeBh4Od5Dud-E3O5w.css" /></noscript>
 <link rel='preload'  media="print"  href="/sites/default/files/css/css_ZDA0TFp0js0tD1Wl3eh81SrvfYHCkOgQEOrHKbXk2ZM.css" as='style' onload="this.rel='stylesheet'"  /><noscript><link rel="stylesheet" media="print" href="/sites/default/files/css/css_ZDA0TFp0js0tD1Wl3eh81SrvfYHCkOgQEOrHKbXk2ZM.css" /></noscript>
 <link rel='preload'  media="all"  href="/sites/default/files/css/css_z4cN0EA84V8sD-0XomVo2VQjKmUwpV1Jl1oeG07GpbU.css" as='style' onload="this.rel='stylesheet'"  /><noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_z4cN0EA84V8sD-0XomVo2VQjKmUwpV1Jl1oeG07GpbU.css" /></noscript>
 
@@ -177,7 +249,7 @@ function OptanonWrapper() { }
 
             
 <div  class="layout__region layout__one-column col-xs-12 col-md-10">
-    <h1 id="unity-download-archive--2" class="component-title paragraph paragraph--type--title paragraph--view-mode--default headingExtraLarge">
+    <h1 id="unity-download-archive--2" class="component-title paragraph paragraph--type--title paragraph--view-mode--default h1">
           
             <div>Unity download archive</div>
       
@@ -280,6 +352,298 @@ function OptanonWrapper() { }
 
             <div id="download-archive-2022" class="release-tab-content download-archive-tab 2022">
         <div class="container">
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2022.2.19</div>
+                <div class="release-date">May 11, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2022.2.19f1/765657fe9343" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/UnityDownloadAssistant-2022.2.19f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/Windows64EditorInstaller/UnitySetup64-2022.2.19f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/builtin_shaders-2022.2.19f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/Unity-2022.2.19f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/UnityDownloadAssistant-2022.2.19f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                          <li>
+                        <a href="https://download.unity3d.com/download_unity/765657fe9343/MacEditorInstallerArm64/Unity.pkg">Unity Editor (Apple silicon)</a>
+                      </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/builtin_shaders-2022.2.19f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/Unity-2022.2.19f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/765657fe9343/UnitySetup-2022.2.19f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2022.2.19#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2022.2.18</div>
+                <div class="release-date">May 4, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2022.2.18f1/5ebc6493a86f" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/UnityDownloadAssistant-2022.2.18f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/Windows64EditorInstaller/UnitySetup64-2022.2.18f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/builtin_shaders-2022.2.18f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/Unity-2022.2.18f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/UnityDownloadAssistant-2022.2.18f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                          <li>
+                        <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/MacEditorInstallerArm64/Unity.pkg">Unity Editor (Apple silicon)</a>
+                      </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/builtin_shaders-2022.2.18f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/Unity-2022.2.18f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/5ebc6493a86f/UnitySetup-2022.2.18f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2022.2.18#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2022.2.17</div>
+                <div class="release-date">April 27, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2022.2.17f1/54cb9bda89c4" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/UnityDownloadAssistant-2022.2.17f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/Windows64EditorInstaller/UnitySetup64-2022.2.17f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/builtin_shaders-2022.2.17f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/Unity-2022.2.17f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/UnityDownloadAssistant-2022.2.17f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                          <li>
+                        <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/MacEditorInstallerArm64/Unity.pkg">Unity Editor (Apple silicon)</a>
+                      </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/builtin_shaders-2022.2.17f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/Unity-2022.2.17f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/54cb9bda89c4/UnitySetup-2022.2.17f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2022.2.17#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2022.2.16</div>
+                <div class="release-date">April 19, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2022.2.16f1/d535843d11e1" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/UnityDownloadAssistant-2022.2.16f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/Windows64EditorInstaller/UnitySetup64-2022.2.16f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/builtin_shaders-2022.2.16f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/Unity-2022.2.16f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/UnityDownloadAssistant-2022.2.16f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                          <li>
+                        <a href="https://download.unity3d.com/download_unity/d535843d11e1/MacEditorInstallerArm64/Unity.pkg">Unity Editor (Apple silicon)</a>
+                      </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/builtin_shaders-2022.2.16f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/Unity-2022.2.16f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/d535843d11e1/UnitySetup-2022.2.16f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2022.2.16#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2022.2.15</div>
@@ -3277,6 +3641,152 @@ function OptanonWrapper() { }
       </div>
             <div id="download-archive-2021" class="release-tab-content download-archive-tab 2021">
         <div class="container">
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2021.3.25</div>
+                <div class="release-date">May 11, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2021.3.25f1/68ef2c4f8861" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/UnityDownloadAssistant-2021.3.25f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/Windows64EditorInstaller/UnitySetup64-2021.3.25f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/builtin_shaders-2021.3.25f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/Unity-2021.3.25f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/UnityDownloadAssistant-2021.3.25f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                          <li>
+                        <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/MacEditorInstallerArm64/Unity.pkg">Unity Editor (Apple silicon)</a>
+                      </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/builtin_shaders-2021.3.25f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/Unity-2021.3.25f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/68ef2c4f8861/UnitySetup-2021.3.25f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2021.3.25#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2021.3.24</div>
+                <div class="release-date">April 27, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2021.3.24f1/cf10dcf7010d" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/UnityDownloadAssistant-2021.3.24f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/Windows64EditorInstaller/UnitySetup64-2021.3.24f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/builtin_shaders-2021.3.24f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/Unity-2021.3.24f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/UnityDownloadAssistant-2021.3.24f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                          <li>
+                        <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/MacEditorInstallerArm64/Unity.pkg">Unity Editor (Apple silicon)</a>
+                      </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/builtin_shaders-2021.3.24f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/Unity-2021.3.24f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/cf10dcf7010d/UnitySetup-2021.3.24f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2021.3.24#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2021.3.23</div>
@@ -8453,6 +8963,76 @@ function OptanonWrapper() { }
       </div>
             <div id="download-archive-2020" class="release-tab-content download-archive-tab 2020">
         <div class="container">
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2020.3.48</div>
+                <div class="release-date">May 17, 2023</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2020.3.48f1/b805b124c6b7" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/UnityDownloadAssistant-2020.3.48f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/Windows64EditorInstaller/UnitySetup64-2020.3.48f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/builtin_shaders-2020.3.48f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/Unity-2020.3.48f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/UnityDownloadAssistant-2020.3.48f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/builtin_shaders-2020.3.48f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/Unity-2020.3.48f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b805b124c6b7/UnitySetup-2020.3.48f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2020.3.48#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2020.3.47</div>
@@ -17560,76 +18140,6 @@ function OptanonWrapper() { }
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2019.3.0</div>
-                <div class="release-date">November 27, 2019</div>
-              </div>
-
-              <div class="release-links">
-                <div>
-                  <a href="unityhub://2019.3.0f1/ffacea4b84e7" class="btn btn-blue">Unity Hub</a>
-                </div>
-
-                <div class="release-win dropdown">
-                  <div class="label">Downloads (Win)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/UnityDownloadAssistant-2019.3.0f1.exe">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/Windows64EditorInstaller/UnitySetup64-2019.3.0f1.exe">Unity Editor 64-bit</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/builtin_shaders-2019.3.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/Unity-2019.3.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-mac dropdown">
-                  <div class="label">Downloads (Mac)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/UnityDownloadAssistant-2019.3.0f1.dmg">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
-                    </li>
-                                        <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/builtin_shaders-2019.3.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/Unity-2019.3.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-linux dropdown">
-                  <div class="label">Downloads (Linux)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/UnitySetup-2019.3.0f1">Unity Editor</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <a href="https://unity.com/releases/editor/whats-new/2019.3.0#release-notes" class="btn btn-blue">Release Notes</a>
-                </div>
-              </div>
-            </div>
-                      <div class="download-release-wrapper">
-              <div class="release-title-date">
-                <div class="release-title">Unity 2019.3.0</div>
                 <div class="release-date">December 11, 2019</div>
               </div>
 
@@ -17834,6 +18344,76 @@ function OptanonWrapper() { }
 
                 <div>
                   <a href="https://unity.com/releases/editor/whats-new/2019.3.0-2#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2019.3.0</div>
+                <div class="release-date">November 27, 2019</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2019.3.0f1/ffacea4b84e7" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/UnityDownloadAssistant-2019.3.0f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/Windows64EditorInstaller/UnitySetup64-2019.3.0f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/builtin_shaders-2019.3.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/Unity-2019.3.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/UnityDownloadAssistant-2019.3.0f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/builtin_shaders-2019.3.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/Unity-2019.3.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/ffacea4b84e7/UnitySetup-2019.3.0f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2019.3.0#release-notes" class="btn btn-blue">Release Notes</a>
                 </div>
               </div>
             </div>
@@ -24074,76 +24654,6 @@ function OptanonWrapper() { }
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2018.3.0</div>
-                <div class="release-date">December 11, 2018</div>
-              </div>
-
-              <div class="release-links">
-                <div>
-                  <a href="unityhub://2018.3.0f1/f023c421e164" class="btn btn-blue">Unity Hub</a>
-                </div>
-
-                <div class="release-win dropdown">
-                  <div class="label">Downloads (Win)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/UnityDownloadAssistant-2018.3.0f1.exe">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/Windows64EditorInstaller/UnitySetup64-2018.3.0f1.exe">Unity Editor 64-bit</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/builtin_shaders-2018.3.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/Unity-2018.3.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-mac dropdown">
-                  <div class="label">Downloads (Mac)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/UnityDownloadAssistant-2018.3.0f1.dmg">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
-                    </li>
-                                        <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/builtin_shaders-2018.3.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/Unity-2018.3.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-linux dropdown">
-                  <div class="label">Downloads (Linux)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/f023c421e164/UnitySetup-2018.3.0f1">Unity Editor</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <a href="https://unity.com/releases/editor/whats-new/2018.3.0#release-notes" class="btn btn-blue">Release Notes</a>
-                </div>
-              </div>
-            </div>
-                      <div class="download-release-wrapper">
-              <div class="release-title-date">
-                <div class="release-title">Unity 2018.3.0</div>
                 <div class="release-date">December 12, 2018</div>
               </div>
 
@@ -24208,6 +24718,76 @@ function OptanonWrapper() { }
 
                 <div>
                   <a href="https://unity.com/releases/editor/whats-new/2018.3.0-0#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2018.3.0</div>
+                <div class="release-date">December 11, 2018</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2018.3.0f1/f023c421e164" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/UnityDownloadAssistant-2018.3.0f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/Windows64EditorInstaller/UnitySetup64-2018.3.0f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/builtin_shaders-2018.3.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/Unity-2018.3.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/UnityDownloadAssistant-2018.3.0f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/builtin_shaders-2018.3.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/Unity-2018.3.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/f023c421e164/UnitySetup-2018.3.0f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2018.3.0#release-notes" class="btn btn-blue">Release Notes</a>
                 </div>
               </div>
             </div>
@@ -25684,76 +26264,6 @@ function OptanonWrapper() { }
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2018.2.0</div>
-                <div class="release-date">July 9, 2018</div>
-              </div>
-
-              <div class="release-links">
-                <div>
-                  <a href="unityhub://2018.2.0f2/787658998520" class="btn btn-blue">Unity Hub</a>
-                </div>
-
-                <div class="release-win dropdown">
-                  <div class="label">Downloads (Win)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/UnityDownloadAssistant-2018.2.0f2.exe">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/Windows64EditorInstaller/UnitySetup64-2018.2.0f2.exe">Unity Editor 64-bit</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/builtin_shaders-2018.2.0f2.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/Unity-2018.2.0f2.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-mac dropdown">
-                  <div class="label">Downloads (Mac)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/UnityDownloadAssistant-2018.2.0f2.dmg">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
-                    </li>
-                                        <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/builtin_shaders-2018.2.0f2.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/Unity-2018.2.0f2.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-linux dropdown">
-                  <div class="label">Downloads (Linux)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/787658998520/UnitySetup-2018.2.0f2">Unity Editor</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <a href="https://unity.com/releases/editor/whats-new/2018.2.0-0#release-notes" class="btn btn-blue">Release Notes</a>
-                </div>
-              </div>
-            </div>
-                      <div class="download-release-wrapper">
-              <div class="release-title-date">
-                <div class="release-title">Unity 2018.2.0</div>
                 <div class="release-date">July 6, 2018</div>
               </div>
 
@@ -25818,6 +26328,76 @@ function OptanonWrapper() { }
 
                 <div>
                   <a href="https://unity.com/releases/editor/whats-new/2018.2.0#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2018.2.0</div>
+                <div class="release-date">July 9, 2018</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2018.2.0f2/787658998520" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/UnityDownloadAssistant-2018.2.0f2.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/Windows64EditorInstaller/UnitySetup64-2018.2.0f2.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/builtin_shaders-2018.2.0f2.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/Unity-2018.2.0f2.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/UnityDownloadAssistant-2018.2.0f2.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/builtin_shaders-2018.2.0f2.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/Unity-2018.2.0f2.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/787658998520/UnitySetup-2018.2.0f2">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2018.2.0-0#release-notes" class="btn btn-blue">Release Notes</a>
                 </div>
               </div>
             </div>
@@ -29538,6 +30118,76 @@ function OptanonWrapper() { }
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 2017.3.0</div>
+                <div class="release-date">December 18, 2017</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://2017.3.0f3/a9f86dcd79df" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/UnityDownloadAssistant-2017.3.0f3.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/Windows64EditorInstaller/UnitySetup64-2017.3.0f3.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/builtin_shaders-2017.3.0f3.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/Unity-2017.3.0f3.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/UnityDownloadAssistant-2017.3.0f3.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/builtin_shaders-2017.3.0f3.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/Unity-2017.3.0f3.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/UnitySetup-2017.3.0f3">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/2017.3.0-1#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 2017.3.0</div>
                 <div class="release-date">December 1, 2017</div>
               </div>
 
@@ -29672,76 +30322,6 @@ function OptanonWrapper() { }
 
                 <div>
                   <a href="https://unity.com/releases/editor/whats-new/2017.3.0-0#release-notes" class="btn btn-blue">Release Notes</a>
-                </div>
-              </div>
-            </div>
-                      <div class="download-release-wrapper">
-              <div class="release-title-date">
-                <div class="release-title">Unity 2017.3.0</div>
-                <div class="release-date">December 18, 2017</div>
-              </div>
-
-              <div class="release-links">
-                <div>
-                  <a href="unityhub://2017.3.0f3/a9f86dcd79df" class="btn btn-blue">Unity Hub</a>
-                </div>
-
-                <div class="release-win dropdown">
-                  <div class="label">Downloads (Win)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/UnityDownloadAssistant-2017.3.0f3.exe">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/Windows64EditorInstaller/UnitySetup64-2017.3.0f3.exe">Unity Editor 64-bit</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/builtin_shaders-2017.3.0f3.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/Unity-2017.3.0f3.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-mac dropdown">
-                  <div class="label">Downloads (Mac)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/UnityDownloadAssistant-2017.3.0f3.dmg">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
-                    </li>
-                                        <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/builtin_shaders-2017.3.0f3.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/Unity-2017.3.0f3.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-linux dropdown">
-                  <div class="label">Downloads (Linux)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/a9f86dcd79df/UnitySetup-2017.3.0f3">Unity Editor</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <a href="https://unity.com/releases/editor/whats-new/2017.3.0-1#release-notes" class="btn btn-blue">Release Notes</a>
                 </div>
               </div>
             </div>
@@ -32622,76 +33202,6 @@ function OptanonWrapper() { }
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 5.4.0</div>
-                <div class="release-date">July 14, 2016</div>
-              </div>
-
-              <div class="release-links">
-                <div>
-                  <a href="unityhub://5.4.0f1/c6df7519ab13" class="btn btn-blue">Unity Hub</a>
-                </div>
-
-                <div class="release-win dropdown">
-                  <div class="label">Downloads (Win)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.exe">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/Windows64EditorInstaller/UnitySetup64-5.4.0f1.exe">Unity Editor 64-bit</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-mac dropdown">
-                  <div class="label">Downloads (Mac)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.dmg">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
-                    </li>
-                                        <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-linux dropdown">
-                  <div class="label">Downloads (Linux)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/UnitySetup-5.4.0f1">Unity Editor</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <a href="https://unity.com/releases/editor/whats-new/5.4.0#release-notes" class="btn btn-blue">Release Notes</a>
-                </div>
-              </div>
-            </div>
-                      <div class="download-release-wrapper">
-              <div class="release-title-date">
-                <div class="release-title">Unity 5.4.0</div>
                 <div class="release-date">July 21, 2016</div>
               </div>
 
@@ -32826,6 +33336,76 @@ function OptanonWrapper() { }
 
                 <div>
                   <a href="https://unity.com/releases/editor/whats-new/5.4.0-1#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 5.4.0</div>
+                <div class="release-date">July 14, 2016</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://5.4.0f1/c6df7519ab13" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/Windows64EditorInstaller/UnitySetup64-5.4.0f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/c6df7519ab13/UnitySetup-5.4.0f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/5.4.0#release-notes" class="btn btn-blue">Release Notes</a>
                 </div>
               </div>
             </div>
@@ -33392,6 +33972,76 @@ function OptanonWrapper() { }
                       <div class="download-release-wrapper">
               <div class="release-title-date">
                 <div class="release-title">Unity 5.3.0</div>
+                <div class="release-date">November 14, 2015</div>
+              </div>
+
+              <div class="release-links">
+                <div>
+                  <a href="unityhub://5.3.0f1/b948b362cb65" class="btn btn-blue">Unity Hub</a>
+                </div>
+
+                <div class="release-win dropdown">
+                  <div class="label">Downloads (Win)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/UnityDownloadAssistant-5.3.0f1.exe">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/Windows64EditorInstaller/UnitySetup64-5.3.0f1.exe">Unity Editor 64-bit</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/builtin_shaders-5.3.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/Unity-5.3.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-mac dropdown">
+                  <div class="label">Downloads (Mac)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/UnityDownloadAssistant-5.3.0f1.dmg">Unity Installer</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
+                    </li>
+                                        <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/builtin_shaders-5.3.0f1.zip">Built in shaders</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/Unity-5.3.0f1.torrent">Torrent download (Win+Mac)</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="release-linux dropdown">
+                  <div class="label">Downloads (Linux)</div>
+                  <ul>
+                    <li>
+                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/UnitySetup-5.3.0f1">Unity Editor</a>
+                    </li>
+                    <li>
+                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div>
+                  <a href="https://unity.com/releases/editor/whats-new/5.3.0#release-notes" class="btn btn-blue">Release Notes</a>
+                </div>
+              </div>
+            </div>
+                      <div class="download-release-wrapper">
+              <div class="release-title-date">
+                <div class="release-title">Unity 5.3.0</div>
                 <div class="release-date">November 23, 2015</div>
               </div>
 
@@ -33526,76 +34176,6 @@ function OptanonWrapper() { }
 
                 <div>
                   <a href="https://unity.com/releases/editor/whats-new/5.3.0-1#release-notes" class="btn btn-blue">Release Notes</a>
-                </div>
-              </div>
-            </div>
-                      <div class="download-release-wrapper">
-              <div class="release-title-date">
-                <div class="release-title">Unity 5.3.0</div>
-                <div class="release-date">November 14, 2015</div>
-              </div>
-
-              <div class="release-links">
-                <div>
-                  <a href="unityhub://5.3.0f1/b948b362cb65" class="btn btn-blue">Unity Hub</a>
-                </div>
-
-                <div class="release-win dropdown">
-                  <div class="label">Downloads (Win)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/UnityDownloadAssistant-5.3.0f1.exe">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/Windows64EditorInstaller/UnitySetup64-5.3.0f1.exe">Unity Editor 64-bit</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/builtin_shaders-5.3.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/Unity-5.3.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-mac dropdown">
-                  <div class="label">Downloads (Mac)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/UnityDownloadAssistant-5.3.0f1.dmg">Unity Installer</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/MacEditorInstaller/Unity.pkg">Unity Editor (Intel)</a>
-                    </li>
-                                        <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/builtin_shaders-5.3.0f1.zip">Built in shaders</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/Unity-5.3.0f1.torrent">Torrent download (Win+Mac)</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class="release-linux dropdown">
-                  <div class="label">Downloads (Linux)</div>
-                  <ul>
-                    <li>
-                      <a href="https://download.unity3d.com/download_unity/b948b362cb65/UnitySetup-5.3.0f1">Unity Editor</a>
-                    </li>
-                    <li>
-                      <a href="https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases">Unity Accelerator</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <a href="https://unity.com/releases/editor/whats-new/5.3.0#release-notes" class="btn btn-blue">Release Notes</a>
                 </div>
               </div>
             </div>
@@ -35342,7 +35922,8 @@ function OptanonWrapper() { }
         <div class="col-xs-12">
           <div class="cookies-dialog__wrapper">
             <p class="large">
-                            We use cookies to ensure that we give you the best experience on our website. Visit our <a href="https://unity3d.com/legal/cookie-policy#cookies">cookie policy page</a> for more information.            </p>
+              We use cookies to ensure that we give you the best experience on our website. Visit our <a href="https://unity3d.com/legal/cookie-policy#cookies">cookie policy page</a> for more information.
+            </p>
             <a class="btn btn-blue cookies-dialog__got-it">Got it</a>
           </div>
         </div>
@@ -35350,7 +35931,7 @@ function OptanonWrapper() { }
     </div>
   </div>
 
-  <script src="/sites/default/files/js/js_am0Cl2xjPrDc7nUo3KYexBuaqAxc847sHciuZ0IhYE8.js"></script>
+  <script src="/sites/default/files/js/js_nld8GC3HHLmAsxvTQU6yWHQf9i6vFfi0Y153qH89Axo.js"></script>
 <script src="https://unpkg.com/vue@2.5.21/dist/vue.min.js"></script>
 <script src="https://components.unity.com/lib/components"></script>
 <script src="/sites/default/files/js/js_aYddpZ3yJw7zsFpUbhokR_xY-jHPK363M-bYVa2HA4k.js"></script>
