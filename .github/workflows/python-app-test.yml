@@ -29,8 +29,13 @@ jobs:
         pip install bs4
         pip install requests
         pip install lxml
-        pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - uses: jannekem/run-python-script-action@v1
+      with:
+          script: |
+            import os
+            print("Directory contents:")
+            for f in os.listdir():
+                print(f)
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
