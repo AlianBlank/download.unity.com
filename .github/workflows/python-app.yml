@@ -37,3 +37,20 @@ jobs:
     - name: run decode_html
       run: |
         python decode_html.py
+    - name: publish markdown
+      #id: publish markdown
+      uses: softprops/action-gh-release@v1
+      with:
+        token: ${{ github.token }}
+        files: |
+          download.html
+          download-archive-3.md
+          download-archive-4.md
+          download-archive-5.md
+          download-archive-2017.md
+          download-archive-2018.md
+          download-archive-2019.md
+          download-archive-2020.md
+          download-archive-2021.md
+          download-archive-2022.md
+        
