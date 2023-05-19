@@ -8,9 +8,11 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
+  schedule:
+  # 每天的UTC 时间的1.30 执行一次
+    - cron:  '30 1 0 * *'
 permissions:
-  contents: read
+  contents: read|write
 
 jobs:
   build:
