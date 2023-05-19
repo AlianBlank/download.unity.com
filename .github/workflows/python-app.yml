@@ -31,7 +31,7 @@ jobs:
         pip install lxml
     - name: run py
       run: |
-        python -V
+        python unity_download.py
     - uses: jannekem/run-python-script-action@v1
       with:
           script: |            
