@@ -18,6 +18,9 @@
 
 > Windows:2.4.2版本: https://download.csdn.net/download/alianhome/87567310
 
+# 如何和谐Unity 且不需要登录账号 ?
+
+> 请前往 https://github.com/tylearymf/unihacker
 
 # Unity版本列表.定期从官网拉取
 
