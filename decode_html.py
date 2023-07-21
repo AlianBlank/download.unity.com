@@ -8,18 +8,22 @@ def generate(_dict):
             "\n> Unity Hub :" + _dict['unity_hub_url'], '\n\n']
     # for big_version_key, big_version_value in _dict.items():
     # for version_value in _dict.items():
-    win_list = _dict['platform']['win']
-    line.append('## Windows \n\n')
-    for item in win_list:
-        line.append("> " + item['key'] + '   ' + item['value'] + '\n\n')
-    mac_list = _dict['platform']['mac']
-    line.append('## Mac \n\n')
-    for item in mac_list:
-        line.append("> " + item['key'] + '   ' + item['value'] + '\n\n')
-    mac_list = _dict['platform']['linux']
-    line.append('## Linux \n\n')
-    for item in mac_list:
-        line.append("> " + item['key'] + '   ' + item['value'] + '\n\n')
+    platform = _dict['platform']
+    if platform.get('win') is not None:
+        win_list = platform['win']
+        line.append('## Windows \n\n')
+        for item in win_list:
+            line.append("> " + item['key'] + '   ' + item['value'] + '\n\n')
+    if platform.get('mac') is not None:
+        mac_list = platform['mac']
+        line.append('## Mac \n\n')
+        for item in mac_list:
+            line.append("> " + item['key'] + '   ' + item['value'] + '\n\n')
+    if platform.get('linux') is not None:
+        linux_list = platform['linux']
+        line.append('## Linux \n\n')
+        for item in linux_list:
+            line.append("> " + item['key'] + '   ' + item['value'] + '\n\n')
     result.append(''.join(line))
     return '\n\n'.join(result)
 
