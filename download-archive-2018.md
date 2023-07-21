@@ -2863,7 +2863,7 @@
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/1a308f4ebef1/UnitySetup-2018.1.4f1
+> UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -2898,7 +2898,7 @@
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/a53ad04f7c7f/UnitySetup-2018.1.3f1
+> UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -2933,7 +2933,7 @@
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/a46d718d282d/UnitySetup-2018.1.2f1
+> UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -2968,7 +2968,7 @@
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/b8cbb5de9840/UnitySetup-2018.1.1f1
+> UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -3003,7 +3003,7 @@
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/21784bcc13fa/UnitySetup-2018.1.0f1
+> UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
@@ -3038,7 +3038,7 @@
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/d4d99f31acba/UnitySetup-2018.1.0f2
+> UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 

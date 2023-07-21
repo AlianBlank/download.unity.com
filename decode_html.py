@@ -33,7 +33,7 @@ def decode(text):
     soup = BeautifulSoup(text, "html.parser")
 
     for version in [
-        # "download-archive-2023",
+        "download-archive-2023",
         "download-archive-2022",
         "download-archive-2021",
         "download-archive-2020",

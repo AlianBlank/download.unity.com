@@ -26,12 +26,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/e80cc3114ac1/Unity-5.6.7f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/e80cc3114ac1/UnitySetup-5.6.7f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.6.6	Publish Date :May 8, 2018
@@ -60,12 +54,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6bac21139588/Unity-5.6.6f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/6bac21139588/UnitySetup-5.6.6f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -96,12 +84,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/2cac56bf7bb6/Unity-5.6.5f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/2cac56bf7bb6/UnitySetup-5.6.5f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.6.4	Publish Date :October 15, 2017
@@ -130,12 +112,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ac7086b8d112/Unity-5.6.4f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/ac7086b8d112/UnitySetup-5.6.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -166,12 +142,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d3101c3b8468/Unity-5.6.3f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/d3101c3b8468/UnitySetup-5.6.3f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.6.2	Publish Date :June 21, 2017
@@ -200,12 +170,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a2913c821e27/Unity-5.6.2f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/a2913c821e27/UnitySetup-5.6.2f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -236,12 +200,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/2860b30f0b54/Unity-5.6.1f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/2860b30f0b54/UnitySetup-5.6.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.6.0	Publish Date :March 17, 2017
@@ -270,12 +228,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/bf5cca3e2788/Unity-5.6.0f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/bf5cca3e2788/UnitySetup-5.6.0f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -306,12 +258,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a7535b2c1eb6/Unity-5.6.0f2.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/a7535b2c1eb6/UnitySetup-5.6.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.6.0	Publish Date :March 31, 2017
@@ -340,12 +286,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497a0f351392/Unity-5.6.0f3.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/497a0f351392/UnitySetup-5.6.0f3
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -376,12 +316,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3fb31a95adee/Unity-5.5.6f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/3fb31a95adee/UnitySetup-5.5.6f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.5.5	Publish Date :October 3, 2017
@@ -410,12 +344,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d875e6967482/Unity-5.5.5f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/d875e6967482/UnitySetup-5.5.5f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -446,12 +374,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/8ffd0efd98b1/Unity-5.5.4f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/8ffd0efd98b1/UnitySetup-5.5.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.5.3	Publish Date :March 31, 2017
@@ -480,12 +402,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4d2f809fd6f3/Unity-5.5.3f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/4d2f809fd6f3/UnitySetup-5.5.3f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -516,12 +432,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3829d7f588f3/Unity-5.5.2f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/3829d7f588f3/UnitySetup-5.5.2f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.5.1	Publish Date :January 24, 2017
@@ -550,82 +460,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/88d00a7498cd/Unity-5.5.1f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/88d00a7498cd/UnitySetup-5.5.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
-# Unity Version :Unity 5.5.0	Publish Date :November 25, 2016
-> Unity Hub :unityhub://5.5.0f2/1c3fa4a7f523
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/1c3fa4a7f523/UnityDownloadAssistant-5.5.0f2.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/1c3fa4a7f523/Windows64EditorInstaller/UnitySetup64-5.5.0f2.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/1c3fa4a7f523/builtin_shaders-5.5.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1c3fa4a7f523/Unity-5.5.0f2.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/1c3fa4a7f523/UnityDownloadAssistant-5.5.0f2.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/1c3fa4a7f523/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/1c3fa4a7f523/builtin_shaders-5.5.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1c3fa4a7f523/Unity-5.5.0f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/1c3fa4a7f523/UnitySetup-5.5.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
-# Unity Version :Unity 5.5.0	Publish Date :November 30, 2016
-> Unity Hub :unityhub://5.5.0f3/38b4efef76f0
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/38b4efef76f0/UnityDownloadAssistant-5.5.0f3.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/38b4efef76f0/Windows64EditorInstaller/UnitySetup64-5.5.0f3.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/38b4efef76f0/builtin_shaders-5.5.0f3.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/38b4efef76f0/Unity-5.5.0f3.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/38b4efef76f0/UnityDownloadAssistant-5.5.0f3.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/38b4efef76f0/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/38b4efef76f0/builtin_shaders-5.5.0f3.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/38b4efef76f0/Unity-5.5.0f3.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/38b4efef76f0/UnitySetup-5.5.0f3
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -656,11 +490,63 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d44b7ab76b45/Unity-5.5.0f1.torrent
 
-## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/d44b7ab76b45/UnitySetup-5.5.0f1
 
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+# Unity Version :Unity 5.5.0	Publish Date :November 25, 2016
+> Unity Hub :unityhub://5.5.0f2/1c3fa4a7f523
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/1c3fa4a7f523/UnityDownloadAssistant-5.5.0f2.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/1c3fa4a7f523/Windows64EditorInstaller/UnitySetup64-5.5.0f2.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/1c3fa4a7f523/builtin_shaders-5.5.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1c3fa4a7f523/Unity-5.5.0f2.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/1c3fa4a7f523/UnityDownloadAssistant-5.5.0f2.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/1c3fa4a7f523/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/1c3fa4a7f523/builtin_shaders-5.5.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1c3fa4a7f523/Unity-5.5.0f2.torrent
+
+
+
+# Unity Version :Unity 5.5.0	Publish Date :November 30, 2016
+> Unity Hub :unityhub://5.5.0f3/38b4efef76f0
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/38b4efef76f0/UnityDownloadAssistant-5.5.0f3.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/38b4efef76f0/Windows64EditorInstaller/UnitySetup64-5.5.0f3.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/38b4efef76f0/builtin_shaders-5.5.0f3.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/38b4efef76f0/Unity-5.5.0f3.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/38b4efef76f0/UnityDownloadAssistant-5.5.0f3.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/38b4efef76f0/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/38b4efef76f0/builtin_shaders-5.5.0f3.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/38b4efef76f0/Unity-5.5.0f3.torrent
 
 
 
@@ -691,12 +577,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/7c5210d1343f/Unity-5.4.6f3.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/7c5210d1343f/UnitySetup-5.4.6f3
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.4.5	Publish Date :March 10, 2017
@@ -725,12 +605,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/68943b6c8c42/Unity-5.4.5f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/68943b6c8c42/UnitySetup-5.4.5f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -761,12 +635,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5a3967d8c55d/Unity-5.4.4f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/5a3967d8c55d/UnitySetup-5.4.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.4.3	Publish Date :November 17, 2016
@@ -795,12 +663,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/01f4c123905a/Unity-5.4.3f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/01f4c123905a/UnitySetup-5.4.3f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -831,12 +693,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b7e030c65c9b/Unity-5.4.2f2.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/b7e030c65c9b/UnitySetup-5.4.2f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.4.1	Publish Date :September 7, 2016
@@ -865,82 +721,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/649f48bbbf0f/Unity-5.4.1f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/649f48bbbf0f/UnitySetup-5.4.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
-# Unity Version :Unity 5.4.0	Publish Date :July 14, 2016
-> Unity Hub :unityhub://5.4.0f1/c6df7519ab13
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/c6df7519ab13/Windows64EditorInstaller/UnitySetup64-5.4.0f1.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/c6df7519ab13/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/c6df7519ab13/UnitySetup-5.4.0f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
-# Unity Version :Unity 5.4.0	Publish Date :July 21, 2016
-> Unity Hub :unityhub://5.4.0f2/14e9279a8947
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/14e9279a8947/UnityDownloadAssistant-5.4.0f2.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/14e9279a8947/Windows64EditorInstaller/UnitySetup64-5.4.0f2.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/14e9279a8947/builtin_shaders-5.4.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/14e9279a8947/Unity-5.4.0f2.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/14e9279a8947/UnityDownloadAssistant-5.4.0f2.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/14e9279a8947/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/14e9279a8947/builtin_shaders-5.4.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/14e9279a8947/Unity-5.4.0f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/14e9279a8947/UnitySetup-5.4.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -971,11 +751,63 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6d8d714de6f/Unity-5.4.0f3.torrent
 
-## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/a6d8d714de6f/UnitySetup-5.4.0f3
 
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+# Unity Version :Unity 5.4.0	Publish Date :July 14, 2016
+> Unity Hub :unityhub://5.4.0f1/c6df7519ab13
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/c6df7519ab13/Windows64EditorInstaller/UnitySetup64-5.4.0f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/c6df7519ab13/UnityDownloadAssistant-5.4.0f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/c6df7519ab13/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/c6df7519ab13/builtin_shaders-5.4.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c6df7519ab13/Unity-5.4.0f1.torrent
+
+
+
+# Unity Version :Unity 5.4.0	Publish Date :July 21, 2016
+> Unity Hub :unityhub://5.4.0f2/14e9279a8947
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/14e9279a8947/UnityDownloadAssistant-5.4.0f2.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/14e9279a8947/Windows64EditorInstaller/UnitySetup64-5.4.0f2.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/14e9279a8947/builtin_shaders-5.4.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/14e9279a8947/Unity-5.4.0f2.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/14e9279a8947/UnityDownloadAssistant-5.4.0f2.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/14e9279a8947/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/14e9279a8947/builtin_shaders-5.4.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/14e9279a8947/Unity-5.4.0f2.torrent
 
 
 
@@ -1006,12 +838,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0c7e33ff9c0e/Unity-5.3.8f2.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/0c7e33ff9c0e/UnitySetup-5.3.8f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.3.7	Publish Date :November 8, 2016
@@ -1040,12 +866,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c347874230fb/Unity-5.3.7f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/c347874230fb/UnitySetup-5.3.7f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1076,12 +896,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/29055738eb78/Unity-5.3.6f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/29055738eb78/UnitySetup-5.3.6f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.3.5	Publish Date :May 19, 2016
@@ -1110,12 +924,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/960ebf59018a/Unity-5.3.5f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/960ebf59018a/UnitySetup-5.3.5f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1146,12 +954,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fdbb5133b820/Unity-5.3.4f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/fdbb5133b820/UnitySetup-5.3.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.3.3	Publish Date :February 23, 2016
@@ -1180,12 +982,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/910d71450a97/Unity-5.3.3f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/910d71450a97/UnitySetup-5.3.3f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1216,12 +1012,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/e87ab445ead0/Unity-5.3.2f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/e87ab445ead0/UnitySetup-5.3.2f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.3.1	Publish Date :December 18, 2015
@@ -1250,12 +1040,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cc9cbbcc37b4/Unity-5.3.1f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/cc9cbbcc37b4/UnitySetup-5.3.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1286,12 +1070,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b948b362cb65/Unity-5.3.0f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/b948b362cb65/UnitySetup-5.3.0f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.3.0	Publish Date :November 23, 2015
@@ -1320,12 +1098,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ceb02979c32c/Unity-5.3.0f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/ceb02979c32c/UnitySetup-5.3.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1356,12 +1128,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/2524e04062b4/Unity-5.3.0f4.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/2524e04062b4/UnitySetup-5.3.0f4
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.2.5	Publish Date :June 1, 2016
@@ -1390,12 +1156,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ad2d0368e248/Unity-5.2.5f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/ad2d0368e248/UnitySetup-5.2.5f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1426,12 +1186,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/98095704e6fe/Unity-5.2.4f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/98095704e6fe/UnitySetup-5.2.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.2.3	Publish Date :November 19, 2015
@@ -1460,12 +1214,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/f3d16a1fa2dd/Unity-5.2.3f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/f3d16a1fa2dd/UnitySetup-5.2.3f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1496,12 +1244,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3757309da7e7/Unity-5.2.2f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/3757309da7e7/UnitySetup-5.2.2f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.2.1	Publish Date :September 22, 2015
@@ -1530,47 +1272,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/44735ea161b3/Unity-5.2.1f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/44735ea161b3/UnitySetup-5.2.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
-# Unity Version :Unity 5.2.0	Publish Date :August 16, 2015
-> Unity Hub :unityhub://5.2.0f1/89160207ce1a
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/89160207ce1a/Windows64EditorInstaller/UnitySetup64-5.2.0f1.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/89160207ce1a/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/89160207ce1a/UnitySetup-5.2.0f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1601,12 +1302,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/7f8e5b3cbb5b/Unity-5.2.0f2.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/7f8e5b3cbb5b/UnitySetup-5.2.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.2.0	Publish Date :September 3, 2015
@@ -1636,11 +1331,34 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/e7947df39b5c/Unity-5.2.0f3.torrent
 
-## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/e7947df39b5c/UnitySetup-5.2.0f3
 
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+# Unity Version :Unity 5.2.0	Publish Date :August 16, 2015
+> Unity Hub :unityhub://5.2.0f1/89160207ce1a
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/89160207ce1a/Windows64EditorInstaller/UnitySetup64-5.2.0f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/89160207ce1a/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
 
 
 
@@ -1671,12 +1389,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/9de525f1a6a8/Unity-5.1.5f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/9de525f1a6a8/UnitySetup-5.1.5f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.1.4	Publish Date :October 6, 2015
@@ -1705,12 +1417,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/36d0f3617432/Unity-5.1.4f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/36d0f3617432/UnitySetup-5.1.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1741,12 +1447,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b0a23b31c3d8/Unity-5.1.3f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/b0a23b31c3d8/UnitySetup-5.1.3f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.1.2	Publish Date :July 16, 2015
@@ -1775,12 +1475,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/afd2369b692a/Unity-5.1.2f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/afd2369b692a/UnitySetup-5.1.2f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1811,12 +1505,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/2046fc06d4d8/Unity-5.1.1f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/2046fc06d4d8/UnitySetup-5.1.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.1.0	Publish Date :May 15, 2015
@@ -1845,12 +1533,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/82c0618b396f/Unity-5.1.0f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/82c0618b396f/UnitySetup-5.1.0f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1881,12 +1563,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0e70286e975e/Unity-5.1.0f2.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/0e70286e975e/UnitySetup-5.1.0f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.1.0	Publish Date :June 3, 2015
@@ -1915,12 +1591,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ec70b008569d/Unity-5.1.0f3.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/ec70b008569d/UnitySetup-5.1.0f3
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -1951,12 +1621,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1d75c08f1c9c/Unity-5.0.4f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/1d75c08f1c9c/UnitySetup-5.0.4f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.0.3	Publish Date :June 9, 2015
@@ -1985,12 +1649,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c28c7860811c/Unity-5.0.3f2.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/c28c7860811c/UnitySetup-5.0.3f2
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
 
@@ -2021,12 +1679,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0b02744d4013/Unity-5.0.2f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/0b02744d4013/UnitySetup-5.0.2f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.0.1	Publish Date :March 31, 2015
@@ -2056,12 +1708,6 @@
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5a2e8fe35a68/Unity-5.0.1f1.torrent
 
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/5a2e8fe35a68/UnitySetup-5.0.1f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
 
 
 # Unity Version :Unity 5.0.0	Publish Date :February 25, 2015
@@ -2090,11 +1736,5 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5b98b70ebeb9/Unity-5.0.0f4.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/5b98b70ebeb9/UnitySetup-5.0.0f4
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 
 
