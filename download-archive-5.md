@@ -202,6 +202,35 @@
 
 
 
+# Unity Version :Unity 5.6.0	Publish Date :March 31, 2017
+> Unity Hub :unityhub://5.6.0f3/497a0f351392
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/497a0f351392/UnityDownloadAssistant-5.6.0f3.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/497a0f351392/Windows64EditorInstaller/UnitySetup64-5.6.0f3.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/497a0f351392/builtin_shaders-5.6.0f3.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497a0f351392/Unity-5.6.0f3.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/497a0f351392/UnityDownloadAssistant-5.6.0f3.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/497a0f351392/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/497a0f351392/builtin_shaders-5.6.0f3.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497a0f351392/Unity-5.6.0f3.torrent
+
+
+
 # Unity Version :Unity 5.6.0	Publish Date :March 17, 2017
 > Unity Hub :unityhub://5.6.0f1/bf5cca3e2788
 
@@ -257,35 +286,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a7535b2c1eb6/Unity-5.6.0f2.torrent
-
-
-
-# Unity Version :Unity 5.6.0	Publish Date :March 31, 2017
-> Unity Hub :unityhub://5.6.0f3/497a0f351392
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/497a0f351392/UnityDownloadAssistant-5.6.0f3.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/497a0f351392/Windows64EditorInstaller/UnitySetup64-5.6.0f3.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/497a0f351392/builtin_shaders-5.6.0f3.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497a0f351392/Unity-5.6.0f3.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/497a0f351392/UnityDownloadAssistant-5.6.0f3.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/497a0f351392/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/497a0f351392/builtin_shaders-5.6.0f3.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497a0f351392/Unity-5.6.0f3.torrent
 
 
 
@@ -724,35 +724,6 @@
 
 
 
-# Unity Version :Unity 5.4.0	Publish Date :July 27, 2016
-> Unity Hub :unityhub://5.4.0f3/a6d8d714de6f
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/a6d8d714de6f/UnityDownloadAssistant-5.4.0f3.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/a6d8d714de6f/Windows64EditorInstaller/UnitySetup64-5.4.0f3.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/a6d8d714de6f/builtin_shaders-5.4.0f3.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6d8d714de6f/Unity-5.4.0f3.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/a6d8d714de6f/UnityDownloadAssistant-5.4.0f3.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/a6d8d714de6f/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/a6d8d714de6f/builtin_shaders-5.4.0f3.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6d8d714de6f/Unity-5.4.0f3.torrent
-
-
-
 # Unity Version :Unity 5.4.0	Publish Date :July 14, 2016
 > Unity Hub :unityhub://5.4.0f1/c6df7519ab13
 
@@ -808,6 +779,35 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/14e9279a8947/Unity-5.4.0f2.torrent
+
+
+
+# Unity Version :Unity 5.4.0	Publish Date :July 27, 2016
+> Unity Hub :unityhub://5.4.0f3/a6d8d714de6f
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/a6d8d714de6f/UnityDownloadAssistant-5.4.0f3.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/a6d8d714de6f/Windows64EditorInstaller/UnitySetup64-5.4.0f3.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/a6d8d714de6f/builtin_shaders-5.4.0f3.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6d8d714de6f/Unity-5.4.0f3.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/a6d8d714de6f/UnityDownloadAssistant-5.4.0f3.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/a6d8d714de6f/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/a6d8d714de6f/builtin_shaders-5.4.0f3.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6d8d714de6f/Unity-5.4.0f3.torrent
 
 
 
@@ -1275,6 +1275,35 @@
 
 
 
+# Unity Version :Unity 5.2.0	Publish Date :August 16, 2015
+> Unity Hub :unityhub://5.2.0f1/89160207ce1a
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/89160207ce1a/Windows64EditorInstaller/UnitySetup64-5.2.0f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/89160207ce1a/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
+
+
+
 # Unity Version :Unity 5.2.0	Publish Date :August 21, 2015
 > Unity Hub :unityhub://5.2.0f2/7f8e5b3cbb5b
 
@@ -1330,35 +1359,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/e7947df39b5c/Unity-5.2.0f3.torrent
-
-
-
-# Unity Version :Unity 5.2.0	Publish Date :August 16, 2015
-> Unity Hub :unityhub://5.2.0f1/89160207ce1a
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/89160207ce1a/Windows64EditorInstaller/UnitySetup64-5.2.0f1.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/89160207ce1a/UnityDownloadAssistant-5.2.0f1.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/89160207ce1a/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/89160207ce1a/builtin_shaders-5.2.0f1.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/89160207ce1a/Unity-5.2.0f1.torrent
 
 
 
