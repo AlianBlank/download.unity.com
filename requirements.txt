@@ -1,0 +1,5 @@
+#to install all this requirements
+#`pip install -r requirements.txt`
+requests
+lxml
+bs4
