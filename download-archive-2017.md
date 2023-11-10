@@ -1749,6 +1749,41 @@
 
 
 
+# Unity Version :Unity 2017.2.0	Publish Date :October 2, 2017
+> Unity Hub :unityhub://2017.2.0f2/472de62575d5
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/472de62575d5/UnityDownloadAssistant-2017.2.0f2.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/472de62575d5/Windows64EditorInstaller/UnitySetup64-2017.2.0f2.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/472de62575d5/builtin_shaders-2017.2.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/472de62575d5/Unity-2017.2.0f2.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/472de62575d5/UnityDownloadAssistant-2017.2.0f2.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/472de62575d5/MacEditorInstaller/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/472de62575d5/builtin_shaders-2017.2.0f2.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/472de62575d5/Unity-2017.2.0f2.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/c24f30193bac/UnitySetup-2017.4.6f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
 # Unity Version :Unity 2017.2.0	Publish Date :October 11, 2017
 > Unity Hub :unityhub://2017.2.0f3/46dda1414e51
 
@@ -1810,41 +1845,6 @@
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
 > Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/35e55a2a85de/Unity-2017.2.0f1.torrent
-
-## Linux 
-
-> UnityEditor   https://download.unity3d.com/download_unity/c24f30193bac/UnitySetup-2017.4.6f1
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
-
-
-
-# Unity Version :Unity 2017.2.0	Publish Date :October 2, 2017
-> Unity Hub :unityhub://2017.2.0f2/472de62575d5
-
-## Windows 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/472de62575d5/UnityDownloadAssistant-2017.2.0f2.exe
-
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/472de62575d5/Windows64EditorInstaller/UnitySetup64-2017.2.0f2.exe
-
-> Builtinshaders   https://download.unity3d.com/download_unity/472de62575d5/builtin_shaders-2017.2.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/472de62575d5/Unity-2017.2.0f2.torrent
-
-## Mac 
-
-> UnityInstaller   https://download.unity3d.com/download_unity/472de62575d5/UnityDownloadAssistant-2017.2.0f2.dmg
-
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/472de62575d5/MacEditorInstaller/Unity.pkg
-
-> Builtinshaders   https://download.unity3d.com/download_unity/472de62575d5/builtin_shaders-2017.2.0f2.zip
-
-> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/472de62575d5/Unity-2017.2.0f2.torrent
 
 ## Linux 
 
