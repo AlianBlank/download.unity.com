@@ -1,3 +1,5 @@
+import json
+
 from bs4 import BeautifulSoup
 
 
@@ -46,6 +48,7 @@ def decode(text):
         # print(version)
         version_list = soup.select("#" + version + " > div > div[class='download-release-wrapper']")
         result = ''
+        json_result = []
         for version_ele in version_list:
             # print(version_ele)
             version_value = {'version_code': "", 'version_build_date': "", 'unity_hub_url': "",
@@ -122,9 +125,15 @@ def decode(text):
 
             res = generate(version_value)
             result += res + '\n'
+            json_result.append(version_value)
         # save list
         fo = open(version + ".md", "w+", encoding="utf-8")
         fo.write(result)
+        # close file
+        fo.close()
+
+        fo = open(version + ".json", "w+", encoding="utf-8")
+        fo.write(json.dumps(json_result, indent=2))
         # close file
         fo.close()
 
