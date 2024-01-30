@@ -1,4 +1,78 @@
 
+# Unity Version :Unity 2023.2.7	Publish Date :January 23, 2024
+> Unity Hub :unityhub://2023.2.7f1/0a9195b3d453
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/0a9195b3d453/UnityDownloadAssistant-2023.2.7f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/0a9195b3d453/Windows64EditorInstaller/UnitySetup64-2023.2.7f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/0a9195b3d453/builtin_shaders-2023.2.7f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0a9195b3d453/Unity-2023.2.7f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/0a9195b3d453/UnityDownloadAssistant-2023.2.7f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/0a9195b3d453/MacEditorInstaller/Unity.pkg
+
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/0a9195b3d453/MacEditorInstallerArm64/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/0a9195b3d453/builtin_shaders-2023.2.7f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0a9195b3d453/Unity-2023.2.7f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/0a9195b3d453/UnitySetup-2023.2.7f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
+# Unity Version :Unity 2023.2.6	Publish Date :January 17, 2024
+> Unity Hub :unityhub://2023.2.6f1/57daeefc879b
+
+## Windows 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/57daeefc879b/UnityDownloadAssistant-2023.2.6f1.exe
+
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/57daeefc879b/Windows64EditorInstaller/UnitySetup64-2023.2.6f1.exe
+
+> Builtinshaders   https://download.unity3d.com/download_unity/57daeefc879b/builtin_shaders-2023.2.6f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/57daeefc879b/Unity-2023.2.6f1.torrent
+
+## Mac 
+
+> UnityInstaller   https://download.unity3d.com/download_unity/57daeefc879b/UnityDownloadAssistant-2023.2.6f1.dmg
+
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/57daeefc879b/MacEditorInstaller/Unity.pkg
+
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/57daeefc879b/MacEditorInstallerArm64/Unity.pkg
+
+> Builtinshaders   https://download.unity3d.com/download_unity/57daeefc879b/builtin_shaders-2023.2.6f1.zip
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
+
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/57daeefc879b/Unity-2023.2.6f1.torrent
+
+## Linux 
+
+> UnityEditor   https://download.unity3d.com/download_unity/57daeefc879b/UnitySetup-2023.2.6f1
+
+> UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
+
+
+
 # Unity Version :Unity 2023.2.5	Publish Date :January 9, 2024
 > Unity Hub :unityhub://2023.2.5f1/381b4941466e
 
@@ -36,38 +110,38 @@
 
 
 
-# Unity Version :Unity 2023.2.4	Publish Date :December 20, 2023
-> Unity Hub :unityhub://2023.2.4f1/accd6d46ced1
+# Unity Version :Unity 2023.2.4	Publish Date :December 22, 2023
+> Unity Hub :unityhub://2023.2.4f1/3a7eb0602d92
 
 ## Windows 
 
-> UnityInstaller   https://download.unity3d.com/download_unity/accd6d46ced1/UnityDownloadAssistant-2023.2.4f1.exe
+> UnityInstaller   https://download.unity3d.com/download_unity/3a7eb0602d92/UnityDownloadAssistant-2023.2.4f1.exe
 
-> UnityEditor64-bit   https://download.unity3d.com/download_unity/accd6d46ced1/Windows64EditorInstaller/UnitySetup64-2023.2.4f1.exe
+> UnityEditor64-bit   https://download.unity3d.com/download_unity/3a7eb0602d92/Windows64EditorInstaller/UnitySetup64-2023.2.4f1.exe
 
-> Builtinshaders   https://download.unity3d.com/download_unity/accd6d46ced1/builtin_shaders-2023.2.4f1.zip
+> Builtinshaders   https://download.unity3d.com/download_unity/3a7eb0602d92/builtin_shaders-2023.2.4f1.zip
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/accd6d46ced1/Unity-2023.2.4f1.torrent
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3a7eb0602d92/Unity-2023.2.4f1.torrent
 
 ## Mac 
 
-> UnityInstaller   https://download.unity3d.com/download_unity/accd6d46ced1/UnityDownloadAssistant-2023.2.4f1.dmg
+> UnityInstaller   https://download.unity3d.com/download_unity/3a7eb0602d92/UnityDownloadAssistant-2023.2.4f1.dmg
 
-> UnityEditor(Intel)   https://download.unity3d.com/download_unity/accd6d46ced1/MacEditorInstaller/Unity.pkg
+> UnityEditor(Intel)   https://download.unity3d.com/download_unity/3a7eb0602d92/MacEditorInstaller/Unity.pkg
 
-> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/accd6d46ced1/MacEditorInstallerArm64/Unity.pkg
+> UnityEditor(Applesilicon)   https://download.unity3d.com/download_unity/3a7eb0602d92/MacEditorInstallerArm64/Unity.pkg
 
-> Builtinshaders   https://download.unity3d.com/download_unity/accd6d46ced1/builtin_shaders-2023.2.4f1.zip
+> Builtinshaders   https://download.unity3d.com/download_unity/3a7eb0602d92/builtin_shaders-2023.2.4f1.zip
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/accd6d46ced1/Unity-2023.2.4f1.torrent
+> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3a7eb0602d92/Unity-2023.2.4f1.torrent
 
 ## Linux 
 
-> UnityEditor   https://download.unity3d.com/download_unity/accd6d46ced1/UnitySetup-2023.2.4f1
+> UnityEditor   https://download.unity3d.com/download_unity/3a7eb0602d92/UnitySetup-2023.2.4f1
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases
 

@@ -1,5 +1,135 @@
 [
   {
+    "version_code": "Unity 2023.2.7",
+    "version_build_date": "January 23, 2024",
+    "unity_hub_url": "unityhub://2023.2.7f1/0a9195b3d453",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/UnityDownloadAssistant-2023.2.7f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/Windows64EditorInstaller/UnitySetup64-2023.2.7f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/builtin_shaders-2023.2.7f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/Unity-2023.2.7f1.torrent"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/UnityDownloadAssistant-2023.2.7f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/builtin_shaders-2023.2.7f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/Unity-2023.2.7f1.torrent"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/0a9195b3d453/UnitySetup-2023.2.7f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2023.2.6",
+    "version_build_date": "January 17, 2024",
+    "unity_hub_url": "unityhub://2023.2.6f1/57daeefc879b",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/UnityDownloadAssistant-2023.2.6f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/Windows64EditorInstaller/UnitySetup64-2023.2.6f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/builtin_shaders-2023.2.6f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/Unity-2023.2.6f1.torrent"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/UnityDownloadAssistant-2023.2.6f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/builtin_shaders-2023.2.6f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/Unity-2023.2.6f1.torrent"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/57daeefc879b/UnitySetup-2023.2.6f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
     "version_code": "Unity 2023.2.5",
     "version_build_date": "January 9, 2024",
     "unity_hub_url": "unityhub://2023.2.5f1/381b4941466e",
@@ -66,21 +196,21 @@
   },
   {
     "version_code": "Unity 2023.2.4",
-    "version_build_date": "December 20, 2023",
-    "unity_hub_url": "unityhub://2023.2.4f1/accd6d46ced1",
+    "version_build_date": "December 22, 2023",
+    "unity_hub_url": "unityhub://2023.2.4f1/3a7eb0602d92",
     "platform": {
       "win": [
         {
           "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/UnityDownloadAssistant-2023.2.4f1.exe"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/UnityDownloadAssistant-2023.2.4f1.exe"
         },
         {
           "key": "UnityEditor64-bit",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/Windows64EditorInstaller/UnitySetup64-2023.2.4f1.exe"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/Windows64EditorInstaller/UnitySetup64-2023.2.4f1.exe"
         },
         {
           "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/builtin_shaders-2023.2.4f1.zip"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/builtin_shaders-2023.2.4f1.zip"
         },
         {
           "key": "UnityAccelerator",
@@ -88,25 +218,25 @@
         },
         {
           "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/Unity-2023.2.4f1.torrent"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/Unity-2023.2.4f1.torrent"
         }
       ],
       "mac": [
         {
           "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/UnityDownloadAssistant-2023.2.4f1.dmg"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/UnityDownloadAssistant-2023.2.4f1.dmg"
         },
         {
           "key": "UnityEditor(Intel)",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/MacEditorInstaller/Unity.pkg"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/MacEditorInstaller/Unity.pkg"
         },
         {
           "key": "UnityEditor(Applesilicon)",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/MacEditorInstallerArm64/Unity.pkg"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/MacEditorInstallerArm64/Unity.pkg"
         },
         {
           "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/builtin_shaders-2023.2.4f1.zip"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/builtin_shaders-2023.2.4f1.zip"
         },
         {
           "key": "UnityAccelerator",
@@ -114,13 +244,13 @@
         },
         {
           "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/Unity-2023.2.4f1.torrent"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/Unity-2023.2.4f1.torrent"
         }
       ],
       "linux": [
         {
           "key": "UnityEditor",
-          "value": "https://download.unity3d.com/download_unity/accd6d46ced1/UnitySetup-2023.2.4f1"
+          "value": "https://download.unity3d.com/download_unity/3a7eb0602d92/UnitySetup-2023.2.4f1"
         },
         {
           "key": "UnityAccelerator",
