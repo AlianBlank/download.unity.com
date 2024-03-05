@@ -1,5 +1,70 @@
 [
   {
+    "version_code": "Unity 2021.3.35",
+    "version_build_date": "February 6, 2024",
+    "unity_hub_url": "unityhub://2021.3.35f1/157b46ce122a",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/UnityDownloadAssistant-2021.3.35f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/Windows64EditorInstaller/UnitySetup64-2021.3.35f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/builtin_shaders-2021.3.35f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/Unity-2021.3.35f1.torrent"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/UnityDownloadAssistant-2021.3.35f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/builtin_shaders-2021.3.35f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/Unity-2021.3.35f1.torrent"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/157b46ce122a/UnitySetup-2021.3.35f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
     "version_code": "Unity 2021.3.34",
     "version_build_date": "January 9, 2024",
     "unity_hub_url": "unityhub://2021.3.34f1/25266724e7bd",

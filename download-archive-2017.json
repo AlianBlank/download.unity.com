@@ -3051,6 +3051,67 @@
   },
   {
     "version_code": "Unity 2017.2.0",
+    "version_build_date": "September 22, 2017",
+    "unity_hub_url": "unityhub://2017.2.0f1/35e55a2a85de",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/UnityDownloadAssistant-2017.2.0f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/Windows64EditorInstaller/UnitySetup64-2017.2.0f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/builtin_shaders-2017.2.0f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/Unity-2017.2.0f1.torrent"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/UnityDownloadAssistant-2017.2.0f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/builtin_shaders-2017.2.0f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/Unity-2017.2.0f1.torrent"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/c24f30193bac/UnitySetup-2017.4.6f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2017.2.0",
     "version_build_date": "October 2, 2017",
     "unity_hub_url": "unityhub://2017.2.0f2/472de62575d5",
     "platform": {
@@ -3157,67 +3218,6 @@
         {
           "key": "Torrentdownload(Win+Mac)",
           "value": "https://download.unity3d.com/download_unity/46dda1414e51/Unity-2017.2.0f3.torrent"
-        }
-      ],
-      "linux": [
-        {
-          "key": "UnityEditor",
-          "value": "https://download.unity3d.com/download_unity/c24f30193bac/UnitySetup-2017.4.6f1"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
-        }
-      ]
-    }
-  },
-  {
-    "version_code": "Unity 2017.2.0",
-    "version_build_date": "September 22, 2017",
-    "unity_hub_url": "unityhub://2017.2.0f1/35e55a2a85de",
-    "platform": {
-      "win": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/UnityDownloadAssistant-2017.2.0f1.exe"
-        },
-        {
-          "key": "UnityEditor64-bit",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/Windows64EditorInstaller/UnitySetup64-2017.2.0f1.exe"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/builtin_shaders-2017.2.0f1.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/Unity-2017.2.0f1.torrent"
-        }
-      ],
-      "mac": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/UnityDownloadAssistant-2017.2.0f1.dmg"
-        },
-        {
-          "key": "UnityEditor(Intel)",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/MacEditorInstaller/Unity.pkg"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/builtin_shaders-2017.2.0f1.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/35e55a2a85de/Unity-2017.2.0f1.torrent"
         }
       ],
       "linux": [
