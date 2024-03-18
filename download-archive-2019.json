@@ -3417,67 +3417,6 @@
   },
   {
     "version_code": "Unity 2019.3.0",
-    "version_build_date": "January 13, 2020",
-    "unity_hub_url": "unityhub://2019.3.0f5/44796c9d3c2c",
-    "platform": {
-      "win": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/UnityDownloadAssistant-2019.3.0f5.exe"
-        },
-        {
-          "key": "UnityEditor64-bit",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Windows64EditorInstaller/UnitySetup64-2019.3.0f5.exe"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/builtin_shaders-2019.3.0f5.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Unity-2019.3.0f5.torrent"
-        }
-      ],
-      "mac": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/UnityDownloadAssistant-2019.3.0f5.dmg"
-        },
-        {
-          "key": "UnityEditor(Intel)",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/MacEditorInstaller/Unity.pkg"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/builtin_shaders-2019.3.0f5.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Unity-2019.3.0f5.torrent"
-        }
-      ],
-      "linux": [
-        {
-          "key": "UnityEditor",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/UnitySetup-2019.3.0f5"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
-        }
-      ]
-    }
-  },
-  {
-    "version_code": "Unity 2019.3.0",
     "version_build_date": "January 27, 2020",
     "unity_hub_url": "unityhub://2019.3.0f6/27ab2135bccf",
     "platform": {
@@ -3651,6 +3590,67 @@
         {
           "key": "UnityEditor",
           "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnitySetup-2019.3.0f3"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2019.3.0",
+    "version_build_date": "January 13, 2020",
+    "unity_hub_url": "unityhub://2019.3.0f5/44796c9d3c2c",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/UnityDownloadAssistant-2019.3.0f5.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Windows64EditorInstaller/UnitySetup64-2019.3.0f5.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/builtin_shaders-2019.3.0f5.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Unity-2019.3.0f5.torrent"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/UnityDownloadAssistant-2019.3.0f5.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/builtin_shaders-2019.3.0f5.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Unity-2019.3.0f5.torrent"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/UnitySetup-2019.3.0f5"
         },
         {
           "key": "UnityAccelerator",
