@@ -1,5 +1,70 @@
 [
   {
+    "version_code": "Unity 2022.3.22",
+    "version_build_date": "March 19, 2024",
+    "unity_hub_url": "unityhub://2022.3.22f1/887be4894c44",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/UnityDownloadAssistant-2022.3.22f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/Windows64EditorInstaller/UnitySetup64-2022.3.22f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/builtin_shaders-2022.3.22f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/Unity-2022.3.22f1.torrent"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/UnityDownloadAssistant-2022.3.22f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/builtin_shaders-2022.3.22f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        },
+        {
+          "key": "Torrentdownload(Win+Mac)",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/Unity-2022.3.22f1.torrent"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/887be4894c44/UnitySetup-2022.3.22f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
     "version_code": "Unity 2022.3.21",
     "version_build_date": "March 5, 2024",
     "unity_hub_url": "unityhub://2022.3.21f1/bf09ca542b87",
