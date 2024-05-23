@@ -1,6 +1,6 @@
 
 # Unity Version :Unity 2018.4.36	Publish Date :June 17, 2021
-> Unity Hub :unityhub://2018.4.36f1/6cd387d23174
+> Unity Hub : unityhub://2018.4.36f1/6cd387d23174
 
 ## Windows 
 
@@ -12,8 +12,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6cd387d23174/Unity-2018.4.36f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/6cd387d23174/UnityDownloadAssistant-2018.4.36f1.dmg
@@ -24,8 +22,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6cd387d23174/Unity-2018.4.36f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/6cd387d23174/UnitySetup-2018.4.36f1
@@ -35,7 +31,7 @@
 
 
 # Unity Version :Unity 2018.4.35	Publish Date :May 12, 2021
-> Unity Hub :unityhub://2018.4.35f1/dbb5675dce2d
+> Unity Hub : unityhub://2018.4.35f1/dbb5675dce2d
 
 ## Windows 
 
@@ -47,8 +43,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/dbb5675dce2d/Unity-2018.4.35f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/dbb5675dce2d/UnityDownloadAssistant-2018.4.35f1.dmg
@@ -59,8 +53,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/dbb5675dce2d/Unity-2018.4.35f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/dbb5675dce2d/UnitySetup-2018.4.35f1
@@ -70,7 +62,7 @@
 
 
 # Unity Version :Unity 2018.4.34	Publish Date :April 15, 2021
-> Unity Hub :unityhub://2018.4.34f1/ae2afac172fb
+> Unity Hub : unityhub://2018.4.34f1/ae2afac172fb
 
 ## Windows 
 
@@ -82,8 +74,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ae2afac172fb/Unity-2018.4.34f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/ae2afac172fb/UnityDownloadAssistant-2018.4.34f1.dmg
@@ -94,8 +84,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ae2afac172fb/Unity-2018.4.34f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/ae2afac172fb/UnitySetup-2018.4.34f1
@@ -105,7 +93,7 @@
 
 
 # Unity Version :Unity 2018.4.33	Publish Date :March 24, 2021
-> Unity Hub :unityhub://2018.4.33f1/d75f7e9df24c
+> Unity Hub : unityhub://2018.4.33f1/d75f7e9df24c
 
 ## Windows 
 
@@ -117,8 +105,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d75f7e9df24c/Unity-2018.4.33f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/d75f7e9df24c/UnityDownloadAssistant-2018.4.33f1.dmg
@@ -129,8 +115,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d75f7e9df24c/Unity-2018.4.33f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/d75f7e9df24c/UnitySetup-2018.4.33f1
@@ -140,7 +124,7 @@
 
 
 # Unity Version :Unity 2018.4.32	Publish Date :February 18, 2021
-> Unity Hub :unityhub://2018.4.32f1/fba45da84107
+> Unity Hub : unityhub://2018.4.32f1/fba45da84107
 
 ## Windows 
 
@@ -152,8 +136,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fba45da84107/Unity-2018.4.32f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/fba45da84107/UnityDownloadAssistant-2018.4.32f1.dmg
@@ -164,8 +146,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fba45da84107/Unity-2018.4.32f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/fba45da84107/UnitySetup-2018.4.32f1
@@ -175,7 +155,7 @@
 
 
 # Unity Version :Unity 2018.4.31	Publish Date :January 22, 2021
-> Unity Hub :unityhub://2018.4.31f1/212ea663d844
+> Unity Hub : unityhub://2018.4.31f1/212ea663d844
 
 ## Windows 
 
@@ -187,8 +167,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/212ea663d844/Unity-2018.4.31f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/212ea663d844/UnityDownloadAssistant-2018.4.31f1.dmg
@@ -199,8 +177,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/212ea663d844/Unity-2018.4.31f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/212ea663d844/UnitySetup-2018.4.31f1
@@ -210,7 +186,7 @@
 
 
 # Unity Version :Unity 2018.4.30	Publish Date :December 1, 2020
-> Unity Hub :unityhub://2018.4.30f1/c698a062d8e6
+> Unity Hub : unityhub://2018.4.30f1/c698a062d8e6
 
 ## Windows 
 
@@ -222,8 +198,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c698a062d8e6/Unity-2018.4.30f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/c698a062d8e6/UnityDownloadAssistant-2018.4.30f1.dmg
@@ -234,8 +208,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c698a062d8e6/Unity-2018.4.30f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/c698a062d8e6/UnitySetup-2018.4.30f1
@@ -245,7 +217,7 @@
 
 
 # Unity Version :Unity 2018.4.29	Publish Date :November 11, 2020
-> Unity Hub :unityhub://2018.4.29f1/50cce2edf27f
+> Unity Hub : unityhub://2018.4.29f1/50cce2edf27f
 
 ## Windows 
 
@@ -257,8 +229,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/50cce2edf27f/Unity-2018.4.29f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/50cce2edf27f/UnityDownloadAssistant-2018.4.29f1.dmg
@@ -269,8 +239,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/50cce2edf27f/Unity-2018.4.29f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/50cce2edf27f/UnitySetup-2018.4.29f1
@@ -280,7 +248,7 @@
 
 
 # Unity Version :Unity 2018.4.28	Publish Date :October 6, 2020
-> Unity Hub :unityhub://2018.4.28f1/a2d4f71491a4
+> Unity Hub : unityhub://2018.4.28f1/a2d4f71491a4
 
 ## Windows 
 
@@ -292,8 +260,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a2d4f71491a4/Unity-2018.4.28f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a2d4f71491a4/UnityDownloadAssistant-2018.4.28f1.dmg
@@ -304,8 +270,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a2d4f71491a4/Unity-2018.4.28f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/a2d4f71491a4/UnitySetup-2018.4.28f1
@@ -315,7 +279,7 @@
 
 
 # Unity Version :Unity 2018.4.27	Publish Date :September 9, 2020
-> Unity Hub :unityhub://2018.4.27f1/4e283b7d3f88
+> Unity Hub : unityhub://2018.4.27f1/4e283b7d3f88
 
 ## Windows 
 
@@ -327,8 +291,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4e283b7d3f88/Unity-2018.4.27f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/4e283b7d3f88/UnityDownloadAssistant-2018.4.27f1.dmg
@@ -339,8 +301,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4e283b7d3f88/Unity-2018.4.27f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/4e283b7d3f88/UnitySetup-2018.4.27f1
@@ -350,7 +310,7 @@
 
 
 # Unity Version :Unity 2018.4.26	Publish Date :August 12, 2020
-> Unity Hub :unityhub://2018.4.26f1/a7ac1c6396db
+> Unity Hub : unityhub://2018.4.26f1/a7ac1c6396db
 
 ## Windows 
 
@@ -362,8 +322,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a7ac1c6396db/Unity-2018.4.26f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a7ac1c6396db/UnityDownloadAssistant-2018.4.26f1.dmg
@@ -374,8 +332,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a7ac1c6396db/Unity-2018.4.26f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/a7ac1c6396db/UnitySetup-2018.4.26f1
@@ -385,7 +341,7 @@
 
 
 # Unity Version :Unity 2018.4.25	Publish Date :July 14, 2020
-> Unity Hub :unityhub://2018.4.25f1/b07bfa0a8827
+> Unity Hub : unityhub://2018.4.25f1/b07bfa0a8827
 
 ## Windows 
 
@@ -397,8 +353,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b07bfa0a8827/Unity-2018.4.25f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b07bfa0a8827/UnityDownloadAssistant-2018.4.25f1.dmg
@@ -409,8 +363,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b07bfa0a8827/Unity-2018.4.25f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/b07bfa0a8827/UnitySetup-2018.4.25f1
@@ -420,7 +372,7 @@
 
 
 # Unity Version :Unity 2018.4.24	Publish Date :July 2, 2020
-> Unity Hub :unityhub://2018.4.24f1/3071911a89e9
+> Unity Hub : unityhub://2018.4.24f1/3071911a89e9
 
 ## Windows 
 
@@ -432,8 +384,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3071911a89e9/Unity-2018.4.24f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/3071911a89e9/UnityDownloadAssistant-2018.4.24f1.dmg
@@ -444,8 +394,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3071911a89e9/Unity-2018.4.24f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/3071911a89e9/UnitySetup-2018.4.24f1
@@ -455,7 +403,7 @@
 
 
 # Unity Version :Unity 2018.4.23	Publish Date :May 18, 2020
-> Unity Hub :unityhub://2018.4.23f1/c9cf1a90e812
+> Unity Hub : unityhub://2018.4.23f1/c9cf1a90e812
 
 ## Windows 
 
@@ -467,8 +415,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c9cf1a90e812/Unity-2018.4.23f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/c9cf1a90e812/UnityDownloadAssistant-2018.4.23f1.dmg
@@ -479,8 +425,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c9cf1a90e812/Unity-2018.4.23f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/c9cf1a90e812/UnitySetup-2018.4.23f1
@@ -490,7 +434,7 @@
 
 
 # Unity Version :Unity 2018.4.22	Publish Date :April 24, 2020
-> Unity Hub :unityhub://2018.4.22f1/3362ffbb7aa1
+> Unity Hub : unityhub://2018.4.22f1/3362ffbb7aa1
 
 ## Windows 
 
@@ -502,8 +446,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3362ffbb7aa1/Unity-2018.4.22f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/3362ffbb7aa1/UnityDownloadAssistant-2018.4.22f1.dmg
@@ -514,8 +456,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3362ffbb7aa1/Unity-2018.4.22f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/3362ffbb7aa1/UnitySetup-2018.4.22f1
@@ -525,7 +465,7 @@
 
 
 # Unity Version :Unity 2018.4.21	Publish Date :April 9, 2020
-> Unity Hub :unityhub://2018.4.21f1/fd3915227633
+> Unity Hub : unityhub://2018.4.21f1/fd3915227633
 
 ## Windows 
 
@@ -537,8 +477,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fd3915227633/Unity-2018.4.21f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/fd3915227633/UnityDownloadAssistant-2018.4.21f1.dmg
@@ -549,8 +487,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fd3915227633/Unity-2018.4.21f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/fd3915227633/UnitySetup-2018.4.21f1
@@ -560,7 +496,7 @@
 
 
 # Unity Version :Unity 2018.4.20	Publish Date :March 26, 2020
-> Unity Hub :unityhub://2018.4.20f1/008688490035
+> Unity Hub : unityhub://2018.4.20f1/008688490035
 
 ## Windows 
 
@@ -572,8 +508,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/008688490035/Unity-2018.4.20f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/008688490035/UnityDownloadAssistant-2018.4.20f1.dmg
@@ -584,8 +518,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/008688490035/Unity-2018.4.20f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/008688490035/UnitySetup-2018.4.20f1
@@ -595,7 +527,7 @@
 
 
 # Unity Version :Unity 2018.4.19	Publish Date :March 13, 2020
-> Unity Hub :unityhub://2018.4.19f1/459f70f82ea4
+> Unity Hub : unityhub://2018.4.19f1/459f70f82ea4
 
 ## Windows 
 
@@ -607,8 +539,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/459f70f82ea4/Unity-2018.4.19f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/459f70f82ea4/UnityDownloadAssistant-2018.4.19f1.dmg
@@ -619,8 +549,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/459f70f82ea4/Unity-2018.4.19f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/459f70f82ea4/UnitySetup-2018.4.19f1
@@ -630,7 +558,7 @@
 
 
 # Unity Version :Unity 2018.4.18	Publish Date :February 27, 2020
-> Unity Hub :unityhub://2018.4.18f1/61fce66342ad
+> Unity Hub : unityhub://2018.4.18f1/61fce66342ad
 
 ## Windows 
 
@@ -642,8 +570,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/61fce66342ad/Unity-2018.4.18f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/61fce66342ad/UnityDownloadAssistant-2018.4.18f1.dmg
@@ -654,8 +580,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/61fce66342ad/Unity-2018.4.18f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/61fce66342ad/UnitySetup-2018.4.18f1
@@ -665,7 +589,7 @@
 
 
 # Unity Version :Unity 2018.4.17	Publish Date :February 11, 2020
-> Unity Hub :unityhub://2018.4.17f1/b830f56f42f0
+> Unity Hub : unityhub://2018.4.17f1/b830f56f42f0
 
 ## Windows 
 
@@ -677,8 +601,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b830f56f42f0/Unity-2018.4.17f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b830f56f42f0/UnityDownloadAssistant-2018.4.17f1.dmg
@@ -689,8 +611,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b830f56f42f0/Unity-2018.4.17f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/b830f56f42f0/UnitySetup-2018.4.17f1
@@ -700,7 +620,7 @@
 
 
 # Unity Version :Unity 2018.4.16	Publish Date :January 27, 2020
-> Unity Hub :unityhub://2018.4.16f1/e6e9ca02b32a
+> Unity Hub : unityhub://2018.4.16f1/e6e9ca02b32a
 
 ## Windows 
 
@@ -712,8 +632,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/e6e9ca02b32a/Unity-2018.4.16f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/e6e9ca02b32a/UnityDownloadAssistant-2018.4.16f1.dmg
@@ -724,8 +642,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/e6e9ca02b32a/Unity-2018.4.16f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/e6e9ca02b32a/UnitySetup-2018.4.16f1
@@ -735,7 +651,7 @@
 
 
 # Unity Version :Unity 2018.4.15	Publish Date :January 9, 2020
-> Unity Hub :unityhub://2018.4.15f1/13f5a1bf9ca1
+> Unity Hub : unityhub://2018.4.15f1/13f5a1bf9ca1
 
 ## Windows 
 
@@ -747,8 +663,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/13f5a1bf9ca1/Unity-2018.4.15f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/13f5a1bf9ca1/UnityDownloadAssistant-2018.4.15f1.dmg
@@ -759,8 +673,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/13f5a1bf9ca1/Unity-2018.4.15f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/13f5a1bf9ca1/UnitySetup-2018.4.15f1
@@ -770,7 +682,7 @@
 
 
 # Unity Version :Unity 2018.4.14	Publish Date :December 10, 2019
-> Unity Hub :unityhub://2018.4.14f1/05119b33d0b7
+> Unity Hub : unityhub://2018.4.14f1/05119b33d0b7
 
 ## Windows 
 
@@ -782,8 +694,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/05119b33d0b7/Unity-2018.4.14f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/05119b33d0b7/UnityDownloadAssistant-2018.4.14f1.dmg
@@ -794,8 +704,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/05119b33d0b7/Unity-2018.4.14f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/05119b33d0b7/UnitySetup-2018.4.14f1
@@ -805,7 +713,7 @@
 
 
 # Unity Version :Unity 2018.4.13	Publish Date :November 21, 2019
-> Unity Hub :unityhub://2018.4.13f1/497f083a43af
+> Unity Hub : unityhub://2018.4.13f1/497f083a43af
 
 ## Windows 
 
@@ -817,8 +725,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497f083a43af/Unity-2018.4.13f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/497f083a43af/UnityDownloadAssistant-2018.4.13f1.dmg
@@ -829,8 +735,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/497f083a43af/Unity-2018.4.13f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/497f083a43af/UnitySetup-2018.4.13f1
@@ -840,7 +744,7 @@
 
 
 # Unity Version :Unity 2018.4.12	Publish Date :October 28, 2019
-> Unity Hub :unityhub://2018.4.12f1/59ddc4c59b4f
+> Unity Hub : unityhub://2018.4.12f1/59ddc4c59b4f
 
 ## Windows 
 
@@ -852,8 +756,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/59ddc4c59b4f/Unity-2018.4.12f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/59ddc4c59b4f/UnityDownloadAssistant-2018.4.12f1.dmg
@@ -864,8 +766,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/59ddc4c59b4f/Unity-2018.4.12f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/59ddc4c59b4f/UnitySetup-2018.4.12f1
@@ -875,7 +775,7 @@
 
 
 # Unity Version :Unity 2018.4.11	Publish Date :October 10, 2019
-> Unity Hub :unityhub://2018.4.11f1/7098af2f11ea
+> Unity Hub : unityhub://2018.4.11f1/7098af2f11ea
 
 ## Windows 
 
@@ -887,8 +787,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/7098af2f11ea/Unity-2018.4.11f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/7098af2f11ea/UnityDownloadAssistant-2018.4.11f1.dmg
@@ -899,8 +797,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/7098af2f11ea/Unity-2018.4.11f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/7098af2f11ea/UnitySetup-2018.4.11f1
@@ -910,7 +806,7 @@
 
 
 # Unity Version :Unity 2018.4.10	Publish Date :October 1, 2019
-> Unity Hub :unityhub://2018.4.10f1/a0470569e97b
+> Unity Hub : unityhub://2018.4.10f1/a0470569e97b
 
 ## Windows 
 
@@ -922,8 +818,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a0470569e97b/Unity-2018.4.10f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a0470569e97b/UnityDownloadAssistant-2018.4.10f1.dmg
@@ -934,8 +828,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a0470569e97b/Unity-2018.4.10f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/a0470569e97b/UnitySetup-2018.4.10f1
@@ -945,7 +837,7 @@
 
 
 # Unity Version :Unity 2018.4.9	Publish Date :September 13, 2019
-> Unity Hub :unityhub://2018.4.9f1/ca372476eaba
+> Unity Hub : unityhub://2018.4.9f1/ca372476eaba
 
 ## Windows 
 
@@ -957,8 +849,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ca372476eaba/Unity-2018.4.9f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/ca372476eaba/UnityDownloadAssistant-2018.4.9f1.dmg
@@ -969,8 +859,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ca372476eaba/Unity-2018.4.9f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/ca372476eaba/UnitySetup-2018.4.9f1
@@ -980,7 +868,7 @@
 
 
 # Unity Version :Unity 2018.4.8	Publish Date :August 30, 2019
-> Unity Hub :unityhub://2018.4.8f1/9bc9d983d803
+> Unity Hub : unityhub://2018.4.8f1/9bc9d983d803
 
 ## Windows 
 
@@ -992,8 +880,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/9bc9d983d803/Unity-2018.4.8f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/9bc9d983d803/UnityDownloadAssistant-2018.4.8f1.dmg
@@ -1004,8 +890,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/9bc9d983d803/Unity-2018.4.8f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/9bc9d983d803/UnitySetup-2018.4.8f1
@@ -1015,7 +899,7 @@
 
 
 # Unity Version :Unity 2018.4.7	Publish Date :August 19, 2019
-> Unity Hub :unityhub://2018.4.7f1/b9a993fd1334
+> Unity Hub : unityhub://2018.4.7f1/b9a993fd1334
 
 ## Windows 
 
@@ -1027,8 +911,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b9a993fd1334/Unity-2018.4.7f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b9a993fd1334/UnityDownloadAssistant-2018.4.7f1.dmg
@@ -1039,8 +921,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b9a993fd1334/Unity-2018.4.7f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/b9a993fd1334/UnitySetup-2018.4.7f1
@@ -1050,7 +930,7 @@
 
 
 # Unity Version :Unity 2018.4.6	Publish Date :August 8, 2019
-> Unity Hub :unityhub://2018.4.6f1/cde1bbcc9f0d
+> Unity Hub : unityhub://2018.4.6f1/cde1bbcc9f0d
 
 ## Windows 
 
@@ -1062,8 +942,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cde1bbcc9f0d/Unity-2018.4.6f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/cde1bbcc9f0d/UnityDownloadAssistant-2018.4.6f1.dmg
@@ -1074,8 +952,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cde1bbcc9f0d/Unity-2018.4.6f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/cde1bbcc9f0d/UnitySetup-2018.4.6f1
@@ -1085,7 +961,7 @@
 
 
 # Unity Version :Unity 2018.4.5	Publish Date :July 26, 2019
-> Unity Hub :unityhub://2018.4.5f1/7b38f8ac282e
+> Unity Hub : unityhub://2018.4.5f1/7b38f8ac282e
 
 ## Windows 
 
@@ -1097,8 +973,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/7b38f8ac282e/Unity-2018.4.5f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/7b38f8ac282e/UnityDownloadAssistant-2018.4.5f1.dmg
@@ -1109,8 +983,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/7b38f8ac282e/Unity-2018.4.5f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/7b38f8ac282e/UnitySetup-2018.4.5f1
@@ -1120,7 +992,7 @@
 
 
 # Unity Version :Unity 2018.4.4	Publish Date :July 12, 2019
-> Unity Hub :unityhub://2018.4.4f1/5440768ff61c
+> Unity Hub : unityhub://2018.4.4f1/5440768ff61c
 
 ## Windows 
 
@@ -1132,8 +1004,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5440768ff61c/Unity-2018.4.4f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/5440768ff61c/UnityDownloadAssistant-2018.4.4f1.dmg
@@ -1144,8 +1014,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5440768ff61c/Unity-2018.4.4f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/5440768ff61c/UnitySetup-2018.4.4f1
@@ -1155,7 +1023,7 @@
 
 
 # Unity Version :Unity 2018.4.3	Publish Date :June 28, 2019
-> Unity Hub :unityhub://2018.4.3f1/8a9509a5aff9
+> Unity Hub : unityhub://2018.4.3f1/8a9509a5aff9
 
 ## Windows 
 
@@ -1167,8 +1035,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/8a9509a5aff9/Unity-2018.4.3f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/8a9509a5aff9/UnityDownloadAssistant-2018.4.3f1.dmg
@@ -1179,8 +1045,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/8a9509a5aff9/Unity-2018.4.3f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/8a9509a5aff9/UnitySetup-2018.4.3f1
@@ -1190,7 +1054,7 @@
 
 
 # Unity Version :Unity 2018.4.2	Publish Date :June 8, 2019
-> Unity Hub :unityhub://2018.4.2f1/d6fb3630ea75
+> Unity Hub : unityhub://2018.4.2f1/d6fb3630ea75
 
 ## Windows 
 
@@ -1202,8 +1066,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d6fb3630ea75/Unity-2018.4.2f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/d6fb3630ea75/UnityDownloadAssistant-2018.4.2f1.dmg
@@ -1214,8 +1076,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d6fb3630ea75/Unity-2018.4.2f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/d6fb3630ea75/UnitySetup-2018.4.2f1
@@ -1225,7 +1085,7 @@
 
 
 # Unity Version :Unity 2018.4.1	Publish Date :May 28, 2019
-> Unity Hub :unityhub://2018.4.1f1/b7c424a951c0
+> Unity Hub : unityhub://2018.4.1f1/b7c424a951c0
 
 ## Windows 
 
@@ -1237,8 +1097,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b7c424a951c0/Unity-2018.4.1f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b7c424a951c0/UnityDownloadAssistant-2018.4.1f1.dmg
@@ -1249,8 +1107,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b7c424a951c0/Unity-2018.4.1f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/b7c424a951c0/UnitySetup-2018.4.1f1
@@ -1260,7 +1116,7 @@
 
 
 # Unity Version :Unity 2018.4.0	Publish Date :May 10, 2019
-> Unity Hub :unityhub://2018.4.0f1/b6ffa8986c8d
+> Unity Hub : unityhub://2018.4.0f1/b6ffa8986c8d
 
 ## Windows 
 
@@ -1272,8 +1128,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b6ffa8986c8d/Unity-2018.4.0f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b6ffa8986c8d/UnityDownloadAssistant-2018.4.0f1.dmg
@@ -1284,8 +1138,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b6ffa8986c8d/Unity-2018.4.0f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/b6ffa8986c8d/UnitySetup-2018.4.0f1
@@ -1295,7 +1147,7 @@
 
 
 # Unity Version :Unity 2018.3.14	Publish Date :April 26, 2019
-> Unity Hub :unityhub://2018.3.14f1/d0e9f15437b1
+> Unity Hub : unityhub://2018.3.14f1/d0e9f15437b1
 
 ## Windows 
 
@@ -1307,8 +1159,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d0e9f15437b1/Unity-2018.3.14f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/d0e9f15437b1/UnityDownloadAssistant-2018.3.14f1.dmg
@@ -1319,8 +1169,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d0e9f15437b1/Unity-2018.3.14f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/d0e9f15437b1/UnitySetup-2018.3.14f1
@@ -1330,7 +1178,7 @@
 
 
 # Unity Version :Unity 2018.3.13	Publish Date :April 18, 2019
-> Unity Hub :unityhub://2018.3.13f1/06548a9e9582
+> Unity Hub : unityhub://2018.3.13f1/06548a9e9582
 
 ## Windows 
 
@@ -1342,8 +1190,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/06548a9e9582/Unity-2018.3.13f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/06548a9e9582/UnityDownloadAssistant-2018.3.13f1.dmg
@@ -1354,8 +1200,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/06548a9e9582/Unity-2018.3.13f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/06548a9e9582/UnitySetup-2018.3.13f1
@@ -1365,7 +1209,7 @@
 
 
 # Unity Version :Unity 2018.3.12	Publish Date :April 8, 2019
-> Unity Hub :unityhub://2018.3.12f1/8afd630d1f5b
+> Unity Hub : unityhub://2018.3.12f1/8afd630d1f5b
 
 ## Windows 
 
@@ -1377,8 +1221,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/8afd630d1f5b/Unity-2018.3.12f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/8afd630d1f5b/UnityDownloadAssistant-2018.3.12f1.dmg
@@ -1389,8 +1231,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/8afd630d1f5b/Unity-2018.3.12f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/8afd630d1f5b/UnitySetup-2018.3.12f1
@@ -1400,7 +1240,7 @@
 
 
 # Unity Version :Unity 2018.3.11	Publish Date :March 29, 2019
-> Unity Hub :unityhub://2018.3.11f1/5063218e4ab8
+> Unity Hub : unityhub://2018.3.11f1/5063218e4ab8
 
 ## Windows 
 
@@ -1412,8 +1252,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5063218e4ab8/Unity-2018.3.11f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/5063218e4ab8/UnityDownloadAssistant-2018.3.11f1.dmg
@@ -1424,8 +1262,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/5063218e4ab8/Unity-2018.3.11f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/5063218e4ab8/UnitySetup-2018.3.11f1
@@ -1435,7 +1271,7 @@
 
 
 # Unity Version :Unity 2018.3.10	Publish Date :March 25, 2019
-> Unity Hub :unityhub://2018.3.10f1/f88de2c96e63
+> Unity Hub : unityhub://2018.3.10f1/f88de2c96e63
 
 ## Windows 
 
@@ -1447,8 +1283,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/f88de2c96e63/Unity-2018.3.10f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/f88de2c96e63/UnityDownloadAssistant-2018.3.10f1.dmg
@@ -1459,8 +1293,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/f88de2c96e63/Unity-2018.3.10f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/f88de2c96e63/UnitySetup-2018.3.10f1
@@ -1470,7 +1302,7 @@
 
 
 # Unity Version :Unity 2018.3.9	Publish Date :March 18, 2019
-> Unity Hub :unityhub://2018.3.9f1/947e1ea5aa8d
+> Unity Hub : unityhub://2018.3.9f1/947e1ea5aa8d
 
 ## Windows 
 
@@ -1482,8 +1314,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/947e1ea5aa8d/Unity-2018.3.9f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/947e1ea5aa8d/UnityDownloadAssistant-2018.3.9f1.dmg
@@ -1494,8 +1324,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/947e1ea5aa8d/Unity-2018.3.9f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/947e1ea5aa8d/UnitySetup-2018.3.9f1
@@ -1505,7 +1333,7 @@
 
 
 # Unity Version :Unity 2018.3.8	Publish Date :March 8, 2019
-> Unity Hub :unityhub://2018.3.8f1/fc0fe30d6d91
+> Unity Hub : unityhub://2018.3.8f1/fc0fe30d6d91
 
 ## Windows 
 
@@ -1517,8 +1345,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fc0fe30d6d91/Unity-2018.3.8f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/fc0fe30d6d91/UnityDownloadAssistant-2018.3.8f1.dmg
@@ -1529,8 +1355,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/fc0fe30d6d91/Unity-2018.3.8f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/fc0fe30d6d91/UnitySetup-2018.3.8f1
@@ -1540,7 +1364,7 @@
 
 
 # Unity Version :Unity 2018.3.7	Publish Date :February 28, 2019
-> Unity Hub :unityhub://2018.3.7f1/9e14d22a41bb
+> Unity Hub : unityhub://2018.3.7f1/9e14d22a41bb
 
 ## Windows 
 
@@ -1552,8 +1376,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/9e14d22a41bb/Unity-2018.3.7f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/9e14d22a41bb/UnityDownloadAssistant-2018.3.7f1.dmg
@@ -1564,8 +1386,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/9e14d22a41bb/Unity-2018.3.7f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/9e14d22a41bb/UnitySetup-2018.3.7f1
@@ -1575,7 +1395,7 @@
 
 
 # Unity Version :Unity 2018.3.6	Publish Date :February 15, 2019
-> Unity Hub :unityhub://2018.3.6f1/a220877bc173
+> Unity Hub : unityhub://2018.3.6f1/a220877bc173
 
 ## Windows 
 
@@ -1587,8 +1407,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a220877bc173/Unity-2018.3.6f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a220877bc173/UnityDownloadAssistant-2018.3.6f1.dmg
@@ -1599,8 +1417,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a220877bc173/Unity-2018.3.6f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/a220877bc173/UnitySetup-2018.3.6f1
@@ -1610,7 +1426,7 @@
 
 
 # Unity Version :Unity 2018.3.5	Publish Date :February 8, 2019
-> Unity Hub :unityhub://2018.3.5f1/76b3e37670a4
+> Unity Hub : unityhub://2018.3.5f1/76b3e37670a4
 
 ## Windows 
 
@@ -1622,8 +1438,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/76b3e37670a4/Unity-2018.3.5f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/76b3e37670a4/UnityDownloadAssistant-2018.3.5f1.dmg
@@ -1634,8 +1448,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/76b3e37670a4/Unity-2018.3.5f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/76b3e37670a4/UnitySetup-2018.3.5f1
@@ -1645,7 +1457,7 @@
 
 
 # Unity Version :Unity 2018.3.4	Publish Date :February 1, 2019
-> Unity Hub :unityhub://2018.3.4f1/1d952368ca3a
+> Unity Hub : unityhub://2018.3.4f1/1d952368ca3a
 
 ## Windows 
 
@@ -1657,8 +1469,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1d952368ca3a/Unity-2018.3.4f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/1d952368ca3a/UnityDownloadAssistant-2018.3.4f1.dmg
@@ -1669,8 +1479,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1d952368ca3a/Unity-2018.3.4f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/1d952368ca3a/UnitySetup-2018.3.4f1
@@ -1680,7 +1488,7 @@
 
 
 # Unity Version :Unity 2018.3.3	Publish Date :January 25, 2019
-> Unity Hub :unityhub://2018.3.3f1/393bae82dbb8
+> Unity Hub : unityhub://2018.3.3f1/393bae82dbb8
 
 ## Windows 
 
@@ -1692,8 +1500,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/393bae82dbb8/Unity-2018.3.3f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/393bae82dbb8/UnityDownloadAssistant-2018.3.3f1.dmg
@@ -1704,8 +1510,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/393bae82dbb8/Unity-2018.3.3f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/393bae82dbb8/UnitySetup-2018.3.3f1
@@ -1715,7 +1519,7 @@
 
 
 # Unity Version :Unity 2018.3.2	Publish Date :January 17, 2019
-> Unity Hub :unityhub://2018.3.2f1/b3c100a4b73a
+> Unity Hub : unityhub://2018.3.2f1/b3c100a4b73a
 
 ## Windows 
 
@@ -1727,8 +1531,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b3c100a4b73a/Unity-2018.3.2f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b3c100a4b73a/UnityDownloadAssistant-2018.3.2f1.dmg
@@ -1739,8 +1541,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b3c100a4b73a/Unity-2018.3.2f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/b3c100a4b73a/UnitySetup-2018.3.2f1
@@ -1750,7 +1550,7 @@
 
 
 # Unity Version :Unity 2018.3.1	Publish Date :January 10, 2019
-> Unity Hub :unityhub://2018.3.1f1/bb579dc42f1d
+> Unity Hub : unityhub://2018.3.1f1/bb579dc42f1d
 
 ## Windows 
 
@@ -1762,8 +1562,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/bb579dc42f1d/Unity-2018.3.1f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/bb579dc42f1d/UnityDownloadAssistant-2018.3.1f1.dmg
@@ -1774,8 +1572,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/bb579dc42f1d/Unity-2018.3.1f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/bb579dc42f1d/UnitySetup-2018.3.1f1
@@ -1785,7 +1581,7 @@
 
 
 # Unity Version :Unity 2018.3.0	Publish Date :December 11, 2018
-> Unity Hub :unityhub://2018.3.0f1/f023c421e164
+> Unity Hub : unityhub://2018.3.0f1/f023c421e164
 
 ## Windows 
 
@@ -1797,8 +1593,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/f023c421e164/Unity-2018.3.0f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/f023c421e164/UnityDownloadAssistant-2018.3.0f1.dmg
@@ -1809,8 +1603,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/f023c421e164/Unity-2018.3.0f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/f023c421e164/UnitySetup-2018.3.0f1
@@ -1820,7 +1612,7 @@
 
 
 # Unity Version :Unity 2018.3.0	Publish Date :December 12, 2018
-> Unity Hub :unityhub://2018.3.0f2/6e9a27477296
+> Unity Hub : unityhub://2018.3.0f2/6e9a27477296
 
 ## Windows 
 
@@ -1832,8 +1624,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6e9a27477296/Unity-2018.3.0f2.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/6e9a27477296/UnityDownloadAssistant-2018.3.0f2.dmg
@@ -1844,8 +1634,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/6e9a27477296/Unity-2018.3.0f2.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/6e9a27477296/UnitySetup-2018.3.0f2
@@ -1855,7 +1643,7 @@
 
 
 # Unity Version :Unity 2018.2.21	Publish Date :February 28, 2019
-> Unity Hub :unityhub://2018.2.21f1/a122f5dc316d
+> Unity Hub : unityhub://2018.2.21f1/a122f5dc316d
 
 ## Windows 
 
@@ -1867,8 +1655,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a122f5dc316d/Unity-2018.2.21f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a122f5dc316d/UnityDownloadAssistant-2018.2.21f1.dmg
@@ -1879,8 +1665,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a122f5dc316d/Unity-2018.2.21f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/a122f5dc316d/UnitySetup-2018.2.21f1
@@ -1890,7 +1674,7 @@
 
 
 # Unity Version :Unity 2018.2.20	Publish Date :December 14, 2018
-> Unity Hub :unityhub://2018.2.20f1/cef3e6c0c622
+> Unity Hub : unityhub://2018.2.20f1/cef3e6c0c622
 
 ## Windows 
 
@@ -1902,8 +1686,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cef3e6c0c622/Unity-2018.2.20f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/cef3e6c0c622/UnityDownloadAssistant-2018.2.20f1.dmg
@@ -1914,8 +1696,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cef3e6c0c622/Unity-2018.2.20f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/cef3e6c0c622/UnitySetup-2018.2.20f1
@@ -1925,7 +1705,7 @@
 
 
 # Unity Version :Unity 2018.2.19	Publish Date :December 7, 2018
-> Unity Hub :unityhub://2018.2.19f1/06990f28ba00
+> Unity Hub : unityhub://2018.2.19f1/06990f28ba00
 
 ## Windows 
 
@@ -1937,8 +1717,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/06990f28ba00/Unity-2018.2.19f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/06990f28ba00/UnityDownloadAssistant-2018.2.19f1.dmg
@@ -1949,8 +1727,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/06990f28ba00/Unity-2018.2.19f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/06990f28ba00/UnitySetup-2018.2.19f1
@@ -1960,7 +1736,7 @@
 
 
 # Unity Version :Unity 2018.2.18	Publish Date :November 30, 2018
-> Unity Hub :unityhub://2018.2.18f1/4550892b6062
+> Unity Hub : unityhub://2018.2.18f1/4550892b6062
 
 ## Windows 
 
@@ -1972,8 +1748,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4550892b6062/Unity-2018.2.18f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/4550892b6062/UnityDownloadAssistant-2018.2.18f1.dmg
@@ -1984,8 +1758,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4550892b6062/Unity-2018.2.18f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/4550892b6062/UnitySetup-2018.2.18f1
@@ -1995,7 +1767,7 @@
 
 
 # Unity Version :Unity 2018.2.17	Publish Date :November 21, 2018
-> Unity Hub :unityhub://2018.2.17f1/88933597c842
+> Unity Hub : unityhub://2018.2.17f1/88933597c842
 
 ## Windows 
 
@@ -2007,8 +1779,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/88933597c842/Unity-2018.2.17f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/88933597c842/UnityDownloadAssistant-2018.2.17f1.dmg
@@ -2019,8 +1789,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/88933597c842/Unity-2018.2.17f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/88933597c842/UnitySetup-2018.2.17f1
@@ -2030,7 +1798,7 @@
 
 
 # Unity Version :Unity 2018.2.16	Publish Date :November 15, 2018
-> Unity Hub :unityhub://2018.2.16f1/39a4ac3d51f6
+> Unity Hub : unityhub://2018.2.16f1/39a4ac3d51f6
 
 ## Windows 
 
@@ -2042,8 +1810,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/39a4ac3d51f6/Unity-2018.2.16f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/39a4ac3d51f6/UnityDownloadAssistant-2018.2.16f1.dmg
@@ -2054,8 +1820,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/39a4ac3d51f6/Unity-2018.2.16f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/39a4ac3d51f6/UnitySetup-2018.2.16f1
@@ -2065,7 +1829,7 @@
 
 
 # Unity Version :Unity 2018.2.15	Publish Date :November 9, 2018
-> Unity Hub :unityhub://2018.2.15f1/65e0713a5949
+> Unity Hub : unityhub://2018.2.15f1/65e0713a5949
 
 ## Windows 
 
@@ -2077,8 +1841,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/65e0713a5949/Unity-2018.2.15f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/65e0713a5949/UnityDownloadAssistant-2018.2.15f1.dmg
@@ -2089,8 +1851,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/65e0713a5949/Unity-2018.2.15f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/65e0713a5949/UnitySetup-2018.2.15f1
@@ -2100,7 +1860,7 @@
 
 
 # Unity Version :Unity 2018.2.14	Publish Date :October 26, 2018
-> Unity Hub :unityhub://2018.2.14f1/3262fb3b0716
+> Unity Hub : unityhub://2018.2.14f1/3262fb3b0716
 
 ## Windows 
 
@@ -2112,8 +1872,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3262fb3b0716/Unity-2018.2.14f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/3262fb3b0716/UnityDownloadAssistant-2018.2.14f1.dmg
@@ -2124,8 +1882,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3262fb3b0716/Unity-2018.2.14f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/3262fb3b0716/UnitySetup-2018.2.14f1
@@ -2135,7 +1891,7 @@
 
 
 # Unity Version :Unity 2018.2.13	Publish Date :October 18, 2018
-> Unity Hub :unityhub://2018.2.13f1/83fbdcd35118
+> Unity Hub : unityhub://2018.2.13f1/83fbdcd35118
 
 ## Windows 
 
@@ -2147,8 +1903,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/83fbdcd35118/Unity-2018.2.13f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/83fbdcd35118/UnityDownloadAssistant-2018.2.13f1.dmg
@@ -2159,8 +1913,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/83fbdcd35118/Unity-2018.2.13f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/83fbdcd35118/UnitySetup-2018.2.13f1
@@ -2170,7 +1922,7 @@
 
 
 # Unity Version :Unity 2018.2.12	Publish Date :October 12, 2018
-> Unity Hub :unityhub://2018.2.12f1/0a46ddfcfad4
+> Unity Hub : unityhub://2018.2.12f1/0a46ddfcfad4
 
 ## Windows 
 
@@ -2182,8 +1934,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0a46ddfcfad4/Unity-2018.2.12f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/0a46ddfcfad4/UnityDownloadAssistant-2018.2.12f1.dmg
@@ -2194,8 +1944,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/0a46ddfcfad4/Unity-2018.2.12f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/0a46ddfcfad4/UnitySetup-2018.2.12f1
@@ -2205,7 +1953,7 @@
 
 
 # Unity Version :Unity 2018.2.11	Publish Date :October 4, 2018
-> Unity Hub :unityhub://2018.2.11f1/38bd7dec5000
+> Unity Hub : unityhub://2018.2.11f1/38bd7dec5000
 
 ## Windows 
 
@@ -2217,8 +1965,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/38bd7dec5000/Unity-2018.2.11f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/38bd7dec5000/UnityDownloadAssistant-2018.2.11f1.dmg
@@ -2229,8 +1975,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/38bd7dec5000/Unity-2018.2.11f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/38bd7dec5000/UnitySetup-2018.2.11f1
@@ -2240,7 +1984,7 @@
 
 
 # Unity Version :Unity 2018.2.10	Publish Date :September 26, 2018
-> Unity Hub :unityhub://2018.2.10f1/674aa5a67ed5
+> Unity Hub : unityhub://2018.2.10f1/674aa5a67ed5
 
 ## Windows 
 
@@ -2252,8 +1996,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/674aa5a67ed5/Unity-2018.2.10f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/674aa5a67ed5/UnityDownloadAssistant-2018.2.10f1.dmg
@@ -2264,8 +2006,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/674aa5a67ed5/Unity-2018.2.10f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/674aa5a67ed5/UnitySetup-2018.2.10f1
@@ -2275,7 +2015,7 @@
 
 
 # Unity Version :Unity 2018.2.9	Publish Date :September 21, 2018
-> Unity Hub :unityhub://2018.2.9f1/2207421190e9
+> Unity Hub : unityhub://2018.2.9f1/2207421190e9
 
 ## Windows 
 
@@ -2287,8 +2027,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/2207421190e9/Unity-2018.2.9f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/2207421190e9/UnityDownloadAssistant-2018.2.9f1.dmg
@@ -2299,8 +2037,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/2207421190e9/Unity-2018.2.9f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/2207421190e9/UnitySetup-2018.2.9f1
@@ -2310,7 +2046,7 @@
 
 
 # Unity Version :Unity 2018.2.8	Publish Date :September 14, 2018
-> Unity Hub :unityhub://2018.2.8f1/ae1180820377
+> Unity Hub : unityhub://2018.2.8f1/ae1180820377
 
 ## Windows 
 
@@ -2322,8 +2058,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ae1180820377/Unity-2018.2.8f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/ae1180820377/UnityDownloadAssistant-2018.2.8f1.dmg
@@ -2334,8 +2068,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/ae1180820377/Unity-2018.2.8f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/ae1180820377/UnitySetup-2018.2.8f1
@@ -2345,7 +2077,7 @@
 
 
 # Unity Version :Unity 2018.2.7	Publish Date :September 6, 2018
-> Unity Hub :unityhub://2018.2.7f1/4ebd28dd9664
+> Unity Hub : unityhub://2018.2.7f1/4ebd28dd9664
 
 ## Windows 
 
@@ -2357,8 +2089,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4ebd28dd9664/Unity-2018.2.7f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/4ebd28dd9664/UnityDownloadAssistant-2018.2.7f1.dmg
@@ -2369,8 +2099,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4ebd28dd9664/Unity-2018.2.7f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/4ebd28dd9664/UnitySetup-2018.2.7f1
@@ -2380,7 +2108,7 @@
 
 
 # Unity Version :Unity 2018.2.6	Publish Date :August 30, 2018
-> Unity Hub :unityhub://2018.2.6f1/c591d9a97a0b
+> Unity Hub : unityhub://2018.2.6f1/c591d9a97a0b
 
 ## Windows 
 
@@ -2392,8 +2120,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c591d9a97a0b/Unity-2018.2.6f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/c591d9a97a0b/UnityDownloadAssistant-2018.2.6f1.dmg
@@ -2404,8 +2130,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c591d9a97a0b/Unity-2018.2.6f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/c591d9a97a0b/UnitySetup-2018.2.6f1
@@ -2415,7 +2139,7 @@
 
 
 # Unity Version :Unity 2018.2.5	Publish Date :August 22, 2018
-> Unity Hub :unityhub://2018.2.5f1/3071d1717b71
+> Unity Hub : unityhub://2018.2.5f1/3071d1717b71
 
 ## Windows 
 
@@ -2427,8 +2151,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3071d1717b71/Unity-2018.2.5f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/3071d1717b71/UnityDownloadAssistant-2018.2.5f1.dmg
@@ -2439,8 +2161,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/3071d1717b71/Unity-2018.2.5f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/3071d1717b71/UnitySetup-2018.2.5f1
@@ -2450,7 +2170,7 @@
 
 
 # Unity Version :Unity 2018.2.4	Publish Date :August 17, 2018
-> Unity Hub :unityhub://2018.2.4f1/cb262d9ddeaf
+> Unity Hub : unityhub://2018.2.4f1/cb262d9ddeaf
 
 ## Windows 
 
@@ -2462,8 +2182,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cb262d9ddeaf/Unity-2018.2.4f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/cb262d9ddeaf/UnityDownloadAssistant-2018.2.4f1.dmg
@@ -2474,8 +2192,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/cb262d9ddeaf/Unity-2018.2.4f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/cb262d9ddeaf/UnitySetup-2018.2.4f1
@@ -2485,7 +2201,7 @@
 
 
 # Unity Version :Unity 2018.2.3	Publish Date :August 10, 2018
-> Unity Hub :unityhub://2018.2.3f1/1431a7d2ced7
+> Unity Hub : unityhub://2018.2.3f1/1431a7d2ced7
 
 ## Windows 
 
@@ -2497,8 +2213,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1431a7d2ced7/Unity-2018.2.3f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/1431a7d2ced7/UnityDownloadAssistant-2018.2.3f1.dmg
@@ -2509,8 +2223,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1431a7d2ced7/Unity-2018.2.3f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/1431a7d2ced7/UnitySetup-2018.2.3f1
@@ -2520,7 +2232,7 @@
 
 
 # Unity Version :Unity 2018.2.2	Publish Date :August 3, 2018
-> Unity Hub :unityhub://2018.2.2f1/c18cef34cbcd
+> Unity Hub : unityhub://2018.2.2f1/c18cef34cbcd
 
 ## Windows 
 
@@ -2532,8 +2244,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c18cef34cbcd/Unity-2018.2.2f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/c18cef34cbcd/UnityDownloadAssistant-2018.2.2f1.dmg
@@ -2544,8 +2254,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/c18cef34cbcd/Unity-2018.2.2f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/c18cef34cbcd/UnitySetup-2018.2.2f1
@@ -2555,7 +2263,7 @@
 
 
 # Unity Version :Unity 2018.2.1	Publish Date :July 26, 2018
-> Unity Hub :unityhub://2018.2.1f1/1a9968d9f99c
+> Unity Hub : unityhub://2018.2.1f1/1a9968d9f99c
 
 ## Windows 
 
@@ -2567,8 +2275,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1a9968d9f99c/Unity-2018.2.1f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/1a9968d9f99c/UnityDownloadAssistant-2018.2.1f1.dmg
@@ -2579,8 +2285,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1a9968d9f99c/Unity-2018.2.1f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/1a9968d9f99c/UnitySetup-2018.2.1f1
@@ -2590,7 +2294,7 @@
 
 
 # Unity Version :Unity 2018.2.0	Publish Date :July 6, 2018
-> Unity Hub :unityhub://2018.2.0f1/51acc5a75f1e
+> Unity Hub : unityhub://2018.2.0f1/51acc5a75f1e
 
 ## Windows 
 
@@ -2602,8 +2306,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/51acc5a75f1e/Unity-2018.2.0f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/51acc5a75f1e/UnityDownloadAssistant-2018.2.0f1.dmg
@@ -2614,8 +2316,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/51acc5a75f1e/Unity-2018.2.0f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/51acc5a75f1e/UnitySetup-2018.2.0f1
@@ -2625,7 +2325,7 @@
 
 
 # Unity Version :Unity 2018.2.0	Publish Date :July 9, 2018
-> Unity Hub :unityhub://2018.2.0f2/787658998520
+> Unity Hub : unityhub://2018.2.0f2/787658998520
 
 ## Windows 
 
@@ -2637,8 +2337,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/787658998520/Unity-2018.2.0f2.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/787658998520/UnityDownloadAssistant-2018.2.0f2.dmg
@@ -2649,8 +2347,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/787658998520/Unity-2018.2.0f2.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/787658998520/UnitySetup-2018.2.0f2
@@ -2660,7 +2356,7 @@
 
 
 # Unity Version :Unity 2018.1.9	Publish Date :August 29, 2018
-> Unity Hub :unityhub://2018.1.9f2/a6cc294b73ee
+> Unity Hub : unityhub://2018.1.9f2/a6cc294b73ee
 
 ## Windows 
 
@@ -2672,8 +2368,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6cc294b73ee/Unity-2018.1.9f2.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a6cc294b73ee/UnityDownloadAssistant-2018.1.9f2.dmg
@@ -2684,8 +2378,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a6cc294b73ee/Unity-2018.1.9f2.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/a6cc294b73ee/UnitySetup-2018.1.9f2
@@ -2695,7 +2387,7 @@
 
 
 # Unity Version :Unity 2018.1.8	Publish Date :July 13, 2018
-> Unity Hub :unityhub://2018.1.8f1/26051d4de9e9
+> Unity Hub : unityhub://2018.1.8f1/26051d4de9e9
 
 ## Windows 
 
@@ -2707,8 +2399,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/26051d4de9e9/Unity-2018.1.8f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/26051d4de9e9/UnityDownloadAssistant-2018.1.8f1.dmg
@@ -2719,8 +2409,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/26051d4de9e9/Unity-2018.1.8f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/26051d4de9e9/UnitySetup-2018.1.8f1
@@ -2730,7 +2418,7 @@
 
 
 # Unity Version :Unity 2018.1.7	Publish Date :July 5, 2018
-> Unity Hub :unityhub://2018.1.7f1/4cb482063d12
+> Unity Hub : unityhub://2018.1.7f1/4cb482063d12
 
 ## Windows 
 
@@ -2742,8 +2430,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4cb482063d12/Unity-2018.1.7f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/4cb482063d12/UnityDownloadAssistant-2018.1.7f1.dmg
@@ -2754,8 +2440,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/4cb482063d12/Unity-2018.1.7f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/4cb482063d12/UnitySetup-2018.1.7f1
@@ -2765,7 +2449,7 @@
 
 
 # Unity Version :Unity 2018.1.6	Publish Date :June 21, 2018
-> Unity Hub :unityhub://2018.1.6f1/57cc34175ccf
+> Unity Hub : unityhub://2018.1.6f1/57cc34175ccf
 
 ## Windows 
 
@@ -2777,8 +2461,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/57cc34175ccf/Unity-2018.1.6f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/57cc34175ccf/UnityDownloadAssistant-2018.1.6f1.dmg
@@ -2789,8 +2471,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/57cc34175ccf/Unity-2018.1.6f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/57cc34175ccf/UnitySetup-2018.1.6f1
@@ -2800,7 +2480,7 @@
 
 
 # Unity Version :Unity 2018.1.5	Publish Date :June 15, 2018
-> Unity Hub :unityhub://2018.1.5f1/732dbf75922d
+> Unity Hub : unityhub://2018.1.5f1/732dbf75922d
 
 ## Windows 
 
@@ -2812,8 +2492,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/732dbf75922d/Unity-2018.1.5f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/732dbf75922d/UnityDownloadAssistant-2018.1.5f1.dmg
@@ -2824,8 +2502,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/732dbf75922d/Unity-2018.1.5f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
@@ -2835,7 +2511,7 @@
 
 
 # Unity Version :Unity 2018.1.4	Publish Date :June 11, 2018
-> Unity Hub :unityhub://2018.1.4f1/1a308f4ebef1
+> Unity Hub : unityhub://2018.1.4f1/1a308f4ebef1
 
 ## Windows 
 
@@ -2847,8 +2523,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1a308f4ebef1/Unity-2018.1.4f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/1a308f4ebef1/UnityDownloadAssistant-2018.1.4f1.dmg
@@ -2859,8 +2533,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/1a308f4ebef1/Unity-2018.1.4f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
@@ -2870,7 +2542,7 @@
 
 
 # Unity Version :Unity 2018.1.3	Publish Date :June 4, 2018
-> Unity Hub :unityhub://2018.1.3f1/a53ad04f7c7f
+> Unity Hub : unityhub://2018.1.3f1/a53ad04f7c7f
 
 ## Windows 
 
@@ -2882,8 +2554,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a53ad04f7c7f/Unity-2018.1.3f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a53ad04f7c7f/UnityDownloadAssistant-2018.1.3f1.dmg
@@ -2894,8 +2564,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a53ad04f7c7f/Unity-2018.1.3f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
@@ -2905,7 +2573,7 @@
 
 
 # Unity Version :Unity 2018.1.2	Publish Date :May 25, 2018
-> Unity Hub :unityhub://2018.1.2f1/a46d718d282d
+> Unity Hub : unityhub://2018.1.2f1/a46d718d282d
 
 ## Windows 
 
@@ -2917,8 +2585,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a46d718d282d/Unity-2018.1.2f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/a46d718d282d/UnityDownloadAssistant-2018.1.2f1.dmg
@@ -2929,8 +2595,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/a46d718d282d/Unity-2018.1.2f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
@@ -2940,7 +2604,7 @@
 
 
 # Unity Version :Unity 2018.1.1	Publish Date :May 18, 2018
-> Unity Hub :unityhub://2018.1.1f1/b8cbb5de9840
+> Unity Hub : unityhub://2018.1.1f1/b8cbb5de9840
 
 ## Windows 
 
@@ -2952,8 +2616,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b8cbb5de9840/Unity-2018.1.1f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/b8cbb5de9840/UnityDownloadAssistant-2018.1.1f1.dmg
@@ -2964,8 +2626,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/b8cbb5de9840/Unity-2018.1.1f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
@@ -2975,7 +2635,7 @@
 
 
 # Unity Version :Unity 2018.1.0	Publish Date :April 26, 2018
-> Unity Hub :unityhub://2018.1.0f1/21784bcc13fa
+> Unity Hub : unityhub://2018.1.0f1/21784bcc13fa
 
 ## Windows 
 
@@ -2987,8 +2647,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/21784bcc13fa/Unity-2018.1.0f1.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/21784bcc13fa/UnityDownloadAssistant-2018.1.0f1.dmg
@@ -2999,8 +2657,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/21784bcc13fa/Unity-2018.1.0f1.torrent
-
 ## Linux 
 
 > UnityEditor   https://download.unity3d.com/download_unity/732dbf75922d/UnitySetup-2018.1.5f1
@@ -3010,7 +2666,7 @@
 
 
 # Unity Version :Unity 2018.1.0	Publish Date :May 2, 2018
-> Unity Hub :unityhub://2018.1.0f2/d4d99f31acba
+> Unity Hub : unityhub://2018.1.0f2/d4d99f31acba
 
 ## Windows 
 
@@ -3022,8 +2678,6 @@
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases
 
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d4d99f31acba/Unity-2018.1.0f2.torrent
-
 ## Mac 
 
 > UnityInstaller   https://download.unity3d.com/download_unity/d4d99f31acba/UnityDownloadAssistant-2018.1.0f2.dmg
@@ -3033,8 +2687,6 @@
 > Builtinshaders   https://download.unity3d.com/download_unity/d4d99f31acba/builtin_shaders-2018.1.0f2.zip
 
 > UnityAccelerator   https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases
-
-> Torrentdownload(Win+Mac)   https://download.unity3d.com/download_unity/d4d99f31acba/Unity-2018.1.0f2.torrent
 
 ## Linux 
 

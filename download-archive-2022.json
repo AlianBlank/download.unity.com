@@ -1,5 +1,404 @@
 [
   {
+    "version_code": "Unity 2022.3.29",
+    "version_build_date": "May 14, 2024",
+    "unity_hub_url": "unityhub://2022.3.29f1/8d510ca76d2b",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/UnityDownloadAssistant-2022.3.29f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/Windows64EditorInstaller/UnitySetup64-2022.3.29f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/builtin_shaders-2022.3.29f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/UnityDownloadAssistant-2022.3.29f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/builtin_shaders-2022.3.29f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/8d510ca76d2b/UnitySetup-2022.3.29f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2022.3.28",
+    "version_build_date": "May 7, 2024",
+    "unity_hub_url": "unityhub://2022.3.28f1/6bae5ce6b222",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/UnityDownloadAssistant-2022.3.28f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/Windows64EditorInstaller/UnitySetup64-2022.3.28f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/builtin_shaders-2022.3.28f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/UnityDownloadAssistant-2022.3.28f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/builtin_shaders-2022.3.28f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/6bae5ce6b222/UnitySetup-2022.3.28f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2022.3.27",
+    "version_build_date": "April 30, 2024",
+    "unity_hub_url": "unityhub://2022.3.27f1/73effa14754f",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/UnityDownloadAssistant-2022.3.27f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/Windows64EditorInstaller/UnitySetup64-2022.3.27f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/builtin_shaders-2022.3.27f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/UnityDownloadAssistant-2022.3.27f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/builtin_shaders-2022.3.27f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/73effa14754f/UnitySetup-2022.3.27f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2022.3.26",
+    "version_build_date": "April 23, 2024",
+    "unity_hub_url": "unityhub://2022.3.26f1/ec6cd8118806",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/UnityDownloadAssistant-2022.3.26f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/Windows64EditorInstaller/UnitySetup64-2022.3.26f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/builtin_shaders-2022.3.26f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/UnityDownloadAssistant-2022.3.26f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/builtin_shaders-2022.3.26f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/ec6cd8118806/UnitySetup-2022.3.26f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2022.3.25",
+    "version_build_date": "April 16, 2024",
+    "unity_hub_url": "unityhub://2022.3.25f1/530ae0ba3889",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/UnityDownloadAssistant-2022.3.25f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/Windows64EditorInstaller/UnitySetup64-2022.3.25f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/builtin_shaders-2022.3.25f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/UnityDownloadAssistant-2022.3.25f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/builtin_shaders-2022.3.25f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/530ae0ba3889/UnitySetup-2022.3.25f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2022.3.24",
+    "version_build_date": "April 9, 2024",
+    "unity_hub_url": "unityhub://2022.3.24f1/334eb2a0b267",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/UnityDownloadAssistant-2022.3.24f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/Windows64EditorInstaller/UnitySetup64-2022.3.24f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/builtin_shaders-2022.3.24f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/UnityDownloadAssistant-2022.3.24f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/builtin_shaders-2022.3.24f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/334eb2a0b267/UnitySetup-2022.3.24f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2022.3.23",
+    "version_build_date": "April 2, 2024",
+    "unity_hub_url": "unityhub://2022.3.23f1/dbb3f7c5b5c6",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/UnityDownloadAssistant-2022.3.23f1.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/Windows64EditorInstaller/UnitySetup64-2022.3.23f1.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/builtin_shaders-2022.3.23f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/UnityDownloadAssistant-2022.3.23f1.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "UnityEditor(Applesilicon)",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/MacEditorInstallerArm64/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/builtin_shaders-2022.3.23f1.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/dbb3f7c5b5c6/UnitySetup-2022.3.23f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
     "version_code": "Unity 2022.3.22",
     "version_build_date": "March 19, 2024",
     "unity_hub_url": "unityhub://2022.3.22f1/887be4894c44",
@@ -20,10 +419,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/887be4894c44/Unity-2022.3.22f1.torrent"
         }
       ],
       "mac": [
@@ -46,10 +441,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/887be4894c44/Unity-2022.3.22f1.torrent"
         }
       ],
       "linux": [
@@ -85,10 +476,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bf09ca542b87/Unity-2022.3.21f1.torrent"
         }
       ],
       "mac": [
@@ -111,10 +498,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bf09ca542b87/Unity-2022.3.21f1.torrent"
         }
       ],
       "linux": [
@@ -150,10 +533,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/61c2feb0970d/Unity-2022.3.20f1.torrent"
         }
       ],
       "mac": [
@@ -176,10 +555,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/61c2feb0970d/Unity-2022.3.20f1.torrent"
         }
       ],
       "linux": [
@@ -215,10 +590,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/244b723c30a6/Unity-2022.3.19f1.torrent"
         }
       ],
       "mac": [
@@ -241,10 +612,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/244b723c30a6/Unity-2022.3.19f1.torrent"
         }
       ],
       "linux": [
@@ -280,10 +647,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d29bea25151d/Unity-2022.3.18f1.torrent"
         }
       ],
       "mac": [
@@ -306,10 +669,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d29bea25151d/Unity-2022.3.18f1.torrent"
         }
       ],
       "linux": [
@@ -345,10 +704,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4fc78088f837/Unity-2022.3.17f1.torrent"
         }
       ],
       "mac": [
@@ -371,10 +726,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4fc78088f837/Unity-2022.3.17f1.torrent"
         }
       ],
       "linux": [
@@ -410,10 +761,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d2c21f0ef2f1/Unity-2022.3.16f1.torrent"
         }
       ],
       "mac": [
@@ -436,10 +783,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d2c21f0ef2f1/Unity-2022.3.16f1.torrent"
         }
       ],
       "linux": [
@@ -475,10 +818,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b58023a2b463/Unity-2022.3.15f1.torrent"
         }
       ],
       "mac": [
@@ -501,10 +840,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b58023a2b463/Unity-2022.3.15f1.torrent"
         }
       ],
       "linux": [
@@ -540,10 +875,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/eff2de9070d8/Unity-2022.3.14f1.torrent"
         }
       ],
       "mac": [
@@ -566,10 +897,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/eff2de9070d8/Unity-2022.3.14f1.torrent"
         }
       ],
       "linux": [
@@ -605,10 +932,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5f90a5ebde0f/Unity-2022.3.13f1.torrent"
         }
       ],
       "mac": [
@@ -631,10 +954,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5f90a5ebde0f/Unity-2022.3.13f1.torrent"
         }
       ],
       "linux": [
@@ -670,10 +989,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4fe6e059c7ef/Unity-2022.3.12f1.torrent"
         }
       ],
       "mac": [
@@ -696,10 +1011,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4fe6e059c7ef/Unity-2022.3.12f1.torrent"
         }
       ],
       "linux": [
@@ -735,10 +1046,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d00248457e15/Unity-2022.3.11f1.torrent"
         }
       ],
       "mac": [
@@ -761,10 +1068,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d00248457e15/Unity-2022.3.11f1.torrent"
         }
       ],
       "linux": [
@@ -800,10 +1103,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ff3792e53c62/Unity-2022.3.10f1.torrent"
         }
       ],
       "mac": [
@@ -826,10 +1125,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ff3792e53c62/Unity-2022.3.10f1.torrent"
         }
       ],
       "linux": [
@@ -865,10 +1160,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ea401c316338/Unity-2022.3.9f1.torrent"
         }
       ],
       "mac": [
@@ -891,10 +1182,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ea401c316338/Unity-2022.3.9f1.torrent"
         }
       ],
       "linux": [
@@ -930,10 +1217,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b5eafc012955/Unity-2022.3.8f1.torrent"
         }
       ],
       "mac": [
@@ -956,10 +1239,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b5eafc012955/Unity-2022.3.8f1.torrent"
         }
       ],
       "linux": [
@@ -995,10 +1274,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b16b3b16c7a0/Unity-2022.3.7f1.torrent"
         }
       ],
       "mac": [
@@ -1021,10 +1296,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b16b3b16c7a0/Unity-2022.3.7f1.torrent"
         }
       ],
       "linux": [
@@ -1060,10 +1331,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b9e6e7e9fa2d/Unity-2022.3.6f1.torrent"
         }
       ],
       "mac": [
@@ -1086,10 +1353,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b9e6e7e9fa2d/Unity-2022.3.6f1.torrent"
         }
       ],
       "linux": [
@@ -1125,10 +1388,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9674261d40ee/Unity-2022.3.5f1.torrent"
         }
       ],
       "mac": [
@@ -1151,10 +1410,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9674261d40ee/Unity-2022.3.5f1.torrent"
         }
       ],
       "linux": [
@@ -1190,10 +1445,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/35713cd46cd7/Unity-2022.3.4f1.torrent"
         }
       ],
       "mac": [
@@ -1216,10 +1467,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/35713cd46cd7/Unity-2022.3.4f1.torrent"
         }
       ],
       "linux": [
@@ -1255,10 +1502,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7cdc2969a641/Unity-2022.3.3f1.torrent"
         }
       ],
       "mac": [
@@ -1281,10 +1524,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7cdc2969a641/Unity-2022.3.3f1.torrent"
         }
       ],
       "linux": [
@@ -1320,10 +1559,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d74737c6db50/Unity-2022.3.2f1.torrent"
         }
       ],
       "mac": [
@@ -1346,10 +1581,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d74737c6db50/Unity-2022.3.2f1.torrent"
         }
       ],
       "linux": [
@@ -1385,10 +1616,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f18e0c1b5784/Unity-2022.3.1f1.torrent"
         }
       ],
       "mac": [
@@ -1411,10 +1638,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f18e0c1b5784/Unity-2022.3.1f1.torrent"
         }
       ],
       "linux": [
@@ -1450,10 +1673,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fb119bb0b476/Unity-2022.3.0f1.torrent"
         }
       ],
       "mac": [
@@ -1476,10 +1695,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fb119bb0b476/Unity-2022.3.0f1.torrent"
         }
       ],
       "linux": [
@@ -1515,10 +1730,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4907324dc95b/Unity-2022.2.21f1.torrent"
         }
       ],
       "mac": [
@@ -1541,10 +1752,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4907324dc95b/Unity-2022.2.21f1.torrent"
         }
       ],
       "linux": [
@@ -1580,10 +1787,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c5d806317f84/Unity-2022.2.20f1.torrent"
         }
       ],
       "mac": [
@@ -1606,10 +1809,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c5d806317f84/Unity-2022.2.20f1.torrent"
         }
       ],
       "linux": [
@@ -1645,10 +1844,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/765657fe9343/Unity-2022.2.19f1.torrent"
         }
       ],
       "mac": [
@@ -1671,10 +1866,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/765657fe9343/Unity-2022.2.19f1.torrent"
         }
       ],
       "linux": [
@@ -1710,10 +1901,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5ebc6493a86f/Unity-2022.2.18f1.torrent"
         }
       ],
       "mac": [
@@ -1736,10 +1923,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5ebc6493a86f/Unity-2022.2.18f1.torrent"
         }
       ],
       "linux": [
@@ -1775,10 +1958,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/54cb9bda89c4/Unity-2022.2.17f1.torrent"
         }
       ],
       "mac": [
@@ -1801,10 +1980,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/54cb9bda89c4/Unity-2022.2.17f1.torrent"
         }
       ],
       "linux": [
@@ -1840,10 +2015,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d535843d11e1/Unity-2022.2.16f1.torrent"
         }
       ],
       "mac": [
@@ -1866,10 +2037,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d535843d11e1/Unity-2022.2.16f1.torrent"
         }
       ],
       "linux": [
@@ -1905,10 +2072,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/30d813e1a2a9/Unity-2022.2.15f1.torrent"
         }
       ],
       "mac": [
@@ -1931,10 +2094,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/30d813e1a2a9/Unity-2022.2.15f1.torrent"
         }
       ],
       "linux": [
@@ -1970,10 +2129,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b2c9b1ac6cc0/Unity-2022.2.14f1.torrent"
         }
       ],
       "mac": [
@@ -1996,10 +2151,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b2c9b1ac6cc0/Unity-2022.2.14f1.torrent"
         }
       ],
       "linux": [
@@ -2035,10 +2186,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5f5de2657605/Unity-2022.2.13f1.torrent"
         }
       ],
       "mac": [
@@ -2061,10 +2208,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5f5de2657605/Unity-2022.2.13f1.torrent"
         }
       ],
       "linux": [
@@ -2100,10 +2243,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/022dac4955a3/Unity-2022.2.12f1.torrent"
         }
       ],
       "mac": [
@@ -2126,10 +2265,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/022dac4955a3/Unity-2022.2.12f1.torrent"
         }
       ],
       "linux": [
@@ -2165,10 +2300,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/621cd60d08fd/Unity-2022.2.11f1.torrent"
         }
       ],
       "mac": [
@@ -2191,10 +2322,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/621cd60d08fd/Unity-2022.2.11f1.torrent"
         }
       ],
       "linux": [
@@ -2230,10 +2357,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bcebec703747/Unity-2022.2.10f1.torrent"
         }
       ],
       "mac": [
@@ -2256,10 +2379,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bcebec703747/Unity-2022.2.10f1.torrent"
         }
       ],
       "linux": [
@@ -2295,10 +2414,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1cc571a6ec95/Unity-2022.2.9f1.torrent"
         }
       ],
       "mac": [
@@ -2321,10 +2436,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1cc571a6ec95/Unity-2022.2.9f1.torrent"
         }
       ],
       "linux": [
@@ -2360,10 +2471,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/996aee41dc57/Unity-2022.2.8f1.torrent"
         }
       ],
       "mac": [
@@ -2386,10 +2493,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/996aee41dc57/Unity-2022.2.8f1.torrent"
         }
       ],
       "linux": [
@@ -2425,10 +2528,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8331acaee5d3/Unity-2022.2.7f1.torrent"
         }
       ],
       "mac": [
@@ -2451,10 +2550,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8331acaee5d3/Unity-2022.2.7f1.torrent"
         }
       ],
       "linux": [
@@ -2490,10 +2585,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/10bfa6201ced/Unity-2022.2.6f1.torrent"
         }
       ],
       "mac": [
@@ -2516,10 +2607,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/10bfa6201ced/Unity-2022.2.6f1.torrent"
         }
       ],
       "linux": [
@@ -2555,10 +2642,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/551d45108343/Unity-2022.2.5f1.torrent"
         }
       ],
       "mac": [
@@ -2581,10 +2664,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/551d45108343/Unity-2022.2.5f1.torrent"
         }
       ],
       "linux": [
@@ -2620,10 +2699,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8216e0211249/Unity-2022.2.4f1.torrent"
         }
       ],
       "mac": [
@@ -2646,10 +2721,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8216e0211249/Unity-2022.2.4f1.torrent"
         }
       ],
       "linux": [
@@ -2685,10 +2756,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/55531d7fa82e/Unity-2022.2.3f1.torrent"
         }
       ],
       "mac": [
@@ -2711,10 +2778,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/55531d7fa82e/Unity-2022.2.3f1.torrent"
         }
       ],
       "linux": [
@@ -2750,10 +2813,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c93c5d3acf5b/Unity-2022.2.2f1.torrent"
         }
       ],
       "mac": [
@@ -2776,10 +2835,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c93c5d3acf5b/Unity-2022.2.2f1.torrent"
         }
       ],
       "linux": [
@@ -2815,10 +2870,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4fead5835099/Unity-2022.2.1f1.torrent"
         }
       ],
       "mac": [
@@ -2841,10 +2892,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4fead5835099/Unity-2022.2.1f1.torrent"
         }
       ],
       "linux": [
@@ -2880,10 +2927,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/35dcd44975df/Unity-2022.2.0f1.torrent"
         }
       ],
       "mac": [
@@ -2906,10 +2949,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/35dcd44975df/Unity-2022.2.0f1.torrent"
         }
       ],
       "linux": [
@@ -2945,10 +2984,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/709dddfb713f/Unity-2022.1.24f1.torrent"
         }
       ],
       "mac": [
@@ -2971,10 +3006,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/709dddfb713f/Unity-2022.1.24f1.torrent"
         }
       ],
       "linux": [
@@ -3010,10 +3041,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9636b062134a/Unity-2022.1.23f1.torrent"
         }
       ],
       "mac": [
@@ -3036,10 +3063,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9636b062134a/Unity-2022.1.23f1.torrent"
         }
       ],
       "linux": [
@@ -3075,10 +3098,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6b6e9fc2adda/Unity-2022.1.22f1.torrent"
         }
       ],
       "mac": [
@@ -3101,10 +3120,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6b6e9fc2adda/Unity-2022.1.22f1.torrent"
         }
       ],
       "linux": [
@@ -3140,10 +3155,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9ac1ff5ca45b/Unity-2022.1.21f1.torrent"
         }
       ],
       "mac": [
@@ -3166,10 +3177,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9ac1ff5ca45b/Unity-2022.1.21f1.torrent"
         }
       ],
       "linux": [
@@ -3205,10 +3212,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/01d83b40d570/Unity-2022.1.20f1.torrent"
         }
       ],
       "mac": [
@@ -3231,10 +3234,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/01d83b40d570/Unity-2022.1.20f1.torrent"
         }
       ],
       "linux": [
@@ -3270,10 +3269,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2fd7b40534d1/Unity-2022.1.19f1.torrent"
         }
       ],
       "mac": [
@@ -3296,10 +3291,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2fd7b40534d1/Unity-2022.1.19f1.torrent"
         }
       ],
       "linux": [
@@ -3335,10 +3326,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8a091f9adba4/Unity-2022.1.18f1.torrent"
         }
       ],
       "mac": [
@@ -3361,10 +3348,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8a091f9adba4/Unity-2022.1.18f1.torrent"
         }
       ],
       "linux": [
@@ -3400,10 +3383,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2d349551e475/Unity-2022.1.17f1.torrent"
         }
       ],
       "mac": [
@@ -3426,10 +3405,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2d349551e475/Unity-2022.1.17f1.torrent"
         }
       ],
       "linux": [
@@ -3465,10 +3440,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7321c9670bc2/Unity-2022.1.16f1.torrent"
         }
       ],
       "mac": [
@@ -3491,10 +3462,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7321c9670bc2/Unity-2022.1.16f1.torrent"
         }
       ],
       "linux": [
@@ -3530,10 +3497,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/42973686a05c/Unity-2022.1.15f1.torrent"
         }
       ],
       "mac": [
@@ -3556,10 +3519,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/42973686a05c/Unity-2022.1.15f1.torrent"
         }
       ],
       "linux": [
@@ -3595,10 +3554,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ff7e140968b4/Unity-2022.1.14f1.torrent"
         }
       ],
       "mac": [
@@ -3621,10 +3576,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ff7e140968b4/Unity-2022.1.14f1.torrent"
         }
       ],
       "linux": [
@@ -3660,10 +3611,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/22856944e6d2/Unity-2022.1.13f1.torrent"
         }
       ],
       "mac": [
@@ -3686,10 +3633,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/22856944e6d2/Unity-2022.1.13f1.torrent"
         }
       ],
       "linux": [
@@ -3725,10 +3668,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/916d9c03b898/Unity-2022.1.12f1.torrent"
         }
       ],
       "mac": [
@@ -3751,10 +3690,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/916d9c03b898/Unity-2022.1.12f1.torrent"
         }
       ],
       "linux": [
@@ -3790,10 +3725,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/09bebd6e9324/Unity-2022.1.11f1.torrent"
         }
       ],
       "mac": [
@@ -3816,10 +3747,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/09bebd6e9324/Unity-2022.1.11f1.torrent"
         }
       ],
       "linux": [
@@ -3855,10 +3782,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9aa0f82c4f96/Unity-2022.1.10f1.torrent"
         }
       ],
       "mac": [
@@ -3881,10 +3804,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9aa0f82c4f96/Unity-2022.1.10f1.torrent"
         }
       ],
       "linux": [
@@ -3920,10 +3839,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/07e076b6d414/Unity-2022.1.9f1.torrent"
         }
       ],
       "mac": [
@@ -3946,10 +3861,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/07e076b6d414/Unity-2022.1.9f1.torrent"
         }
       ],
       "linux": [
@@ -3985,10 +3896,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2961e8c2b463/Unity-2022.1.8f1.torrent"
         }
       ],
       "mac": [
@@ -4011,10 +3918,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2961e8c2b463/Unity-2022.1.8f1.torrent"
         }
       ],
       "linux": [
@@ -4050,10 +3953,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/240f4c1f462c/Unity-2022.1.7f1.torrent"
         }
       ],
       "mac": [
@@ -4076,10 +3975,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/240f4c1f462c/Unity-2022.1.7f1.torrent"
         }
       ],
       "linux": [
@@ -4115,10 +4010,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e49a51cf6290/Unity-2022.1.6f1.torrent"
         }
       ],
       "mac": [
@@ -4141,10 +4032,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e49a51cf6290/Unity-2022.1.6f1.torrent"
         }
       ],
       "linux": [
@@ -4180,10 +4067,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/feea5ec8f162/Unity-2022.1.5f1.torrent"
         }
       ],
       "mac": [
@@ -4206,10 +4089,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/feea5ec8f162/Unity-2022.1.5f1.torrent"
         }
       ],
       "linux": [
@@ -4245,10 +4124,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/76dd1f94b339/Unity-2022.1.4f1.torrent"
         }
       ],
       "mac": [
@@ -4271,10 +4146,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/76dd1f94b339/Unity-2022.1.4f1.torrent"
         }
       ],
       "linux": [
@@ -4310,10 +4181,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1cedbfe38737/Unity-2022.1.3f1.torrent"
         }
       ],
       "mac": [
@@ -4336,10 +4203,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1cedbfe38737/Unity-2022.1.3f1.torrent"
         }
       ],
       "linux": [
@@ -4375,10 +4238,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9427c1534183/Unity-2022.1.2f1.torrent"
         }
       ],
       "mac": [
@@ -4401,10 +4260,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9427c1534183/Unity-2022.1.2f1.torrent"
         }
       ],
       "linux": [
@@ -4440,10 +4295,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/53d13f540f71/Unity-2022.1.1f1.torrent"
         }
       ],
       "mac": [
@@ -4466,10 +4317,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/53d13f540f71/Unity-2022.1.1f1.torrent"
         }
       ],
       "linux": [
@@ -4505,10 +4352,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/369b620af41c/Unity-2022.1.0f1.torrent"
         }
       ],
       "mac": [
@@ -4531,10 +4374,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/369b620af41c/Unity-2022.1.0f1.torrent"
         }
       ],
       "linux": [

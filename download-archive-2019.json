@@ -20,10 +20,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ffc62b691db5/Unity-2019.4.40f1.torrent"
         }
       ],
       "mac": [
@@ -42,10 +38,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ffc62b691db5/Unity-2019.4.40f1.torrent"
         }
       ],
       "linux": [
@@ -81,10 +73,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/78d14dfa024b/Unity-2019.4.39f1.torrent"
         }
       ],
       "mac": [
@@ -103,10 +91,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/78d14dfa024b/Unity-2019.4.39f1.torrent"
         }
       ],
       "linux": [
@@ -142,10 +126,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fdbb7325fa47/Unity-2019.4.38f1.torrent"
         }
       ],
       "mac": [
@@ -164,10 +144,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fdbb7325fa47/Unity-2019.4.38f1.torrent"
         }
       ],
       "linux": [
@@ -203,10 +179,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/019e31cfdb15/Unity-2019.4.37f1.torrent"
         }
       ],
       "mac": [
@@ -225,10 +197,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/019e31cfdb15/Unity-2019.4.37f1.torrent"
         }
       ],
       "linux": [
@@ -264,10 +232,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/660c164b2fc5/Unity-2019.4.36f1.torrent"
         }
       ],
       "mac": [
@@ -286,10 +250,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/660c164b2fc5/Unity-2019.4.36f1.torrent"
         }
       ],
       "linux": [
@@ -325,10 +285,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0462406dff2e/Unity-2019.4.35f1.torrent"
         }
       ],
       "mac": [
@@ -347,10 +303,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0462406dff2e/Unity-2019.4.35f1.torrent"
         }
       ],
       "linux": [
@@ -386,10 +338,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6a9faed444f2/Unity-2019.4.34f1.torrent"
         }
       ],
       "mac": [
@@ -408,10 +356,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6a9faed444f2/Unity-2019.4.34f1.torrent"
         }
       ],
       "linux": [
@@ -447,10 +391,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c9b2b02eeeef/Unity-2019.4.33f1.torrent"
         }
       ],
       "mac": [
@@ -469,10 +409,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c9b2b02eeeef/Unity-2019.4.33f1.torrent"
         }
       ],
       "linux": [
@@ -508,10 +444,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f88bf0bee961/Unity-2019.4.32f1.torrent"
         }
       ],
       "mac": [
@@ -530,10 +462,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f88bf0bee961/Unity-2019.4.32f1.torrent"
         }
       ],
       "linux": [
@@ -569,10 +497,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bd5abf232a62/Unity-2019.4.31f1.torrent"
         }
       ],
       "mac": [
@@ -591,10 +515,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bd5abf232a62/Unity-2019.4.31f1.torrent"
         }
       ],
       "linux": [
@@ -630,10 +550,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e8c891080a1f/Unity-2019.4.30f1.torrent"
         }
       ],
       "mac": [
@@ -652,10 +568,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e8c891080a1f/Unity-2019.4.30f1.torrent"
         }
       ],
       "linux": [
@@ -691,10 +603,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0eeae20b1d82/Unity-2019.4.29f1.torrent"
         }
       ],
       "mac": [
@@ -713,10 +621,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0eeae20b1d82/Unity-2019.4.29f1.torrent"
         }
       ],
       "linux": [
@@ -752,10 +656,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1381962e9d08/Unity-2019.4.28f1.torrent"
         }
       ],
       "mac": [
@@ -774,10 +674,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1381962e9d08/Unity-2019.4.28f1.torrent"
         }
       ],
       "linux": [
@@ -813,10 +709,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/23dc10685eb4/Unity-2019.4.27f1.torrent"
         }
       ],
       "mac": [
@@ -835,10 +727,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/23dc10685eb4/Unity-2019.4.27f1.torrent"
         }
       ],
       "linux": [
@@ -874,10 +762,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e0392c6b2363/Unity-2019.4.26f1.torrent"
         }
       ],
       "mac": [
@@ -896,10 +780,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e0392c6b2363/Unity-2019.4.26f1.torrent"
         }
       ],
       "linux": [
@@ -935,10 +815,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/01a0494af254/Unity-2019.4.25f1.torrent"
         }
       ],
       "mac": [
@@ -957,10 +833,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/01a0494af254/Unity-2019.4.25f1.torrent"
         }
       ],
       "linux": [
@@ -996,10 +868,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5da6f0345e82/Unity-2019.4.24f1.torrent"
         }
       ],
       "mac": [
@@ -1018,10 +886,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5da6f0345e82/Unity-2019.4.24f1.torrent"
         }
       ],
       "linux": [
@@ -1057,10 +921,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/3f4e01f1a5ec/Unity-2019.4.23f1.torrent"
         }
       ],
       "mac": [
@@ -1079,10 +939,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/3f4e01f1a5ec/Unity-2019.4.23f1.torrent"
         }
       ],
       "linux": [
@@ -1118,10 +974,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9fdda2fe27ad/Unity-2019.4.22f1.torrent"
         }
       ],
       "mac": [
@@ -1140,10 +992,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9fdda2fe27ad/Unity-2019.4.22f1.torrent"
         }
       ],
       "linux": [
@@ -1179,10 +1027,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b76dac84db26/Unity-2019.4.21f1.torrent"
         }
       ],
       "mac": [
@@ -1201,10 +1045,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b76dac84db26/Unity-2019.4.21f1.torrent"
         }
       ],
       "linux": [
@@ -1240,10 +1080,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6dd1c08eedfa/Unity-2019.4.20f1.torrent"
         }
       ],
       "mac": [
@@ -1262,10 +1098,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6dd1c08eedfa/Unity-2019.4.20f1.torrent"
         }
       ],
       "linux": [
@@ -1301,10 +1133,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ca5b14067cec/Unity-2019.4.19f1.torrent"
         }
       ],
       "mac": [
@@ -1323,10 +1151,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ca5b14067cec/Unity-2019.4.19f1.torrent"
         }
       ],
       "linux": [
@@ -1362,10 +1186,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/3310a4d4f880/Unity-2019.4.18f1.torrent"
         }
       ],
       "mac": [
@@ -1384,10 +1204,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/3310a4d4f880/Unity-2019.4.18f1.torrent"
         }
       ],
       "linux": [
@@ -1423,10 +1239,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/667c8606c536/Unity-2019.4.17f1.torrent"
         }
       ],
       "mac": [
@@ -1445,10 +1257,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/667c8606c536/Unity-2019.4.17f1.torrent"
         }
       ],
       "linux": [
@@ -1484,10 +1292,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e05b6e02d63e/Unity-2019.4.16f1.torrent"
         }
       ],
       "mac": [
@@ -1506,10 +1310,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e05b6e02d63e/Unity-2019.4.16f1.torrent"
         }
       ],
       "linux": [
@@ -1545,10 +1345,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fbf367ac14e9/Unity-2019.4.15f1.torrent"
         }
       ],
       "mac": [
@@ -1567,10 +1363,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fbf367ac14e9/Unity-2019.4.15f1.torrent"
         }
       ],
       "linux": [
@@ -1606,10 +1398,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4037e52648cd/Unity-2019.4.14f1.torrent"
         }
       ],
       "mac": [
@@ -1628,10 +1416,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4037e52648cd/Unity-2019.4.14f1.torrent"
         }
       ],
       "linux": [
@@ -1667,10 +1451,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/518737b1de84/Unity-2019.4.13f1.torrent"
         }
       ],
       "mac": [
@@ -1689,10 +1469,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/518737b1de84/Unity-2019.4.13f1.torrent"
         }
       ],
       "linux": [
@@ -1728,10 +1504,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/225e826a680e/Unity-2019.4.12f1.torrent"
         }
       ],
       "mac": [
@@ -1750,10 +1522,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/225e826a680e/Unity-2019.4.12f1.torrent"
         }
       ],
       "linux": [
@@ -1789,10 +1557,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2d9804dddde7/Unity-2019.4.11f1.torrent"
         }
       ],
       "mac": [
@@ -1811,10 +1575,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2d9804dddde7/Unity-2019.4.11f1.torrent"
         }
       ],
       "linux": [
@@ -1850,10 +1610,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5311b3af6f69/Unity-2019.4.10f1.torrent"
         }
       ],
       "mac": [
@@ -1872,10 +1628,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5311b3af6f69/Unity-2019.4.10f1.torrent"
         }
       ],
       "linux": [
@@ -1911,10 +1663,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/50fe8a171dd9/Unity-2019.4.9f1.torrent"
         }
       ],
       "mac": [
@@ -1933,10 +1681,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/50fe8a171dd9/Unity-2019.4.9f1.torrent"
         }
       ],
       "linux": [
@@ -1972,10 +1716,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/60781d942082/Unity-2019.4.8f1.torrent"
         }
       ],
       "mac": [
@@ -1994,10 +1734,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/60781d942082/Unity-2019.4.8f1.torrent"
         }
       ],
       "linux": [
@@ -2033,10 +1769,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e992b1a16e65/Unity-2019.4.7f1.torrent"
         }
       ],
       "mac": [
@@ -2055,10 +1787,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e992b1a16e65/Unity-2019.4.7f1.torrent"
         }
       ],
       "linux": [
@@ -2094,10 +1822,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/a7aea80e3716/Unity-2019.4.6f1.torrent"
         }
       ],
       "mac": [
@@ -2116,10 +1840,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/a7aea80e3716/Unity-2019.4.6f1.torrent"
         }
       ],
       "linux": [
@@ -2155,10 +1875,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/81610f64359c/Unity-2019.4.5f1.torrent"
         }
       ],
       "mac": [
@@ -2177,10 +1893,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/81610f64359c/Unity-2019.4.5f1.torrent"
         }
       ],
       "linux": [
@@ -2216,10 +1928,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1f1dac67805b/Unity-2019.4.4f1.torrent"
         }
       ],
       "mac": [
@@ -2238,10 +1946,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/1f1dac67805b/Unity-2019.4.4f1.torrent"
         }
       ],
       "linux": [
@@ -2277,10 +1981,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f880dceab6fe/Unity-2019.4.3f1.torrent"
         }
       ],
       "mac": [
@@ -2299,10 +1999,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f880dceab6fe/Unity-2019.4.3f1.torrent"
         }
       ],
       "linux": [
@@ -2338,10 +2034,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/20b4642a3455/Unity-2019.4.2f1.torrent"
         }
       ],
       "mac": [
@@ -2360,10 +2052,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/20b4642a3455/Unity-2019.4.2f1.torrent"
         }
       ],
       "linux": [
@@ -2399,10 +2087,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e6c045e14e4e/Unity-2019.4.1f1.torrent"
         }
       ],
       "mac": [
@@ -2421,10 +2105,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e6c045e14e4e/Unity-2019.4.1f1.torrent"
         }
       ],
       "linux": [
@@ -2460,10 +2140,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0af376155913/Unity-2019.4.0f1.torrent"
         }
       ],
       "mac": [
@@ -2482,10 +2158,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0af376155913/Unity-2019.4.0f1.torrent"
         }
       ],
       "linux": [
@@ -2521,10 +2193,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/59ff3e03856d/Unity-2019.3.15f1.torrent"
         }
       ],
       "mac": [
@@ -2543,10 +2211,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/59ff3e03856d/Unity-2019.3.15f1.torrent"
         }
       ],
       "linux": [
@@ -2582,10 +2246,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2b330bf6d2d8/Unity-2019.3.14f1.torrent"
         }
       ],
       "mac": [
@@ -2604,10 +2264,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/2b330bf6d2d8/Unity-2019.3.14f1.torrent"
         }
       ],
       "linux": [
@@ -2643,10 +2299,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d4ddf0d95db9/Unity-2019.3.13f1.torrent"
         }
       ],
       "mac": [
@@ -2665,10 +2317,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d4ddf0d95db9/Unity-2019.3.13f1.torrent"
         }
       ],
       "linux": [
@@ -2704,10 +2352,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/84b23722532d/Unity-2019.3.12f1.torrent"
         }
       ],
       "mac": [
@@ -2726,10 +2370,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/84b23722532d/Unity-2019.3.12f1.torrent"
         }
       ],
       "linux": [
@@ -2765,10 +2405,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ceef2d848e70/Unity-2019.3.11f1.torrent"
         }
       ],
       "mac": [
@@ -2787,10 +2423,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ceef2d848e70/Unity-2019.3.11f1.torrent"
         }
       ],
       "linux": [
@@ -2826,10 +2458,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5968d7f82152/Unity-2019.3.10f1.torrent"
         }
       ],
       "mac": [
@@ -2848,10 +2476,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5968d7f82152/Unity-2019.3.10f1.torrent"
         }
       ],
       "linux": [
@@ -2887,10 +2511,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e6e740a1c473/Unity-2019.3.9f1.torrent"
         }
       ],
       "mac": [
@@ -2909,10 +2529,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e6e740a1c473/Unity-2019.3.9f1.torrent"
         }
       ],
       "linux": [
@@ -2948,10 +2564,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4ba98e9386ed/Unity-2019.3.8f1.torrent"
         }
       ],
       "mac": [
@@ -2970,10 +2582,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4ba98e9386ed/Unity-2019.3.8f1.torrent"
         }
       ],
       "linux": [
@@ -3009,10 +2617,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6437fd74d35d/Unity-2019.3.7f1.torrent"
         }
       ],
       "mac": [
@@ -3031,10 +2635,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6437fd74d35d/Unity-2019.3.7f1.torrent"
         }
       ],
       "linux": [
@@ -3070,10 +2670,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5c3fb0a11183/Unity-2019.3.6f1.torrent"
         }
       ],
       "mac": [
@@ -3092,10 +2688,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5c3fb0a11183/Unity-2019.3.6f1.torrent"
         }
       ],
       "linux": [
@@ -3131,10 +2723,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d691e07d38ef/Unity-2019.3.5f1.torrent"
         }
       ],
       "mac": [
@@ -3153,10 +2741,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d691e07d38ef/Unity-2019.3.5f1.torrent"
         }
       ],
       "linux": [
@@ -3192,10 +2776,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4f139db2fdbd/Unity-2019.3.4f1.torrent"
         }
       ],
       "mac": [
@@ -3214,10 +2794,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/4f139db2fdbd/Unity-2019.3.4f1.torrent"
         }
       ],
       "linux": [
@@ -3253,10 +2829,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7ceaae5f7503/Unity-2019.3.3f1.torrent"
         }
       ],
       "mac": [
@@ -3275,10 +2847,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7ceaae5f7503/Unity-2019.3.3f1.torrent"
         }
       ],
       "linux": [
@@ -3314,10 +2882,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c46a3a38511e/Unity-2019.3.2f1.torrent"
         }
       ],
       "mac": [
@@ -3336,10 +2900,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c46a3a38511e/Unity-2019.3.2f1.torrent"
         }
       ],
       "linux": [
@@ -3375,10 +2935,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/89d6087839c2/Unity-2019.3.1f1.torrent"
         }
       ],
       "mac": [
@@ -3397,77 +2953,12 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/89d6087839c2/Unity-2019.3.1f1.torrent"
         }
       ],
       "linux": [
         {
           "key": "UnityEditor",
           "value": "https://download.unity3d.com/download_unity/89d6087839c2/UnitySetup-2019.3.1f1"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
-        }
-      ]
-    }
-  },
-  {
-    "version_code": "Unity 2019.3.0",
-    "version_build_date": "December 11, 2019",
-    "unity_hub_url": "unityhub://2019.3.0f3/6c9e2bfd6f81",
-    "platform": {
-      "win": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnityDownloadAssistant-2019.3.0f3.exe"
-        },
-        {
-          "key": "UnityEditor64-bit",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/Windows64EditorInstaller/UnitySetup64-2019.3.0f3.exe"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/builtin_shaders-2019.3.0f3.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/Unity-2019.3.0f3.torrent"
-        }
-      ],
-      "mac": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnityDownloadAssistant-2019.3.0f3.dmg"
-        },
-        {
-          "key": "UnityEditor(Intel)",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/MacEditorInstaller/Unity.pkg"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/builtin_shaders-2019.3.0f3.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/Unity-2019.3.0f3.torrent"
-        }
-      ],
-      "linux": [
-        {
-          "key": "UnityEditor",
-          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnitySetup-2019.3.0f3"
         },
         {
           "key": "UnityAccelerator",
@@ -3497,10 +2988,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Unity-2019.3.0f5.torrent"
         }
       ],
       "mac": [
@@ -3519,10 +3006,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/44796c9d3c2c/Unity-2019.3.0f5.torrent"
         }
       ],
       "linux": [
@@ -3558,10 +3041,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/27ab2135bccf/Unity-2019.3.0f6.torrent"
         }
       ],
       "mac": [
@@ -3580,10 +3059,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/27ab2135bccf/Unity-2019.3.0f6.torrent"
         }
       ],
       "linux": [
@@ -3619,10 +3094,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ffacea4b84e7/Unity-2019.3.0f1.torrent"
         }
       ],
       "mac": [
@@ -3641,16 +3112,65 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ffacea4b84e7/Unity-2019.3.0f1.torrent"
         }
       ],
       "linux": [
         {
           "key": "UnityEditor",
           "value": "https://download.unity3d.com/download_unity/ffacea4b84e7/UnitySetup-2019.3.0f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2019.3.0",
+    "version_build_date": "December 11, 2019",
+    "unity_hub_url": "unityhub://2019.3.0f3/6c9e2bfd6f81",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnityDownloadAssistant-2019.3.0f3.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/Windows64EditorInstaller/UnitySetup64-2019.3.0f3.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/builtin_shaders-2019.3.0f3.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnityDownloadAssistant-2019.3.0f3.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/builtin_shaders-2019.3.0f3.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/6c9e2bfd6f81/UnitySetup-2019.3.0f3"
         },
         {
           "key": "UnityAccelerator",
@@ -3680,10 +3200,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9d528d026557/Unity-2019.2.21f1.torrent"
         }
       ],
       "mac": [
@@ -3702,10 +3218,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9d528d026557/Unity-2019.2.21f1.torrent"
         }
       ],
       "linux": [
@@ -3741,10 +3253,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c67d00285037/Unity-2019.2.20f1.torrent"
         }
       ],
       "mac": [
@@ -3763,10 +3271,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c67d00285037/Unity-2019.2.20f1.torrent"
         }
       ],
       "linux": [
@@ -3802,10 +3306,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/929ab4d01772/Unity-2019.2.19f1.torrent"
         }
       ],
       "mac": [
@@ -3824,10 +3324,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/929ab4d01772/Unity-2019.2.19f1.torrent"
         }
       ],
       "linux": [
@@ -3863,10 +3359,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bbf64de26e34/Unity-2019.2.18f1.torrent"
         }
       ],
       "mac": [
@@ -3885,10 +3377,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/bbf64de26e34/Unity-2019.2.18f1.torrent"
         }
       ],
       "linux": [
@@ -3924,10 +3412,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8e603399ca02/Unity-2019.2.17f1.torrent"
         }
       ],
       "mac": [
@@ -3946,10 +3430,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8e603399ca02/Unity-2019.2.17f1.torrent"
         }
       ],
       "linux": [
@@ -3985,10 +3465,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b9898e2d04a4/Unity-2019.2.16f1.torrent"
         }
       ],
       "mac": [
@@ -4007,10 +3483,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b9898e2d04a4/Unity-2019.2.16f1.torrent"
         }
       ],
       "linux": [
@@ -4046,10 +3518,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/dcb72c2e9334/Unity-2019.2.15f1.torrent"
         }
       ],
       "mac": [
@@ -4068,10 +3536,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/dcb72c2e9334/Unity-2019.2.15f1.torrent"
         }
       ],
       "linux": [
@@ -4107,10 +3571,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/49dd4e9fa428/Unity-2019.2.14f1.torrent"
         }
       ],
       "mac": [
@@ -4129,10 +3589,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/49dd4e9fa428/Unity-2019.2.14f1.torrent"
         }
       ],
       "linux": [
@@ -4168,10 +3624,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e20f6c7e5017/Unity-2019.2.13f1.torrent"
         }
       ],
       "mac": [
@@ -4190,10 +3642,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/e20f6c7e5017/Unity-2019.2.13f1.torrent"
         }
       ],
       "linux": [
@@ -4229,10 +3677,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b1a7e1fb4fa5/Unity-2019.2.12f1.torrent"
         }
       ],
       "mac": [
@@ -4251,10 +3695,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b1a7e1fb4fa5/Unity-2019.2.12f1.torrent"
         }
       ],
       "linux": [
@@ -4290,10 +3730,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5f859a4cfee5/Unity-2019.2.11f1.torrent"
         }
       ],
       "mac": [
@@ -4312,10 +3748,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5f859a4cfee5/Unity-2019.2.11f1.torrent"
         }
       ],
       "linux": [
@@ -4351,10 +3783,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/923acd2d43aa/Unity-2019.2.10f1.torrent"
         }
       ],
       "mac": [
@@ -4373,10 +3801,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/923acd2d43aa/Unity-2019.2.10f1.torrent"
         }
       ],
       "linux": [
@@ -4412,10 +3836,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ebce4d76e6e8/Unity-2019.2.9f1.torrent"
         }
       ],
       "mac": [
@@ -4434,10 +3854,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ebce4d76e6e8/Unity-2019.2.9f1.torrent"
         }
       ],
       "linux": [
@@ -4473,10 +3889,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ff5b465c8d13/Unity-2019.2.8f1.torrent"
         }
       ],
       "mac": [
@@ -4495,10 +3907,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ff5b465c8d13/Unity-2019.2.8f1.torrent"
         }
       ],
       "linux": [
@@ -4534,10 +3942,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c96f78eb5904/Unity-2019.2.7f2.torrent"
         }
       ],
       "mac": [
@@ -4556,10 +3960,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c96f78eb5904/Unity-2019.2.7f2.torrent"
         }
       ],
       "linux": [
@@ -4595,10 +3995,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fe82a0e88406/Unity-2019.2.6f1.torrent"
         }
       ],
       "mac": [
@@ -4617,10 +4013,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fe82a0e88406/Unity-2019.2.6f1.torrent"
         }
       ],
       "linux": [
@@ -4656,10 +4048,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9dace1eed4cc/Unity-2019.2.5f1.torrent"
         }
       ],
       "mac": [
@@ -4678,10 +4066,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9dace1eed4cc/Unity-2019.2.5f1.torrent"
         }
       ],
       "linux": [
@@ -4717,10 +4101,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c63b2af89a85/Unity-2019.2.4f1.torrent"
         }
       ],
       "mac": [
@@ -4739,10 +4119,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/c63b2af89a85/Unity-2019.2.4f1.torrent"
         }
       ],
       "linux": [
@@ -4778,10 +4154,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8e55c27a4621/Unity-2019.2.3f1.torrent"
         }
       ],
       "mac": [
@@ -4800,10 +4172,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/8e55c27a4621/Unity-2019.2.3f1.torrent"
         }
       ],
       "linux": [
@@ -4839,10 +4207,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ab112815d860/Unity-2019.2.2f1.torrent"
         }
       ],
       "mac": [
@@ -4861,10 +4225,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ab112815d860/Unity-2019.2.2f1.torrent"
         }
       ],
       "linux": [
@@ -4900,10 +4260,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ca4d5af0be6f/Unity-2019.2.1f1.torrent"
         }
       ],
       "mac": [
@@ -4922,10 +4278,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ca4d5af0be6f/Unity-2019.2.1f1.torrent"
         }
       ],
       "linux": [
@@ -4961,10 +4313,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/20c1667945cf/Unity-2019.2.0f1.torrent"
         }
       ],
       "mac": [
@@ -4983,10 +4331,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/20c1667945cf/Unity-2019.2.0f1.torrent"
         }
       ],
       "linux": [
@@ -5022,10 +4366,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/148b5891095a/Unity-2019.1.14f1.torrent"
         }
       ],
       "mac": [
@@ -5044,10 +4384,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/148b5891095a/Unity-2019.1.14f1.torrent"
         }
       ],
       "linux": [
@@ -5083,10 +4419,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b5956c0a61e7/Unity-2019.1.13f1.torrent"
         }
       ],
       "mac": [
@@ -5105,10 +4437,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/b5956c0a61e7/Unity-2019.1.13f1.torrent"
         }
       ],
       "linux": [
@@ -5144,10 +4472,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f04f5427219e/Unity-2019.1.12f1.torrent"
         }
       ],
       "mac": [
@@ -5166,10 +4490,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f04f5427219e/Unity-2019.1.12f1.torrent"
         }
       ],
       "linux": [
@@ -5205,10 +4525,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9b001d489a54/Unity-2019.1.11f1.torrent"
         }
       ],
       "mac": [
@@ -5227,10 +4543,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/9b001d489a54/Unity-2019.1.11f1.torrent"
         }
       ],
       "linux": [
@@ -5266,10 +4578,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f007ed779b7a/Unity-2019.1.10f1.torrent"
         }
       ],
       "mac": [
@@ -5288,10 +4596,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f007ed779b7a/Unity-2019.1.10f1.torrent"
         }
       ],
       "linux": [
@@ -5327,10 +4631,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d5f1b37da199/Unity-2019.1.9f1.torrent"
         }
       ],
       "mac": [
@@ -5349,10 +4649,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/d5f1b37da199/Unity-2019.1.9f1.torrent"
         }
       ],
       "linux": [
@@ -5388,10 +4684,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7938dd008a75/Unity-2019.1.8f1.torrent"
         }
       ],
       "mac": [
@@ -5410,10 +4702,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/7938dd008a75/Unity-2019.1.8f1.torrent"
         }
       ],
       "linux": [
@@ -5449,10 +4737,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f3c4928e5742/Unity-2019.1.7f1.torrent"
         }
       ],
       "mac": [
@@ -5471,10 +4755,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f3c4928e5742/Unity-2019.1.7f1.torrent"
         }
       ],
       "linux": [
@@ -5510,10 +4790,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f2970305fe1c/Unity-2019.1.6f1.torrent"
         }
       ],
       "mac": [
@@ -5532,10 +4808,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/f2970305fe1c/Unity-2019.1.6f1.torrent"
         }
       ],
       "linux": [
@@ -5571,10 +4843,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0ca0f5646614/Unity-2019.1.5f1.torrent"
         }
       ],
       "mac": [
@@ -5593,10 +4861,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/0ca0f5646614/Unity-2019.1.5f1.torrent"
         }
       ],
       "linux": [
@@ -5632,10 +4896,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ffa3a7a2dd7d/Unity-2019.1.4f1.torrent"
         }
       ],
       "mac": [
@@ -5654,10 +4914,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/ffa3a7a2dd7d/Unity-2019.1.4f1.torrent"
         }
       ],
       "linux": [
@@ -5693,10 +4949,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/dc414eb9ed43/Unity-2019.1.3f1.torrent"
         }
       ],
       "mac": [
@@ -5715,10 +4967,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/dc414eb9ed43/Unity-2019.1.3f1.torrent"
         }
       ],
       "linux": [
@@ -5754,10 +5002,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/3e18427e571f/Unity-2019.1.2f1.torrent"
         }
       ],
       "mac": [
@@ -5776,10 +5020,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/3e18427e571f/Unity-2019.1.2f1.torrent"
         }
       ],
       "linux": [
@@ -5815,10 +5055,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fef62e97e63b/Unity-2019.1.1f1.torrent"
         }
       ],
       "mac": [
@@ -5837,77 +5073,12 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/fef62e97e63b/Unity-2019.1.1f1.torrent"
         }
       ],
       "linux": [
         {
           "key": "UnityEditor",
           "value": "https://download.unity3d.com/download_unity/fef62e97e63b/UnitySetup-2019.1.1f1"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
-        }
-      ]
-    }
-  },
-  {
-    "version_code": "Unity 2019.1.0",
-    "version_build_date": "April 15, 2019",
-    "unity_hub_url": "unityhub://2019.1.0f2/292b93d75a2c",
-    "platform": {
-      "win": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/UnityDownloadAssistant-2019.1.0f2.exe"
-        },
-        {
-          "key": "UnityEditor64-bit",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/Windows64EditorInstaller/UnitySetup64-2019.1.0f2.exe"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/builtin_shaders-2019.1.0f2.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/Unity-2019.1.0f2.torrent"
-        }
-      ],
-      "mac": [
-        {
-          "key": "UnityInstaller",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/UnityDownloadAssistant-2019.1.0f2.dmg"
-        },
-        {
-          "key": "UnityEditor(Intel)",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/MacEditorInstaller/Unity.pkg"
-        },
-        {
-          "key": "Builtinshaders",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/builtin_shaders-2019.1.0f2.zip"
-        },
-        {
-          "key": "UnityAccelerator",
-          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/Unity-2019.1.0f2.torrent"
-        }
-      ],
-      "linux": [
-        {
-          "key": "UnityEditor",
-          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/UnitySetup-2019.1.0f2"
         },
         {
           "key": "UnityAccelerator",
@@ -5937,10 +5108,6 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5c52223b18d4/Unity-2019.1.0f1.torrent"
         }
       ],
       "mac": [
@@ -5959,16 +5126,65 @@
         {
           "key": "UnityAccelerator",
           "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
-        },
-        {
-          "key": "Torrentdownload(Win+Mac)",
-          "value": "https://download.unity3d.com/download_unity/5c52223b18d4/Unity-2019.1.0f1.torrent"
         }
       ],
       "linux": [
         {
           "key": "UnityEditor",
           "value": "https://download.unity3d.com/download_unity/5c52223b18d4/UnitySetup-2019.1.0f1"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=linux&download_location=lts-releases"
+        }
+      ]
+    }
+  },
+  {
+    "version_code": "Unity 2019.1.0",
+    "version_build_date": "April 15, 2019",
+    "unity_hub_url": "unityhub://2019.1.0f2/292b93d75a2c",
+    "platform": {
+      "win": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/UnityDownloadAssistant-2019.1.0f2.exe"
+        },
+        {
+          "key": "UnityEditor64-bit",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/Windows64EditorInstaller/UnitySetup64-2019.1.0f2.exe"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/builtin_shaders-2019.1.0f2.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=windows&download_location=lts-releases"
+        }
+      ],
+      "mac": [
+        {
+          "key": "UnityInstaller",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/UnityDownloadAssistant-2019.1.0f2.dmg"
+        },
+        {
+          "key": "UnityEditor(Intel)",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/MacEditorInstaller/Unity.pkg"
+        },
+        {
+          "key": "Builtinshaders",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/builtin_shaders-2019.1.0f2.zip"
+        },
+        {
+          "key": "UnityAccelerator",
+          "value": "https://accelerator.cloud.unity3d.com/api/v1/accelerator/download/installer?target_os=darwin&download_location=lts-releases"
+        }
+      ],
+      "linux": [
+        {
+          "key": "UnityEditor",
+          "value": "https://download.unity3d.com/download_unity/292b93d75a2c/UnitySetup-2019.1.0f2"
         },
         {
           "key": "UnityAccelerator",
