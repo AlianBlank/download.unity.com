@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 def generate(_dict):
     result = []
     line = ['', "\n# Unity Version :" + _dict['version_code'], "\tPublish Date :" + _dict['version_build_date'],
-            "\n> Unity Hub :" + _dict['unity_hub_url'], '\n\n']
+            "\n> Unity Hub : " + _dict['unity_hub_url'], '\n\n']
     # for big_version_key, big_version_value in _dict.items():
     # for version_value in _dict.items():
     platform = _dict['platform']
@@ -35,6 +35,7 @@ def decode(text):
     soup = BeautifulSoup(text, "html.parser")
 
     for version in [
+        "download-archive-6000",
         "download-archive-2023",
         "download-archive-2022",
         "download-archive-2021",

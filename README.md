@@ -30,6 +30,8 @@
 
 # `下面对应下载版本.点击链接后使用 `CTRL+F` 搜索`
 
+## [Unity 6000.X](download-archive-6000.md)
+
 ## [Unity 2023.X](download-archive-2023.md)
 
 ## [Unity 2022.X](download-archive-2022.md)
