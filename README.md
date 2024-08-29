@@ -2,6 +2,10 @@
 ## 为什么创建该仓库？
 > https://unity3d.com/get-unity/download/archive 重定向到=> https://unity.com/releases/editor/archive    404  
 
+## 为什么没有7月中旬之后的新版本
+
+`因为我没有空适配最新的下载页面`.如果有人对VuePress 生成的页面抓取有经验的可以告诉我.怎么能快速抓取内容
+
 ## UnityHub Download 
 
 > Windows: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
