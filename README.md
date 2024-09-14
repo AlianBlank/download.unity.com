@@ -40,15 +40,21 @@
 
 # 新版本内容(旧版本的请查看下面的存档)
 
-## [download-6000.md](download-6000.md)
+## [download-6000.x](download-6000.md)
 
-## [download-2023.md](download-2023.md)
+## [download-2023.x](download-2023.md)
 
-## [download-2022.md](download-2022.md)
+## [download-2022.x](download-2022.md)
 
-## [download-2021.md](download-2021.md)
+## [download-2021.x](download-2021.md)
 
-## [download-2020.md](download-2020.md)
+## [download-2020.x](download-2020.md)
+
+## [download-2019.x](download-2019.md)
+
+## [download-2018.x](download-2018.md)
+
+## [download-2017.x](download-2017.md)
 
 # 网站改版之前的存档
 
