@@ -1,10 +1,5 @@
 import json
 import time
-import demjson3
-import ssl
-import urllib.request
-import requests
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.common import NoSuchElementException
 from selenium.webdriver.edge.service import Service
@@ -19,6 +14,7 @@ service = Service(executable_path=edge_driver_path)
 
 # 设置Selenium浏览器选项
 options = webdriver.EdgeOptions()
+options.add_argument('--incognito')
 options.use_chromium = True  # 指定使用Chromium内核的Edge
 # options.headless = True  # 无头模式，不显示浏览器窗口
 driver = webdriver.Edge(service=service, options=options)
