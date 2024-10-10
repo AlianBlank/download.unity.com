@@ -4,6 +4,10 @@
 
 > https://unity3d.com/get-unity/download/archive 重定向到=> https://unity.com/releases/editor/archive    404
 
+## 其他项目推荐
+
+[GameFrameX](https://github.com/GameFrameX) 是一套全面的集成式游戏开发框架，提供了从前端到后端的完整解决方案.非常适合于`独立游戏开发者`和`中小型游戏项目`
+
 ## UnityHub Download
 
 > Windows: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe
