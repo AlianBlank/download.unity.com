@@ -20,15 +20,11 @@
 
 ## 如何下载?
 
-由于文件上传大小有限制,所以为压缩包分片.请将对应文件夹版本中的所有文件下载完成后解压即可
+### [百度网盘下载地址](https://pan.baidu.com/s/13m1jSl-7qt_u1DajdQbLXg?pwd=6666)
 
-### [UnityHub Windows 下载地址](UnityHub/Win)
+### [123盘主下载地址](https://www.123684.com/s/Ta52jv-ZBucv?提取码:6666)
 
-### [UnityHub Ubuntu 下载地址](UnityHub/Ubuntu)
-
-### [UnityHub Mac 下载地址](UnityHub/Mac)
-
-### [UnityHub CN_Hub 下载地址](UnityHub/CN_Hub)
+### [123盘备下载地址](https://www.123865.com/s/Ta52jv-ZBucv?提取码:6666)
 
 # 如何`和谐Unity` 且`不需要登录账号` ?
 
