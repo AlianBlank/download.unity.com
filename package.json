@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@types/node": "^22.13.9",
+    "@vicons/ionicons5": "^0.13.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vueuse/components": "^12.7.0",
+    "@vueuse/core": "^12.7.0",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.9.5",
+    "naive-ui": "^2.41.0",
+    "pinia": "^3.0.1",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vue-tsc": "^2.2.8"
+  }
+}
