@@ -1,4 +1,5 @@
 import json
+import os
 import time
 from selenium import webdriver
 from selenium.common import NoSuchElementException
@@ -20,10 +21,20 @@ options.use_chromium = True  # 指定使用Chromium内核的Edge
 driver = webdriver.Edge(service=service, options=options)
 
 
-def get_web_page(url):
-    driver.get(url)
-    time.sleep(3)
-    return driver.page_source
+def get_web_page(url, max_retries=5):
+    for attempt in range(max_retries):
+        try:
+            driver.get(url)
+            time.sleep(5)
+            return driver.page_source
+        except Exception as e:
+            print(f"第 {attempt + 1} 次尝试失败: {str(e)}")
+            if attempt < max_retries - 1:  # 如果不是最后一次尝试
+                print(f"等待 5 秒后重试...")
+                time.sleep(5)
+            else:
+                print(f"已达到最大重试次数 {max_retries}，获取页面失败")
+                raise  # 重新抛出异常
 
 
 def download_web():
@@ -52,62 +63,104 @@ def generate(_dict):
 
 
 def decode():
-    version_list = []
-    main_version_list_div = driver.find_element(By.CSS_SELECTOR, ".relative.flex.flex-wrap.justify-center.gap-2.p-2")
+    # 检查文件是否存在
+    try:
+        with open('version.json', 'r', encoding='utf-8') as f:
+            version_list = json.loads(f.read())
+            print("从缓存文件读取版本信息")
+            return version_list
+    except FileNotFoundError:
+        print("未找到缓存文件，开始从网页获取数据")
 
+    # 获取新的版本列表
+    new_version_list = []
+    main_version_list_div = driver.find_element(By.CSS_SELECTOR, ".relative.flex.flex-wrap.justify-center.gap-2.p-2")
     main_version_list_button = main_version_list_div.find_elements(By.TAG_NAME, "button")
+
+    # 读取现有的版本数据（如果存在）
+    existing_versions = {}
+    try:
+        with open('version.json', 'r', encoding='utf-8') as f:
+            existing_data = json.loads(f.read())
+            # 构建版本号映射
+            for main_ver in existing_data:
+                for ver in main_ver['version_list']:
+                    existing_versions[ver['version_code']] = ver
+    except FileNotFoundError:
+        existing_data = []
+
     for button_row in main_version_list_button:
         # 主版本列表
         main_version_list = []
         main_version_object = {"main": button_row.text, "version_list": main_version_list}
-        version_list.append(main_version_object)
+        new_version_list.append(main_version_object)
+
+        # 检查是否需要获取该版本的详细信息
         button_row.click()
-        time.sleep(1)
+        time.sleep(5)
+
         # 下方的分类按钮列表
-        main_version_list_class = driver.find_element(By.CSS_SELECTOR, ".flex.items-center.gap-2.rounded-3xl.bg-gray-200.p-2")
+        main_version_list_class = driver.find_element(By.CSS_SELECTOR,
+                                                      ".flex.items-center.gap-2.rounded-3xl.bg-gray-200.p-2")
         all_button = main_version_list_class.find_elements(By.TAG_NAME, "button")[0]
         all_button.click()
         time.sleep(1)
 
         main_content = driver.find_element(By.CSS_SELECTOR, ".relative.flex-1")
         main_section = main_content.find_element(By.TAG_NAME, 'section')
-        main_section_div = main_section.find_element(By.CSS_SELECTOR, '.hidden.min-w-full.rounded-md.bg-gray-100.align-middle')
+        main_section_div = main_section.find_element(By.CSS_SELECTOR,
+                                                     '.hidden.min-w-full.rounded-md.bg-gray-100.align-middle')
         main_section_tbody = main_section_div.find_element(By.TAG_NAME, "tbody")
         main_section_tr = main_section_tbody.find_elements(By.TAG_NAME, "tr")
+
         for tr in main_section_tr:
             td_list = tr.find_elements(By.TAG_NAME, "td")
+            version_code = td_list[0].text
+
+            # 检查版本是否已存在
+            if version_code in existing_versions:
+                main_version_list.append(existing_versions[version_code])
+                print(f"版本 {version_code} 已存在，跳过获取")
+                continue
+
+            # 获取新版本信息
             version_object = {}
             main_version_list.append(version_object)
             index = 0
             for td in td_list:
                 if index == 0:
-                    # 版本号
                     version_object['version_code'] = td.text
                 elif index == 1:
-                    # 发布时间
                     version_object['version_build_date'] = td.text
                 elif index == 2:
-                    # 发布日志
                     version_object['releases_link'] = td.find_element(By.TAG_NAME, "a").get_attribute('href')
                 elif index == 3:
-                    # unityHub 安装链接
                     version_object['unity_hub_url'] = td.find_element(By.TAG_NAME, "a").get_attribute('href')
                 elif index == 4:
-                    # 扩展 安装链接
                     version_object['install_link'] = td.find_element(By.TAG_NAME, "a").get_attribute('href')
                 index += 1
 
-    print(version_list)
+    print("版本信息获取完成，写入文件")
+    # 覆盖写入新的版本信息
+    with open('version.json', 'w', encoding='utf-8') as f:
+        json.dump(new_version_list, f, indent=2)
 
-    fo = open('version' + ".json", "w+", encoding="utf-8")
-    fo.write(json.dumps(version_list, indent=2))
-    # close file
-    fo.close()
-    return version_list
+    return new_version_list
 
 
 def run_extension(version, main_version):
+    # 检查并创建main_version目录
+    if not os.path.exists(main_version):
+        os.makedirs(main_version)
+
     install_link = version['install_link']
+    version_code = version['version_code']
+    version_json_path = os.path.join(main_version, f"{version_code}.json")
+    # 检查是否已经存在该版本的JSON文件
+    if os.path.exists(version_json_path):
+        print(f"版本 {version_code} 的JSON文件已存在，跳过获取")
+        with open(version_json_path, "r", encoding="utf-8") as fr:
+            return json.loads(fr.read())
     get_web_page(install_link)
     container = driver.find_element(By.CSS_SELECTOR, ".container.py-16")
     container_div = container.find_element(By.CSS_SELECTOR, ".top-16.col-span-12")
@@ -150,9 +203,8 @@ def run_extension(version, main_version):
                 data_list.append({'key': link.text, "value": link.get_attribute('href')})
 
     # 写入完整的版本信息到文件
-    fo = open(main_version + ".json", "a", encoding="utf-8")
-    fo.write(json.dumps(version, indent=2))
-    fo.close()
+    with open(version_json_path, "a", encoding="utf-8") as fw:
+        json.dump(version, fw, ensure_ascii=False, separators=(',', ':'))
     return version
 
 
