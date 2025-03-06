@@ -1,84 +1,49 @@
 <template>
   <el-card class="version-card">
     <div class="footer-buttons">
-        <el-text size="large">{{ version.version_code }}</el-text>
-      
-        <el-button
-          type="success"
-          @click="openUnityHub(version.unity_hub_url)"
-        >
-          <el-icon class="unity-hub-icon">
-            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-              <path fill="currentColor" d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 2.18l7 3.12v4.7c0 4.54-2.77 8.62-7 10-4.23-1.38-7-5.46-7-10V6.3l7-3.12z"/>
-            </svg>
-          </el-icon>
-          在 Unity Hub 中打开
-        </el-button>
+      <div style="display: flex; align-items: center; gap: 8px">
+        <el-tag v-if="version.code.includes('f')" type="success">LTS</el-tag>
+        <el-text size="large">{{ version.code }}</el-text>        
+      </div>
+      <el-text size="large"> </el-text>
+      <el-button type="success" @click="openUnityHub(version.hub)">
+        <el-icon class="unity-hub-icon">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" />
+          </svg>
+        </el-icon>
+        在 Unity Hub 中打开
+      </el-button>
 
-        <el-button
-          type="primary"
-          @click="showDownloads = !showDownloads"
-        >
-          <el-icon class="button-icon">
-            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-              <path fill="currentColor" d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
-            </svg>
-          </el-icon>
-          {{ showDownloads ? '收起扩展组件下载选项' : '展开扩展组件下载选项' }}
-        </el-button>
-        <el-tag type="info">{{ formattedDate }}</el-tag>
+      <el-button type="primary" @click="handleExpandClick">
+        <el-icon class="button-icon">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path fill="currentColor" d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" />
+          </svg>
+        </el-icon>
+        {{ showDownloads ? '收起扩展组件下载选项' : '展开扩展组件下载选项' }}
+      </el-button>
+      <el-text size="large"> </el-text>
+      <el-text size="large">发布时间: {{ version.date }}</el-text>
     </div>
     <el-divider />
-    <el-card v-show="showDownloads">         
+    <el-card v-show="showDownloads">
       <el-collapse-transition>
         <div>
-          <el-tabs type="card" lazy stretch v-model="activeTab">
-            <el-tab-pane label="Windows" name="windows">
-              <div class="download-buttons">
-                <el-button
-                  v-for="download in version.platform.win"
-                  :key="download.key"
-                  type="primary"
-                  plain
-                  @click="openDownload(download.value)"
-                  class="download-button"
-                >
+          <el-tabs type="card" lazy stretch v-model="activeTab" v-if="version.component">
+            <el-tab-pane v-for="(component, key) in version.component" :key="component.key" :label="`${component.key}`"
+              :name="component.key">
+              <el-space fill wrap alignment="flex-start" style="width: 100%">
+                <el-button v-for="download in component.list" :key="download.key" type="primary" plain
+                  class="download-link-item" @click="openDownload(download.value)">
                   {{ download.key }}
                 </el-button>
-              </div>
+              </el-space>
             </el-tab-pane>
-            
-            <el-tab-pane label="macOS" name="mac">
-              <div class="download-buttons">
-                <el-button
-                  v-for="download in version.platform.mac"
-                  :key="download.key"
-                  type="primary"
-                  plain
-                  @click="openDownload(download.value)"
-                  class="download-button"
-                >
-                  {{ download.key }}
-                </el-button>
-              </div>
-            </el-tab-pane>
-            
-            <el-tab-pane label="Linux" name="linux">
-              <div class="download-buttons">
-                <el-button
-                  v-for="download in version.platform.linux"
-                  :key="download.key"
-                  type="primary"
-                  plain
-                  @click="openDownload(download.value)"
-                  class="download-button"
-                >
-                  {{ download.key }}
-                </el-button>
-              </div>
-            </el-tab-pane>
-
           </el-tabs>
+          <div v-else class="loading-state">
+            <el-skeleton :rows="3" animated />
+          </div>
         </div>
       </el-collapse-transition>
     </el-card>
@@ -88,20 +53,34 @@
 <script setup lang="ts">
 import { UnityVersion } from '../stores/versions'
 import { ref, computed } from 'vue'
-import { ArrowDown, ArrowUp } from '@element-plus/icons-vue'
+import { useVersionStore } from '../stores/versions'
 
 const props = defineProps<{
   version: UnityVersion
 }>()
 
-const activeTab = ref('windows') // 设置默认选中的标签页
-
-const formattedDate = computed(() => {
-  const date = new Date(props.version.version_build_date)
-  return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`
-})
-
+const versionStore = useVersionStore()
+const activeTab = ref('windows')
 const showDownloads = ref(false)
+const isLoading = ref(false)
+
+const handleExpandClick = async () => {
+  if (!showDownloads.value) {
+    isLoading.value = true
+    try {
+      await versionStore.updateVersionPlatform(props.version)
+      if (props.version.component && props.version.component.length > 0) {
+        const component = props.version.component[0]
+        activeTab.value = component.key
+      }
+    } catch (error) {
+      console.error('Failed to load platform data:', error)
+    } finally {
+      isLoading.value = false
+    }
+  }
+  showDownloads.value = !showDownloads.value
+}
 
 const openDownload = (url: string) => {
   window.open(url, '_blank')
@@ -113,17 +92,18 @@ const openUnityHub = (url: string) => {
 </script>
 
 <style scoped>
+.download-link-item {
+  display: block;
+  gap: 8px;
+  width: 100%;
+}
+
 .download-buttons {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
 }
 
-.download-button {
-  width: 100%;
-  max-width: 400px;
-  margin-bottom: 8px;
-}
 .version-card {
   margin-bottom: 16px;
 }
@@ -164,5 +144,9 @@ const openUnityHub = (url: string) => {
 
 :deep(.el-card__footer) {
   text-align: center;
+}
+
+.loading-state {
+  padding: 20px;
 }
 </style>
