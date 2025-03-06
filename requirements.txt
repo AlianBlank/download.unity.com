@@ -3,3 +3,4 @@
 requests
 lxml
 bs4
+selenium==4.29.0
